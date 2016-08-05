@@ -1,0 +1,51 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "josephwb", 
+"name": "Joseph W. Brown"
+}, 
+"date_created": "2016-08-05T15:00:18.936Z", 
+"id": "additions-5861453-5861453", 
+"new_ottids_required": 1, 
+"study_id": "ot_172", 
+"taxa": [
+{
+"adjusted_label": "Certhia hodgsoni hodgsoni", 
+"comment": "Original publication is \"W. E. Brooks, 1871\", but I cannot track down exactly what that is.", 
+"name": "Certhia hodgsoni hodgsoni", 
+"name_derivation": "No change to original label", 
+"original_label": "Certhia hodgsoni hodgsoni", 
+"ott_id": 5861453, 
+"parent": 856525, 
+"rank": "subspecies", 
+"sources": [
+{
+"source": "http://www.worldbirdnames.org/bow/nuthatch/", 
+"source_type": "Link to online taxonomy"
+}, 
+{
+"source": "http://avibase.bsc-eoc.org/species.jsp?lang=EN&avibaseid=BFFD80C6DB359DF4", 
+"source_type": "Link to online taxonomy"
+}, 
+{
+"source": "http://www.gbif.org/species/7688301", 
+"source_type": "Link to online taxonomy"
+}, 
+{
+"source": "http://eol.org/pages/38574969/overview", 
+"source_type": "Link to online taxonomy"
+}, 
+{
+"source": "http://www.catalogueoflife.org/col/search/all/key/Certhia+hodgsoni+hodgsoni", 
+"source_type": "Link to online taxonomy"
+}, 
+{
+"source": "http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=923414", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu6"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
