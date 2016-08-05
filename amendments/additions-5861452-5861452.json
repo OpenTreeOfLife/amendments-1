@@ -1,0 +1,35 @@
+{
+"curator": {
+"email": "karen.cranston@gmail.com", 
+"login": "kcranston", 
+"name": "Karen Cranston"
+}, 
+"date_created": "2016-08-05T14:56:46.565Z", 
+"id": "additions-5861452-5861452", 
+"new_ottids_required": 1, 
+"study_id": "ot_520", 
+"taxa": [
+{
+"adjusted_label": "Symposiachrus rubiensis", 
+"comment": "", 
+"name": "Symposiachrus rubiensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Symposiachrus rubiensis", 
+"ott_id": 5861452, 
+"parent": 4947769, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://avibase.bsc-eoc.org/species.jsp?avibaseid=9215DC4C71BEC09B", 
+"source_type": "Link to online taxonomy"
+}, 
+{
+"source": "http://www.gbif.org/species/8199051", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu186"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
