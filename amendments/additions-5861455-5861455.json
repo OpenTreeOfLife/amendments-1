@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "david.maddison@science.oregonstate.edu", 
+"login": "DMaddison", 
+"name": "David Maddison"
+}, 
+"date_created": "2016-08-16T16:37:27.897Z", 
+"id": "additions-5861455-5861455", 
+"new_ottids_required": 1, 
+"study_id": "ot_762", 
+"taxa": [
+{
+"adjusted_label": "Bembidion", 
+"comment": "Is a subspecies", 
+"name": "Bembidion callosum subconnexum", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Bembidion callosum", 
+"ott_id": 5861455, 
+"parent": 5861454, 
+"rank": "subspecies", 
+"sources": [
+{
+"source": "http://www.catalogueoflife.org/col/details/species/id/01413b7e7cdd4bd2122064b0544bd5bf", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu237"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
