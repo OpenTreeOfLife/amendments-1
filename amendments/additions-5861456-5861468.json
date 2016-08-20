@@ -1,0 +1,235 @@
+{
+"curator": {
+"email": "nico.franz@asu.edu", 
+"login": "nfranz", 
+"name": "Nico Franz"
+}, 
+"date_created": "2016-08-20T04:16:28.651Z", 
+"id": "additions-5861456-5861468", 
+"new_ottids_required": 13, 
+"study_id": "ot_765", 
+"taxa": [
+{
+"adjusted_label": "Isodacrys buchanani", 
+"comment": "", 
+"name": "Isodacrys buchanani", 
+"name_derivation": "No change to original label", 
+"original_label": "Isodacrys buchanani", 
+"ott_id": 5861456, 
+"parent": 4608412, 
+"rank": "species", 
+"sources": [
+{
+"source": "10.3897/zookeys.528.6001", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu1"
+}, 
+{
+"adjusted_label": "Minyomerus cracens", 
+"comment": "", 
+"name": "Minyomerus cracens", 
+"name_derivation": "No change to original label", 
+"original_label": "Minyomerus cracens", 
+"ott_id": 5861457, 
+"parent": 4611927, 
+"rank": "species", 
+"sources": [
+{
+"source": "10.3897/zookeys.528.6001", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu10"
+}, 
+{
+"adjusted_label": "Minyomerus caseyi", 
+"comment": "", 
+"name": "Minyomerus caseyi", 
+"name_derivation": "No change to original label", 
+"original_label": "Minyomerus caseyi", 
+"ott_id": 5861458, 
+"parent": 4611927, 
+"rank": "species", 
+"sources": [
+{
+"source": "10.3897/zookeys.528.6001", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu11"
+}, 
+{
+"adjusted_label": "Minyomerus trisetosus", 
+"comment": "", 
+"name": "Minyomerus trisetosus", 
+"name_derivation": "No change to original label", 
+"original_label": "Minyomerus trisetosus", 
+"ott_id": 5861459, 
+"parent": 4611927, 
+"rank": "species", 
+"sources": [
+{
+"source": "10.3897/zookeys.528.6001", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu12"
+}, 
+{
+"adjusted_label": "Minyomerus puticulatus", 
+"comment": "", 
+"name": "Minyomerus puticulatus", 
+"name_derivation": "No change to original label", 
+"original_label": "Minyomerus puticulatus", 
+"ott_id": 5861460, 
+"parent": 4611927, 
+"rank": "species", 
+"sources": [
+{
+"source": "10.3897/zookeys.528.6001", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu13"
+}, 
+{
+"adjusted_label": "Minyomerus bulbifrons", 
+"comment": "", 
+"name": "Minyomerus bulbifrons", 
+"name_derivation": "No change to original label", 
+"original_label": "Minyomerus bulbifrons", 
+"ott_id": 5861461, 
+"parent": 4611927, 
+"rank": "species", 
+"sources": [
+{
+"source": "10.3897/zookeys.528.6001", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu14"
+}, 
+{
+"adjusted_label": "Minyomerus politus", 
+"comment": "", 
+"name": "Minyomerus politus", 
+"name_derivation": "No change to original label", 
+"original_label": "Minyomerus politus", 
+"ott_id": 5861462, 
+"parent": 4611927, 
+"rank": "species", 
+"sources": [
+{
+"source": "10.3897/zookeys.528.6001", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu15"
+}, 
+{
+"adjusted_label": "Minyomerus gravivultus", 
+"comment": "", 
+"name": "Minyomerus gravivultus", 
+"name_derivation": "No change to original label", 
+"original_label": "Minyomerus gravivultus", 
+"ott_id": 5861463, 
+"parent": 4611927, 
+"rank": "species", 
+"sources": [
+{
+"source": "10.3897/zookeys.528.6001", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu16"
+}, 
+{
+"adjusted_label": "Minyomerus griseus", 
+"comment": "", 
+"name": "Minyomerus griseus", 
+"name_derivation": "No change to original label", 
+"original_label": "Minyomerus griseus", 
+"ott_id": 5861464, 
+"parent": 4611927, 
+"rank": "species", 
+"sources": [
+{
+"source": "10.3897/zookeys.528.6001", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu17"
+}, 
+{
+"adjusted_label": "Minyomerus rutellirostris", 
+"comment": "", 
+"name": "Minyomerus rutellirostris", 
+"name_derivation": "No change to original label", 
+"original_label": "Minyomerus rutellirostris", 
+"ott_id": 5861465, 
+"parent": 4611927, 
+"rank": "species", 
+"sources": [
+{
+"source": "10.3897/zookeys.528.6001", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu18"
+}, 
+{
+"adjusted_label": "Minyomerus imberbus", 
+"comment": "", 
+"name": "Minyomerus imberbus", 
+"name_derivation": "No change to original label", 
+"original_label": "Minyomerus imberbus", 
+"ott_id": 5861466, 
+"parent": 4611927, 
+"rank": "species", 
+"sources": [
+{
+"source": "10.3897/zookeys.528.6001", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu2"
+}, 
+{
+"adjusted_label": "Minyomerus aeriballux", 
+"comment": "", 
+"name": "Minyomerus aeriballux", 
+"name_derivation": "No change to original label", 
+"original_label": "Minyomerus aeriballux", 
+"ott_id": 5861467, 
+"parent": 4611927, 
+"rank": "species", 
+"sources": [
+{
+"source": "10.3897/zookeys.528.6001", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu8"
+}, 
+{
+"adjusted_label": "Minyomerus reburrus", 
+"comment": "", 
+"name": "Minyomerus reburrus", 
+"name_derivation": "No change to original label", 
+"original_label": "Minyomerus reburrus", 
+"ott_id": 5861468, 
+"parent": 4611927, 
+"rank": "species", 
+"sources": [
+{
+"source": "10.3897/zookeys.528.6001", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu9"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
