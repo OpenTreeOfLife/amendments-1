@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "mtholder@gmail.com", 
+"login": "mtholder", 
+"name": "Mark T. Holder"
+}, 
+"date_created": "2016-10-11T10:13:23.396Z", 
+"id": "additions-5991469-5991470", 
+"new_ottids_required": 2, 
+"study_id": "ot_891", 
+"taxa": [
+{
+"adjusted_label": "Geospiza acutirostris", 
+"comment": "Link summarizes case for splitting G. difficilis and G. conirostris much of which relies on this study", 
+"name": "Geospiza acutirostris", 
+"name_derivation": "Removing extraneous characters", 
+"original_label": "Geospiza acutirostris G", 
+"ott_id": 5991469, 
+"parent": 589948, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.museum.lsu.edu/~Remsen/SACCprop676.htm", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu19"
+}, 
+{
+"adjusted_label": "Geospiza propinqua", 
+"comment": "", 
+"name": "Geospiza propinqua", 
+"name_derivation": "Removing extraneous characters", 
+"original_label": "Geospiza propinqua G", 
+"ott_id": 5991470, 
+"parent": 589948, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.museum.lsu.edu/~Remsen/SACCprop676.htm", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu21"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
