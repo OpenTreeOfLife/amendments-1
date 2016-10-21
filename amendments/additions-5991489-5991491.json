@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "marymegandaly", 
+"name": "marymegandaly"
+}, 
+"date_created": "2016-10-21T15:42:03.551Z", 
+"id": "additions-5991489-5991491", 
+"new_ottids_required": 3, 
+"study_id": "ot_729", 
+"taxa": [
+{
+"adjusted_label": "Aulactinia sp.", 
+"comment": "Changed label to add information\n", 
+"name": "Aulactinia sp. Larson 7", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Aulactinia sp. P7", 
+"ott_id": 5991489, 
+"parent": 419294, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "Tl2023075"
+}, 
+{
+"adjusted_label": "Aulactinia sp.", 
+"comment": "added information to disambiguate", 
+"name": "Aulactinia sp. Larson7b", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Aulactinia sp. P7b", 
+"ott_id": 5991490, 
+"parent": 419294, 
+"rank": "species", 
+"sources": [
+{
+"source": "", 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "Tl2023080"
+}, 
+{
+"adjusted_label": "Aulactina marplatensis", 
+"comment": "", 
+"name": "Aulactina marplatensis", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Aulactina marplatensis AMAR", 
+"ott_id": 5991491, 
+"parent": 419294, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=855372", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "Tl2023085"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
