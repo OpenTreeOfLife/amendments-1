@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "marymegandaly", 
+"name": "marymegandaly"
+}, 
+"date_created": "2016-10-22T15:06:00.690Z", 
+"id": "additions-5991515-5991516", 
+"new_ottids_required": 2, 
+"study_id": "ot_985", 
+"taxa": [
+{
+"adjusted_label": "Pachycerianthus sp  ES", 
+"comment": "", 
+"name": "Pachycerianthus sp  ES", 
+"name_derivation": "No change to original label", 
+"original_label": "Pachycerianthus sp  ES", 
+"ott_id": 5991515, 
+"parent": 985075, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu38"
+}, 
+{
+"adjusted_label": "Pachycerianthus sp  Indonesia", 
+"comment": "", 
+"name": "Pachycerianthus sp  Indonesia", 
+"name_derivation": "No change to original label", 
+"original_label": "Pachycerianthus sp  Indonesia", 
+"ott_id": 5991516, 
+"parent": 985075, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu43"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
