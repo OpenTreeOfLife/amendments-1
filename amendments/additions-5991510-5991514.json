@@ -1,0 +1,99 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "marymegandaly", 
+"name": "marymegandaly"
+}, 
+"date_created": "2016-10-22T14:42:19.468Z", 
+"id": "additions-5991510-5991514", 
+"new_ottids_required": 5, 
+"study_id": "ot_930", 
+"taxa": [
+{
+"adjusted_label": "Stichopathes cf. flagellum", 
+"comment": "nexus file had lab codes", 
+"name": "Stichopathes cf. flagellum", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Stifla", 
+"ott_id": 5991510, 
+"parent": 655907, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu121"
+}, 
+{
+"adjusted_label": "Stichopathes cf. dissimilis", 
+"comment": "nexus file lad lab codes", 
+"name": "Stichopathes cf. dissimilis", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Stidis", 
+"ott_id": 5991511, 
+"parent": 655907, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu123"
+}, 
+{
+"adjusted_label": "Stauropathes cf. punctata", 
+"comment": "Nexus file had lab codes", 
+"name": "Stauropathes cf. punctata", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Stapu", 
+"ott_id": 5991512, 
+"parent": 713822, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu128"
+}, 
+{
+"adjusted_label": "Parantipathes cf. hirondelle", 
+"comment": "Nexus file had lab codes", 
+"name": "Parantipathes cf. hirondelle", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Parsp", 
+"ott_id": 5991513, 
+"parent": 834588, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu129"
+}, 
+{
+"adjusted_label": "Isoparactis fabiani", 
+"comment": "Nexus file had lab code", 
+"name": "Isoparactis fabiani", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "zsm", 
+"ott_id": 5991514, 
+"parent": 3674599, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=854419", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu8"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
