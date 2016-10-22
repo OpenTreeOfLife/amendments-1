@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "mndawson", 
+"name": "mndawson"
+}, 
+"date_created": "2016-10-22T21:49:29.809Z", 
+"id": "additions-5991517-5991517", 
+"new_ottids_required": 1, 
+"study_id": "ot_990", 
+"taxa": [
+{
+"adjusted_label": "Limbata", 
+"comment": "Diagnosed as a new taxon by Dawson et al. (2005) - doi: 10.1073/pnas.0503811102", 
+"name": "Aurelia sp.10", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Limbata", 
+"ott_id": 5991517, 
+"parent": 404483, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1073/pnas.0503811102", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu1"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
