@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "bobthacker", 
+"name": "bobthacker"
+}, 
+"date_created": "2016-10-23T16:17:44.952Z", 
+"id": "additions-5991527-5991527", 
+"new_ottids_required": 1, 
+"study_id": "ot_993", 
+"taxa": [
+{
+"adjusted_label": "Methanococcus aeolicus Nankai 3", 
+"comment": "", 
+"name": "Methanococcus aeolicus Nankai 3", 
+"name_derivation": "Removing extraneous characters", 
+"original_label": "Methanococcus.aeolicus.Nankai-3", 
+"ott_id": 5991527, 
+"parent": 1046390, 
+"rank": "no rank", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu28"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
