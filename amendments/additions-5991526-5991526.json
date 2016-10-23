@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "mndawson", 
+"name": "mndawson"
+}, 
+"date_created": "2016-10-23T05:23:54.441Z", 
+"id": "additions-5991526-5991526", 
+"new_ottids_required": 1, 
+"study_id": "ot_990", 
+"taxa": [
+{
+"adjusted_label": "Aurelia sp.7", 
+"comment": "Diagnosed as new taxon by Dawson et al. (2005) - doi: 10.1073/pnas.0503811102", 
+"name": "Aurelia sp.7", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "ANZ2", 
+"ott_id": 5991526, 
+"parent": 404483, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1073/pnas.0503811102", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu37"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
