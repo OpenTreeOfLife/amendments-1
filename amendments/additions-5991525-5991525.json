@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "mndawson", 
+"name": "mndawson"
+}, 
+"date_created": "2016-10-23T05:23:03.068Z", 
+"id": "additions-5991525-5991525", 
+"new_ottids_required": 1, 
+"study_id": "ot_990", 
+"taxa": [
+{
+"adjusted_label": "Aurelia sp.8", 
+"comment": "Diagnosed as new taxon by Dawson et al. (2005) - doi: 10.1073/pnas.0503811102", 
+"name": "Aurelia sp.8", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Aurelia BayofSton1", 
+"ott_id": 5991525, 
+"parent": 404483, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1073/pnas.0503811102", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu13"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
