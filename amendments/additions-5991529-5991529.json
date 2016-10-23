@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "bobthacker", 
+"name": "bobthacker"
+}, 
+"date_created": "2016-10-23T16:43:58.322Z", 
+"id": "additions-5991529-5991529", 
+"new_ottids_required": 1, 
+"study_id": "ot_993", 
+"taxa": [
+{
+"adjusted_label": "Methanospirillum hungatei JF-1", 
+"comment": "", 
+"name": "Methanospirillum hungatei JF-1", 
+"name_derivation": "Removing extraneous characters", 
+"original_label": "Methanospirillum.hungatei.JF-1", 
+"ott_id": 5991529, 
+"parent": 993152, 
+"rank": "no rank", 
+"sources": [
+{
+"source": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=323259&lvl=3&lin=f&keep=1&srchmode=1&unlock", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu43"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
