@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "L-Leclere", 
+"name": "L-Leclere"
+}, 
+"date_created": "2016-10-28T13:26:09.155Z", 
+"id": "additions-5991532-5991532", 
+"new_ottids_required": 1, 
+"study_id": "ot_964", 
+"taxa": [
+{
+"adjusted_label": "Lepidopora unicaulis", 
+"comment": "", 
+"name": "Lepidopora unicaulis", 
+"name_derivation": "No change to original label", 
+"original_label": "Lepidopora unicaulis", 
+"ott_id": 5991532, 
+"parent": 456804, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=856268", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu19"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
