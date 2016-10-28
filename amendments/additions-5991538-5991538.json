@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "L-Leclere", 
+"name": "L-Leclere"
+}, 
+"date_created": "2016-10-28T13:51:33.602Z", 
+"id": "additions-5991538-5991538", 
+"new_ottids_required": 1, 
+"study_id": "ot_964", 
+"taxa": [
+{
+"adjusted_label": "Stylaster obtusus", 
+"comment": "", 
+"name": "Stylaster obtusus", 
+"name_derivation": "No change to original label", 
+"original_label": "Stylaster obtusus", 
+"ott_id": 5991538, 
+"parent": 752158, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=856311", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu58"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
