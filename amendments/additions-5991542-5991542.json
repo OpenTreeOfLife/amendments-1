@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "L-Leclere", 
+"name": "L-Leclere"
+}, 
+"date_created": "2016-10-28T13:55:48.454Z", 
+"id": "additions-5991542-5991542", 
+"new_ottids_required": 1, 
+"study_id": "ot_964", 
+"taxa": [
+{
+"adjusted_label": "Crypthelia cassiculata", 
+"comment": "", 
+"name": "Crypthelia cassiculata", 
+"name_derivation": "No change to original label", 
+"original_label": "Crypthelia cassiculata", 
+"ott_id": 5991542, 
+"parent": 277617, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=856362", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu69"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
