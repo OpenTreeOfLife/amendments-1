@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "L-Leclere", 
+"name": "L-Leclere"
+}, 
+"date_created": "2016-10-28T13:33:27.197Z", 
+"id": "additions-5991535-5991535", 
+"new_ottids_required": 1, 
+"study_id": "ot_964", 
+"taxa": [
+{
+"adjusted_label": "Adelopora stichopora", 
+"comment": "", 
+"name": "Adelopora stichopora", 
+"name_derivation": "No change to original label", 
+"original_label": "Adelopora stichopora", 
+"ott_id": 5991535, 
+"parent": 805150, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=856276", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu33"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
