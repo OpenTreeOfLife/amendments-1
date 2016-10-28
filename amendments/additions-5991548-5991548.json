@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "L-Leclere", 
+"name": "L-Leclere"
+}, 
+"date_created": "2016-10-28T14:00:58.429Z", 
+"id": "additions-5991548-5991548", 
+"new_ottids_required": 1, 
+"study_id": "ot_964", 
+"taxa": [
+{
+"adjusted_label": "Conopora crassisepta", 
+"comment": "", 
+"name": "Conopora crassisepta", 
+"name_derivation": "No change to original label", 
+"original_label": "Conopora crassisepta", 
+"ott_id": 5991548, 
+"parent": 987726, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=856345", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu85"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
