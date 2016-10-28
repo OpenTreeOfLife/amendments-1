@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "L-Leclere", 
+"name": "L-Leclere"
+}, 
+"date_created": "2016-10-28T14:23:57.341Z", 
+"id": "additions-5991553-5991553", 
+"new_ottids_required": 1, 
+"study_id": "ot_964", 
+"taxa": [
+{
+"adjusted_label": "Leptohelia microstylus", 
+"comment": "", 
+"name": "Leptohelia microstylus", 
+"name_derivation": "No change to original label", 
+"original_label": "Leptohelia microstylus", 
+"ott_id": 5991553, 
+"parent": 5673056, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=856275", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu90"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
