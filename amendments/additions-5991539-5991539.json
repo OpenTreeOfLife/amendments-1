@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "L-Leclere", 
+"name": "L-Leclere"
+}, 
+"date_created": "2016-10-28T13:52:27.239Z", 
+"id": "additions-5991539-5991539", 
+"new_ottids_required": 1, 
+"study_id": "ot_964", 
+"taxa": [
+{
+"adjusted_label": "Stylaster fundatus", 
+"comment": "", 
+"name": "Stylaster fundatus", 
+"name_derivation": "No change to original label", 
+"original_label": "Stylaster fundatus", 
+"ott_id": 5991539, 
+"parent": 752158, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=856310", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu61"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
