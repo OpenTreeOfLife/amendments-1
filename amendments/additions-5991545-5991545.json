@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "L-Leclere", 
+"name": "L-Leclere"
+}, 
+"date_created": "2016-10-28T13:58:04.156Z", 
+"id": "additions-5991545-5991545", 
+"new_ottids_required": 1, 
+"study_id": "ot_964", 
+"taxa": [
+{
+"adjusted_label": "Crypthelia reticulata", 
+"comment": "", 
+"name": "Crypthelia reticulata", 
+"name_derivation": "No change to original label", 
+"original_label": "Crypthelia reticulata", 
+"ott_id": 5991545, 
+"parent": 277617, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=856369", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu74"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
