@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "L-Leclere", 
+"name": "L-Leclere"
+}, 
+"date_created": "2016-10-28T14:02:10.137Z", 
+"id": "additions-5991549-5991549", 
+"new_ottids_required": 1, 
+"study_id": "ot_964", 
+"taxa": [
+{
+"adjusted_label": "Crypthelia spiralis", 
+"comment": "", 
+"name": "Crypthelia spiralis", 
+"name_derivation": "No change to original label", 
+"original_label": "Crypthelia spiralis", 
+"ott_id": 5991549, 
+"parent": 277617, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=856364", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu86"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
