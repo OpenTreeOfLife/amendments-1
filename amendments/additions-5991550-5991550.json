@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "L-Leclere", 
+"name": "L-Leclere"
+}, 
+"date_created": "2016-10-28T14:02:59.332Z", 
+"id": "additions-5991550-5991550", 
+"new_ottids_required": 1, 
+"study_id": "ot_964", 
+"taxa": [
+{
+"adjusted_label": "Paraconopora anthohelia", 
+"comment": "", 
+"name": "Paraconopora anthohelia", 
+"name_derivation": "No change to original label", 
+"original_label": "Paraconopora anthohelia", 
+"ott_id": 5991550, 
+"parent": 3349432, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=856351", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu87"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
