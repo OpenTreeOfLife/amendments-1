@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "L-Leclere", 
+"name": "L-Leclere"
+}, 
+"date_created": "2016-10-28T13:29:04.329Z", 
+"id": "additions-5991533-5991533", 
+"new_ottids_required": 1, 
+"study_id": "ot_964", 
+"taxa": [
+{
+"adjusted_label": "Lepidopora polygonalis", 
+"comment": "", 
+"name": "Lepidopora polygonalis", 
+"name_derivation": "No change to original label", 
+"original_label": "Lepidopora polygonalis", 
+"ott_id": 5991533, 
+"parent": 456804, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=856270", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu20"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
