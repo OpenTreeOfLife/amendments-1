@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "L-Leclere", 
+"name": "L-Leclere"
+}, 
+"date_created": "2016-10-28T13:31:41.057Z", 
+"id": "additions-5991534-5991534", 
+"new_ottids_required": 1, 
+"study_id": "ot_964", 
+"taxa": [
+{
+"adjusted_label": "Stephanohelia crassa", 
+"comment": "", 
+"name": "Stephanohelia crassa", 
+"name_derivation": "No change to original label", 
+"original_label": "Stephanohelia crassa", 
+"ott_id": 5991534, 
+"parent": 752169, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=856302", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu26"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
