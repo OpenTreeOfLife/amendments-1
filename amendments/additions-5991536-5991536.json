@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "L-Leclere", 
+"name": "L-Leclere"
+}, 
+"date_created": "2016-10-28T13:34:17.139Z", 
+"id": "additions-5991536-5991536", 
+"new_ottids_required": 1, 
+"study_id": "ot_964", 
+"taxa": [
+{
+"adjusted_label": "Stylaster polystomos", 
+"comment": "", 
+"name": "Stylaster polystomos", 
+"name_derivation": "No change to original label", 
+"original_label": "Stylaster polystomos", 
+"ott_id": 5991536, 
+"parent": 752158, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=856309", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu36"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
