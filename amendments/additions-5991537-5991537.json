@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "L-Leclere", 
+"name": "L-Leclere"
+}, 
+"date_created": "2016-10-28T13:50:43.248Z", 
+"id": "additions-5991537-5991537", 
+"new_ottids_required": 1, 
+"study_id": "ot_964", 
+"taxa": [
+{
+"adjusted_label": "Stylaster biflabellum", 
+"comment": "", 
+"name": "Stylaster biflabellum", 
+"name_derivation": "No change to original label", 
+"original_label": "Stylaster biflabellum", 
+"ott_id": 5991537, 
+"parent": 752158, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=856305", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu54"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
