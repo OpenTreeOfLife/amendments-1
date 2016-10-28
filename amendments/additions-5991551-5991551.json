@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "L-Leclere", 
+"name": "L-Leclere"
+}, 
+"date_created": "2016-10-28T14:11:11.917Z", 
+"id": "additions-5991551-5991551", 
+"new_ottids_required": 1, 
+"study_id": "ot_964", 
+"taxa": [
+{
+"adjusted_label": "Paraconopora spinosa", 
+"comment": "Create the Stylasteridae genus \"Paraconopora\"", 
+"name": "Paraconopora", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Paraconopora spinosa", 
+"ott_id": 5991551, 
+"parent": 590280, 
+"rank": "genus", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=856350", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu88"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
