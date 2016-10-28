@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "L-Leclere", 
+"name": "L-Leclere"
+}, 
+"date_created": "2016-10-28T13:23:05.710Z", 
+"id": "additions-5991531-5991531", 
+"new_ottids_required": 1, 
+"study_id": "ot_964", 
+"taxa": [
+{
+"adjusted_label": "Lepidotheca splendens", 
+"comment": "", 
+"name": "Lepidotheca splendens", 
+"name_derivation": "No change to original label", 
+"original_label": "Lepidotheca splendens", 
+"ott_id": 5991531, 
+"parent": 126984, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=856292", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu17"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
