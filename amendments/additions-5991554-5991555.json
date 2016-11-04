@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "hdail.laughinghouse@gmail.com", 
+"login": "hdliv", 
+"name": "Dail Laughinghouse"
+}, 
+"date_created": "2016-11-04T14:43:47.406Z", 
+"id": "additions-5991554-5991555", 
+"new_ottids_required": 2, 
+"study_id": "ot_569", 
+"taxa": [
+{
+"adjusted_label": "Didymosphenia hullii", 
+"comment": "", 
+"name": "Didymosphenia hullii", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Didymosphenia hullii KJ160172", 
+"ott_id": 5991554, 
+"parent": 5655611, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "Tl2164711"
+}, 
+{
+"adjusted_label": "Didymosphenia siberica", 
+"comment": "", 
+"name": "Didymosphenia siberica", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Didymosphenia siberica KJ011637", 
+"ott_id": 5991555, 
+"parent": 5655611, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "Tl2164733"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
