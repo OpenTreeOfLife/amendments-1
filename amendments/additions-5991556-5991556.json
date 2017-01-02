@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mtholder@gmail.com", 
+"login": "mtholder", 
+"name": "Mark T. Holder"
+}, 
+"date_created": "2017-01-02T16:28:09.224Z", 
+"id": "additions-5991556-5991556", 
+"new_ottids_required": 1, 
+"study_id": "ot_1037", 
+"taxa": [
+{
+"adjusted_label": "Melanophidium khairei", 
+"comment": "", 
+"name": "Melanophidium khairei", 
+"name_derivation": "Removing extraneous characters", 
+"original_label": "Melanophidium khairei Melkh1", 
+"ott_id": 5991556, 
+"parent": 907414, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/zootaxa.4085.4.2", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu9"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
