@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mtholder@gmail.com", 
+"login": "mtholder", 
+"name": "Mark T. Holder"
+}, 
+"date_created": "2017-01-26T16:44:12.468Z", 
+"id": "additions-5991557-5991557", 
+"new_ottids_required": 1, 
+"study_id": "ot_1042", 
+"taxa": [
+{
+"adjusted_label": "Toxicocalamus ernstmayri", 
+"comment": "", 
+"name": "Toxicocalamus ernstmayri", 
+"name_derivation": "Removing extraneous characters", 
+"original_label": "R145946 Toxicocalamus ernstmayri", 
+"ott_id": 5991557, 
+"parent": 284925, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.3099/0027-4100-161.6.241", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu16"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
