@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "cdspecht@berkeley.edu", 
+"login": "cdspecht", 
+"name": "Chelsea Specht"
+}, 
+"date_created": "2017-05-06T21:47:42.994Z", 
+"id": "additions-6519864-6519864", 
+"new_ottids_required": 1, 
+"study_id": "ot_1062", 
+"taxa": [
+{
+"adjusted_label": "Heliconia tarumaensis", 
+"comment": "", 
+"name": "Heliconia tarumaensis", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "H tarumaensis Kress 913226", 
+"ott_id": 6519864, 
+"parent": 730916, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.ipni.org/ipni/idPlantNameSearch.do?id=119510-2&back_page=%2Fipni%2FeditAdvPlantNameSearch.do%3Ffind_infragenus%3D%26find_isAPNIRecord%3Dtrue%26find_geoUnit%3D%26find_includePublicationAuthors%3Dtrue%26find_addedSince%3D%26find_family%3D%26find_genus%3DHeliconia%26find_isGCIRecord%3Dtrue%26find_infrafamily%3D%26find_rankToReturn%3Dall%26find_publicationTitle%3D%26find_authorAbbrev%3D%26find_infraspecies%3D%26find_includeBasionymAuthors%3Dtrue%26find_modifiedSince%3D%26find_isIKRecord%3Dtrue%26find_species%3Dtarumaensis%26output_format%3Dnormal", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu42"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
