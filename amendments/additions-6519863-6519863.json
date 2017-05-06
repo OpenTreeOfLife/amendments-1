@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "cdspecht@berkeley.edu", 
+"login": "cdspecht", 
+"name": "Chelsea Specht"
+}, 
+"date_created": "2017-05-06T21:42:16.936Z", 
+"id": "additions-6519863-6519863", 
+"new_ottids_required": 1, 
+"study_id": "ot_1062", 
+"taxa": [
+{
+"adjusted_label": "Heliconia plowmania", 
+"comment": "", 
+"name": "Heliconia plowmania", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "H plowmania Kress 943677", 
+"ott_id": 6519863, 
+"parent": 730916, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.ipni.org/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu167"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
