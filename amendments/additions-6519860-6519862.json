@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "mlporter@hawaii.edu", 
+"login": "meganlinnay", 
+"name": "Megan Porter"
+}, 
+"date_created": "2017-05-06T17:28:32.347Z", 
+"id": "additions-6519860-6519862", 
+"new_ottids_required": 3, 
+"study_id": "ot_1101", 
+"taxa": [
+{
+"adjusted_label": "Speleonectes n.sp.2", 
+"comment": "two undescribed species included in molecular analyses", 
+"name": "Speleonectes n. sp. 2", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Speleonectes n.sp.2", 
+"ott_id": 6519860, 
+"parent": 874672, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu14"
+}, 
+{
+"adjusted_label": "Speleonectes n.sp.4", 
+"comment": "undescribed species included in molecular analyses", 
+"name": "Speleonectes n. sp. 4", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Speleonectes n.sp.4", 
+"ott_id": 6519861, 
+"parent": 874672, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu15"
+}, 
+{
+"adjusted_label": "Pleomothra n.sp.", 
+"comment": "undescribed species included in molecular analyses", 
+"name": "Pleomothra n. sp.", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Pleomothra n.sp.", 
+"ott_id": 6519862, 
+"parent": 874672, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu16"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
