@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mlporter@hawaii.edu", 
+"login": "meganlinnay", 
+"name": "Megan Porter"
+}, 
+"date_created": "2017-05-07T16:34:17.652Z", 
+"id": "additions-6519866-6519866", 
+"new_ottids_required": 1, 
+"study_id": "ot_1130", 
+"taxa": [
+{
+"adjusted_label": "Elthusa moritakii", 
+"comment": "described in December 2016 in an international journal of the Carcinological Society of Japan; sequence available for this species in recently (2017) published paper but not available yet on Genbank and doesn't show up on WoRMS yet.", 
+"name": "Elthusa moritakii", 
+"name_derivation": "No change to original label", 
+"original_label": "Elthusa moritakii", 
+"ott_id": 6519866, 
+"parent": 981551, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.asahi.com/ajw/articles/AJ201701230003.html", 
+"source_type": "Other"
+}
+], 
+"tag": "otu26"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
