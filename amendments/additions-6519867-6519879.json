@@ -1,0 +1,235 @@
+{
+"curator": {
+"email": "mlporter@hawaii.edu", 
+"login": "meganlinnay", 
+"name": "Megan Porter"
+}, 
+"date_created": "2017-05-07T17:00:15.821Z", 
+"id": "additions-6519867-6519879", 
+"new_ottids_required": 13, 
+"study_id": "ot_1130", 
+"taxa": [
+{
+"adjusted_label": "Lobothorax sp. 1 HH-2017", 
+"comment": "undescribed / unidentified species in recently published phylogeny paper but sequences aren't available on Genbank yet, but want to capture for estimates of 'dark species' in Pancrustacea.  Each species is appended with the first author initials and pub year (HH-2017)", 
+"name": "Lobothorax sp. 1 HH-2017", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Lobothorax sp. 1", 
+"ott_id": 6519867, 
+"parent": 981551, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1007/s00227-017-3138-5", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu11"
+}, 
+{
+"adjusted_label": "Cymothoidae gen. sp. HH-2017", 
+"comment": "undescribed / unidentified species in recently published phylogeny paper but sequences aren't available on Genbank yet, but want to capture for estimates of 'dark species' in Pancrustacea.  Each species is appended with the first author initials and pub year (HH-2017)", 
+"name": "Cymothoidae gen. sp. HH-2017", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Cymothoidae gen. sp.", 
+"ott_id": 6519868, 
+"parent": 981551, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1007/s00227-017-3138-5", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu12"
+}, 
+{
+"adjusted_label": "Ceratothoa sp. 3 HH-2017", 
+"comment": "undescribed / unidentified species in recently published phylogeny paper but sequences aren't available on Genbank yet, but want to capture for estimates of 'dark species' in Pancrustacea.  Each species is appended with the first author initials and pub year (HH-2017)", 
+"name": "Ceratothoa sp. 3 HH-2017", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Ceratothoa sp. 3", 
+"ott_id": 6519869, 
+"parent": 981551, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1007/s00227-017-3138-5", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu18"
+}, 
+{
+"adjusted_label": "Ceratothoa sp. 2 HH-2017", 
+"comment": "undescribed / unidentified species in recently published phylogeny paper but sequences aren't available on Genbank yet, but want to capture for estimates of 'dark species' in Pancrustacea.  Each species is appended with the first author initials and pub year (HH-2017)", 
+"name": "Ceratothoa sp. 2 HH-2017", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Ceratothoa sp. 2", 
+"ott_id": 6519870, 
+"parent": 981551, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1007/s00227-017-3138-5", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu20"
+}, 
+{
+"adjusted_label": "Ceratothoa sp. 1 HH-2017", 
+"comment": "undescribed / unidentified species in recently published phylogeny paper but sequences aren't available on Genbank yet, but want to capture for estimates of 'dark species' in Pancrustacea.  Each species is appended with the first author initials and pub year (HH-2017)", 
+"name": "Ceratothoa sp. 1 HH-2017", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Ceratothoa sp. 1", 
+"ott_id": 6519871, 
+"parent": 981551, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1007/s00227-017-3138-5", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu21"
+}, 
+{
+"adjusted_label": "Elthusa sp. 1 HH-2017", 
+"comment": "undescribed / unidentified species in recently published phylogeny paper but sequences aren't available on Genbank yet, but want to capture for estimates of 'dark species' in Pancrustacea.  Each species is appended with the first author initials and pub year (HH-2017)", 
+"name": "Elthusa sp. 1 HH-2017", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Elthusa sp. 1", 
+"ott_id": 6519872, 
+"parent": 981551, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1007/s00227-017-3138-5", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu26"
+}, 
+{
+"adjusted_label": "Elthusa sp. 2 HH-2017", 
+"comment": "undescribed / unidentified species in recently published phylogeny paper but sequences aren't available on Genbank yet, but want to capture for estimates of 'dark species' in Pancrustacea.  Each species is appended with the first author initials and pub year (HH-2017)", 
+"name": "Elthusa sp. 2 HH-2017", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Elthusa sp. 2", 
+"ott_id": 6519873, 
+"parent": 981551, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1007/s00227-017-3138-5", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu28"
+}, 
+{
+"adjusted_label": "Artystone sp. HH-2017", 
+"comment": "undescribed / unidentified species in recently published phylogeny paper but sequences aren't available on Genbank yet, but want to capture for estimates of 'dark species' in Pancrustacea.  Each species is appended with the first author initials and pub year (HH-2017)", 
+"name": "Artystone sp. HH-2017", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Artystone sp.", 
+"ott_id": 6519874, 
+"parent": 981551, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1007/s00227-017-3138-5", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu29"
+}, 
+{
+"adjusted_label": "Anilocra sp. 1 HH-2017", 
+"comment": "undescribed / unidentified species in recently published phylogeny paper but sequences aren't available on Genbank yet, but want to capture for estimates of 'dark species' in Pancrustacea.  Each species is appended with the first author initials and pub year (HH-2017)", 
+"name": "Anilocra sp. 1 HH-2017", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Anilocra sp. 1", 
+"ott_id": 6519875, 
+"parent": 981551, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1007/s00227-017-3138-5", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu3"
+}, 
+{
+"adjusted_label": "Aegidae gen sp Fistulariidae 362 HH-2017", 
+"comment": "undescribed / unidentified species in recently published phylogeny paper but sequences aren't available on Genbank yet, but want to capture for estimates of 'dark species' in Pancrustacea.  Each species is appended with the first author initials and pub year (HH-2017)", 
+"name": "Aegidae gen sp Fistulariidae 362 HH-2017", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Aegidae gen sp Fistulariidae 362", 
+"ott_id": 6519876, 
+"parent": 981551, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1007/s00227-017-3138-5", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu31"
+}, 
+{
+"adjusted_label": "Aegidae gen sp Centrolophidae 374 HH-2017", 
+"comment": "undescribed / unidentified species in recently published phylogeny paper but sequences aren't available on Genbank yet, but want to capture for estimates of 'dark species' in Pancrustacea.  Each species is appended with the first author initials and pub year (HH-2017)", 
+"name": "Aegidae gen sp Centrolophidae 374 HH-2017", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Aegidae gen sp Centrolophidae 374", 
+"ott_id": 6519877, 
+"parent": 981551, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1007/s00227-017-3138-5", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu32"
+}, 
+{
+"adjusted_label": "Cymodoce gen. sp. HH-2017", 
+"comment": "undescribed / unidentified species in recently published phylogeny paper but sequences aren't available on Genbank yet, but want to capture for estimates of 'dark species' in Pancrustacea.  Each species is appended with the first author initials and pub year (HH-2017)", 
+"name": "Cymodoce gen. sp. HH-2017", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Cymodoce gen. sp.", 
+"ott_id": 6519878, 
+"parent": 981551, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1007/s00227-017-3138-5", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu34"
+}, 
+{
+"adjusted_label": "Nerocila sp. 1 HH-2017", 
+"comment": "undescribed / unidentified species in recently published phylogeny paper but sequences aren't available on Genbank yet, but want to capture for estimates of 'dark species' in Pancrustacea.  Each species is appended with the first author initials and pub year (HH-2017)", 
+"name": "Nerocila sp. 1 HH-2017", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Nerocila sp. 1", 
+"ott_id": 6519879, 
+"parent": 981551, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1007/s00227-017-3138-5", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu5"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
