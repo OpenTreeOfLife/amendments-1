@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "mpnelsen", 
+"name": "mpnelsen"
+}, 
+"date_created": "2017-05-07T17:52:54.891Z", 
+"id": "additions-6519883-6519885", 
+"new_ottids_required": 3, 
+"study_id": "ot_1107", 
+"taxa": [
+{
+"adjusted_label": "Phomatospora biseriata", 
+"comment": "", 
+"name": "Phomatospora biseriata", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Phomatospora biseriata MFLUCC 14-0832a", 
+"ott_id": 6519883, 
+"parent": 850651, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.5943/mycosphere/7/5/8", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2580089"
+}, 
+{
+"adjusted_label": "Phomatospora viticola", 
+"comment": "", 
+"name": "Phomatospora viticola", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Phomatospora viticola_MFLU_16_1973", 
+"ott_id": 6519884, 
+"parent": 850651, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.5943/mycosphere/7/5/8", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2580096"
+}, 
+{
+"adjusted_label": "Pseudoproboscispora caudae-suis", 
+"comment": "", 
+"name": "Pseudoproboscispora caudae-suis", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Pseudoproboscispora caudaesuis A336 2D", 
+"ott_id": 6519885, 
+"parent": 89987, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.5943/mycosphere/7/5/8", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2580124"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
