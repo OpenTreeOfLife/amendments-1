@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "mpnelsen", 
+"name": "mpnelsen"
+}, 
+"date_created": "2017-05-07T17:31:25.954Z", 
+"id": "additions-6519882-6519882", 
+"new_ottids_required": 1, 
+"study_id": "ot_1107", 
+"taxa": [
+{
+"adjusted_label": "Tenuimurus clematidis", 
+"comment": "", 
+"name": "Tenuimurus", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Tenuimurus clematis MFLUCC14-0833a", 
+"ott_id": 6519882, 
+"parent": 6519881, 
+"rank": "genus", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.5943/mycosphere/7/5/8", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2580138"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
