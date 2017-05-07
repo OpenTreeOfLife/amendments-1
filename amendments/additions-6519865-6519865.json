@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "ostratodd", 
+"name": "ostratodd"
+}, 
+"date_created": "2017-05-07T15:29:54.808Z", 
+"id": "additions-6519865-6519865", 
+"new_ottids_required": 1, 
+"study_id": "ot_1128", 
+"taxa": [
+{
+"adjusted_label": "H group", 
+"comment": "", 
+"name": "H group", 
+"name_derivation": "No change to original label", 
+"original_label": "H group", 
+"ott_id": 6519865, 
+"parent": 5742530, 
+"rank": "genus", 
+"sources": [
+{
+"source": "Field code for a genus that is being described formally", 
+"source_type": "Other"
+}
+], 
+"tag": "otu41"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
