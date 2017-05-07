@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "mpnelsen", 
+"name": "mpnelsen"
+}, 
+"date_created": "2017-05-07T17:27:55.652Z", 
+"id": "additions-6519880-6519880", 
+"new_ottids_required": 1, 
+"study_id": "ot_1107", 
+"taxa": [
+{
+"adjusted_label": "Tenuimurus clematidis", 
+"comment": "", 
+"name": "Phomatosporales", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Tenuimurus clematis MFLUCC14-0833b", 
+"ott_id": 6519880, 
+"parent": 921280, 
+"rank": "order", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.5943/mycosphere/7/5/8", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2580090"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
