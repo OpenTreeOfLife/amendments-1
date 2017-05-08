@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "rbieler", 
+"name": "rbieler"
+}, 
+"date_created": "2017-05-08T21:12:56.108Z", 
+"id": "additions-6519887-6519889", 
+"new_ottids_required": 3, 
+"study_id": "ot_1071", 
+"taxa": [
+{
+"adjusted_label": "Bathynearea demistriata", 
+"comment": "", 
+"name": "Bathyneaera demistriata", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Bathyneaera demistriata", 
+"ott_id": 6519887, 
+"parent": 4161613, 
+"rank": "species", 
+"sources": [
+{
+"source": "used as valid in this study", 
+"source_type": "Other"
+}
+], 
+"tag": "otu49"
+}, 
+{
+"adjusted_label": "Kelliella sp. A", 
+"comment": "", 
+"name": "Kelliella sp. A", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Kelliella sp", 
+"ott_id": 6519888, 
+"parent": 2861650, 
+"rank": "species", 
+"sources": [
+{
+"source": "dark species in this study", 
+"source_type": "Other"
+}
+], 
+"tag": "otu8"
+}, 
+{
+"adjusted_label": "Limopsis sp. B", 
+"comment": "", 
+"name": "Limopsis sp. B", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Limopsis sp", 
+"ott_id": 6519889, 
+"parent": 119114, 
+"rank": "species", 
+"sources": [
+{
+"source": "unnamed species in this study", 
+"source_type": "Other"
+}
+], 
+"tag": "otu87"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
