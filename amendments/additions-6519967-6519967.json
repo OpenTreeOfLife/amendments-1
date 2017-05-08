@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "rbieler@fieldmuseum.org", 
+"login": "rbieler", 
+"name": "Rudiger Bieler"
+}, 
+"date_created": "2017-05-08T23:14:33.346Z", 
+"id": "additions-6519967-6519967", 
+"new_ottids_required": 1, 
+"study_id": "ot_1137", 
+"taxa": [
+{
+"adjusted_label": "Dimya sp", 
+"comment": "", 
+"name": "Dimya sp. A", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Dimya sp", 
+"ott_id": 6519967, 
+"parent": 790004, 
+"rank": "species", 
+"sources": [
+{
+"source": "unnamed taxon in this publication", 
+"source_type": "Other"
+}
+], 
+"tag": "otu214"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
