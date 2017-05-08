@@ -1,0 +1,133 @@
+{
+"curator": {
+"email": "rbieler@fieldmuseum.org", 
+"login": "rbieler", 
+"name": "Rudiger Bieler"
+}, 
+"date_created": "2017-05-08T22:54:11.680Z", 
+"id": "additions-6519911-6519917", 
+"new_ottids_required": 7, 
+"study_id": "ot_1137", 
+"taxa": [
+{
+"adjusted_label": "Plicatula sp. A", 
+"comment": "", 
+"name": "Plicatula sp. A", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Plicatula sp", 
+"ott_id": 6519911, 
+"parent": 698431, 
+"rank": "species", 
+"sources": [
+{
+"source": "unnamed taxon in this publication", 
+"source_type": "Other"
+}
+], 
+"tag": "otu212"
+}, 
+{
+"adjusted_label": "Chama asperella", 
+"comment": "", 
+"name": "Chama asperella", 
+"name_derivation": "No change to original label", 
+"original_label": "Chama asperella", 
+"ott_id": 6519912, 
+"parent": 907208, 
+"rank": "species", 
+"sources": [
+{
+"source": "considered valid in this publication", 
+"source_type": "Other"
+}
+], 
+"tag": "otu47"
+}, 
+{
+"adjusted_label": "Silicula sp. A", 
+"comment": "", 
+"name": "Silicula sp. A", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Silicula sp", 
+"ott_id": 6519913, 
+"parent": 637706, 
+"rank": "species", 
+"sources": [
+{
+"source": "unnamed taxon in this publication", 
+"source_type": "Other"
+}
+], 
+"tag": "otu164"
+}, 
+{
+"adjusted_label": "Dacrydium sp. A", 
+"comment": "unnamed taxon in this publication", 
+"name": "Dacrydium sp. A", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Dacrydium sp", 
+"ott_id": 6519914, 
+"parent": 50685, 
+"rank": "species", 
+"sources": [
+{
+"source": "unnamed taxon in this publication", 
+"source_type": "Other"
+}
+], 
+"tag": "otu174"
+}, 
+{
+"adjusted_label": "Diplodonta sp. A", 
+"comment": "", 
+"name": "Diplodonta sp. A", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Diplodonta sp", 
+"ott_id": 6519915, 
+"parent": 124381, 
+"rank": "species", 
+"sources": [
+{
+"source": "unnamed taxon in this publication", 
+"source_type": "Other"
+}
+], 
+"tag": "otu20"
+}, 
+{
+"adjusted_label": "Neocardia sp. A", 
+"comment": "", 
+"name": "Neocardia sp. A", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Neocardia sp", 
+"ott_id": 6519916, 
+"parent": 4161996, 
+"rank": "species", 
+"sources": [
+{
+"source": "unnamed taxon in this publication", 
+"source_type": "Other"
+}
+], 
+"tag": "otu209"
+}, 
+{
+"adjusted_label": "Cyclopecten sp. A", 
+"comment": "", 
+"name": "Cyclopecten sp. A", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Cyclopecten sp", 
+"ott_id": 6519917, 
+"parent": 571473, 
+"rank": "species", 
+"sources": [
+{
+"source": "unnamed taxon in this publication", 
+"source_type": "Other"
+}
+], 
+"tag": "otu225"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
