@@ -1,0 +1,1068 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "hollylutz", 
+"name": "hollylutz"
+}, 
+"date_created": "2017-05-09T22:03:37.911Z", 
+"id": "additions-6519987-6520048", 
+"new_ottids_required": 62, 
+"study_id": "ot_1136", 
+"taxa": [
+{
+"adjusted_label": "Haemoproteus sanguinis P146", 
+"comment": "", 
+"name": "Haemoproteus sanguinis P146", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "H sanguinis P146", 
+"ott_id": 6519987, 
+"parent": 1050356, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu12"
+}, 
+{
+"adjusted_label": "Polychromophilus sp. POLY_KEN14", 
+"comment": "", 
+"name": "Polychromophilus sp. POLY_KEN14", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "PWW 2951", 
+"ott_id": 6519988, 
+"parent": 997411, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu120"
+}, 
+{
+"adjusted_label": "Polychromophilus melanipherus POLY_KEN05", 
+"comment": "", 
+"name": "Polychromophilus melanipherus POLY_KEN05", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "PWW 2957", 
+"ott_id": 6519989, 
+"parent": 997409, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu121"
+}, 
+{
+"adjusted_label": "Polychromophilus melanipherus POLY_KEN06", 
+"comment": "", 
+"name": "Polychromophilus melanipherus POLY_KEN06", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "PWW 2979", 
+"ott_id": 6519990, 
+"parent": 997409, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu122"
+}, 
+{
+"adjusted_label": "Polychromophilus melanipherus POLY_KEN10", 
+"comment": "", 
+"name": "Polychromophilus melanipherus POLY_KEN10", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "PWW 2981", 
+"ott_id": 6519991, 
+"parent": 997409, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu123"
+}, 
+{
+"adjusted_label": "Plasmodium sp. BUL07", 
+"comment": "", 
+"name": "Plasmodium sp. BUL07", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P BUL07", 
+"ott_id": 6519992, 
+"parent": 474836, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu124"
+}, 
+{
+"adjusted_label": "Plasmodium artheruri", 
+"comment": "", 
+"name": "Plasmodium artheruri", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P artheruri 1", 
+"ott_id": 6519993, 
+"parent": 197154, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu125"
+}, 
+{
+"adjusted_label": "Plasmodium azurophilum Red5686", 
+"comment": "", 
+"name": "Plasmodium azurophilum Red5686", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P azurophilum Red5686", 
+"ott_id": 6519994, 
+"parent": 750959, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu126"
+}, 
+{
+"adjusted_label": "Haemoproteus turtur P143", 
+"comment": "", 
+"name": "Haemoproteus turtur P143", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "H turtur P143", 
+"ott_id": 6519995, 
+"parent": 524148, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu13"
+}, 
+{
+"adjusted_label": "Plasmodium chabaudi adami 408XZ", 
+"comment": "", 
+"name": "Plasmodium chabaudi adami 408XZ", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P chabaudi adami 408XZ", 
+"ott_id": 6519996, 
+"parent": 724407, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu130"
+}, 
+{
+"adjusted_label": "Plasmodium floridense DR240", 
+"comment": "", 
+"name": "Plasmodium floridense DR240", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P floridense DR240", 
+"ott_id": 6519997, 
+"parent": 807116, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu136"
+}, 
+{
+"adjusted_label": "Plasmodium gaboni K", 
+"comment": "", 
+"name": "Plasmodium gaboni K", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P gaboni K", 
+"ott_id": 6519998, 
+"parent": 730193, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu137"
+}, 
+{
+"adjusted_label": "Plasmodium gallinaceum RP", 
+"comment": "", 
+"name": "Plasmodium gallinaceum RP", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P gallinaceum RP", 
+"ott_id": 6519999, 
+"parent": 877122, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu138"
+}, 
+{
+"adjusted_label": "Plasmodium giganteum G6", 
+"comment": "", 
+"name": "Plasmodium giganteum G6", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P giganteum G6", 
+"ott_id": 6520000, 
+"parent": 750960, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu139"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. G4_1", 
+"comment": "", 
+"name": "Hepatocystis sp. G4_1", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Hep sp E buett G4 1", 
+"ott_id": 6520001, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu14"
+}, 
+{
+"adjusted_label": "Plasmodium hispaniolae DR490", 
+"comment": "", 
+"name": "Plasmodium hispaniolae DR490", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P hispaniolae DR490", 
+"ott_id": 6520002, 
+"parent": 1004851, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu141"
+}, 
+{
+"adjusted_label": "Plasmodium lacertiliae CCA2227", 
+"comment": "", 
+"name": "Plasmodium lacertiliae CCA2227", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P lacertiliae CCA2227", 
+"ott_id": 6520003, 
+"parent": 972914, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu145"
+}, 
+{
+"adjusted_label": "Plasmodium leucocytica DR302", 
+"comment": "", 
+"name": "Plasmodium leucocytica DR302", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P leucocytica DR302", 
+"ott_id": 6520004, 
+"parent": 1004849, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu146"
+}, 
+{
+"adjusted_label": "Plasmodium mexicanum E1", 
+"comment": "", 
+"name": "Plasmodium mexicanum E1", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P mexicanum E1", 
+"ott_id": 6520005, 
+"parent": 781094, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu148"
+}, 
+{
+"adjusted_label": "Plasmodium minuoviride CCAA0640", 
+"comment": "", 
+"name": "Plasmodium minuoviride CCAA0640", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P minuoviride CCA0640", 
+"ott_id": 6520006, 
+"parent": 133293, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu149"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. ex. Papio nubensis", 
+"comment": "", 
+"name": "Hepatocystis sp. ex. Papio nubensis", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Hep sp Ethiopia", 
+"ott_id": 6520007, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu15"
+}, 
+{
+"adjusted_label": "Plasmodium relictum B170", 
+"comment": "", 
+"name": "Plasmodium relictum B170", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P relictum B170", 
+"ott_id": 6520008, 
+"parent": 902756, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu152"
+}, 
+{
+"adjusted_label": "Plasmodium cyclopsi L1_1", 
+"comment": "", 
+"name": "Plasmodium cyclopsi L1_1", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P sp Hip cy L1 1", 
+"ott_id": 6520009, 
+"parent": 474836, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu155"
+}, 
+{
+"adjusted_label": "Plasmodium voltaicum G1_1", 
+"comment": "", 
+"name": "Plasmodium voltaicum G1_1", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P sp M ang G1 1", 
+"ott_id": 6520010, 
+"parent": 474836, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu156"
+}, 
+{
+"adjusted_label": "Plasmodium vinckei 408XZ", 
+"comment": "", 
+"name": "Plasmodium vinckei 408XZ", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P vinckei lentum 408XZ", 
+"ott_id": 6520011, 
+"parent": 826553, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu157"
+}, 
+{
+"adjusted_label": "Plasmodium yoelii yoelii 17X", 
+"comment": "", 
+"name": "Plasmodium yoelii yoelii 17X", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "P yoelii yoelii 17X", 
+"ott_id": 6520012, 
+"parent": 871860, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu159"
+}, 
+{
+"adjusted_label": "Polychromophilus melanipherus hap3", 
+"comment": "", 
+"name": "Polychromophilus melanipherus hap3", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Poly mel hap3", 
+"ott_id": 6520013, 
+"parent": 997409, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu160"
+}, 
+{
+"adjusted_label": "Polychromophilus melanipherus hap4", 
+"comment": "", 
+"name": "Polychromophilus melanipherus hap4", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Poly mel hap4", 
+"ott_id": 6520014, 
+"parent": 997409, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu161"
+}, 
+{
+"adjusted_label": "Polychromophilus melanipherus hap5", 
+"comment": "", 
+"name": "Polychromophilus melanipherus hap5", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Poly mel hap5", 
+"ott_id": 6520015, 
+"parent": 997409, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu162"
+}, 
+{
+"adjusted_label": "Polychromophilus melanipherus hap6", 
+"comment": "", 
+"name": "Polychromophilus melanipherus hap6", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Poly mel hap6", 
+"ott_id": 6520016, 
+"parent": 997409, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu163"
+}, 
+{
+"adjusted_label": "Polychromophilus murinus hap1", 
+"comment": "", 
+"name": "Polychromophilus murinus hap1", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Poly mur hap1", 
+"ott_id": 6520017, 
+"parent": 997419, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu164"
+}, 
+{
+"adjusted_label": "Polychromophilus murinus hap2", 
+"comment": "", 
+"name": "Polychromophilus murinus hap2", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Poly mur hap2", 
+"ott_id": 6520018, 
+"parent": 997419, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu165"
+}, 
+{
+"adjusted_label": "Polychromophilus sp. G3_1", 
+"comment": "", 
+"name": "Polychromophilus sp. G3_1", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Poly sp Min vil G3 1", 
+"ott_id": 6520019, 
+"parent": 997411, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu166"
+}, 
+{
+"adjusted_label": "Polychromophilus sp. G3_2", 
+"comment": "", 
+"name": "Polychromophilus sp. G3_2", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Poly sp Min vil G3 2", 
+"ott_id": 6520020, 
+"parent": 997411, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu167"
+}, 
+{
+"adjusted_label": "Polychromophilus sp. G3_3", 
+"comment": "", 
+"name": "Polychromophilus sp. G3_3", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Poly sp Min vil G3 3", 
+"ott_id": 6520021, 
+"parent": 997411, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu168"
+}, 
+{
+"adjusted_label": "Polychromophilus sp. Pg G3_1", 
+"comment": "", 
+"name": "Polychromophilus sp. Pg G3_1", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Poly sp Pip gran G3 1", 
+"ott_id": 6520022, 
+"parent": 997411, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu169"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. M156 a", 
+"comment": "", 
+"name": "Hepatocystis sp. M156 a", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Hep sp M156 a", 
+"ott_id": 6520023, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu17"
+}, 
+{
+"adjusted_label": "Polychromophilus melanipherus POLY_TAN09", 
+"comment": "", 
+"name": "Polychromophilus melanipherus POLY_TAN09", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "WTS 10107", 
+"ott_id": 6520024, 
+"parent": 997409, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu170"
+}, 
+{
+"adjusted_label": "Hepatocystis sp.MB6", 
+"comment": "", 
+"name": "Hepatocystis sp.MB6", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Hep sp MB6", 
+"ott_id": 6520025, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu19"
+}, 
+{
+"adjusted_label": "Leucocytozoon mathisi ACCOP01", 
+"comment": "", 
+"name": "Leucocytozoon mathisi ACCOP01", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "ACCOP01 Leucocytozoon mathisi", 
+"ott_id": 6520026, 
+"parent": 176495, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu2"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. MNR6", 
+"comment": "", 
+"name": "Hepatocystis sp. MNR6", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Hep sp MNR6", 
+"ott_id": 6520027, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu20"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. G1_10", 
+"comment": "", 
+"name": "Hepatocystis sp. G1_10", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Hep sp Mic pus G1 10", 
+"ott_id": 6520028, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu21"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. G2_3", 
+"comment": "", 
+"name": "Hepatocystis sp. G2_3", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Hep sp Mic pus G2 3", 
+"ott_id": 6520029, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu22"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. G3_1", 
+"comment": "", 
+"name": "Hepatocystis sp. G3_1", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Hep sp Mic pus G3 1", 
+"ott_id": 6520030, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu23"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. G5_2", 
+"comment": "", 
+"name": "Hepatocystis sp. G5_2", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Hep sp Mic pus G5 2", 
+"ott_id": 6520031, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu24"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. C7_1", 
+"comment": "", 
+"name": "Hepatocystis sp. C7_1", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Hep sp Myo lep C7 1", 
+"ott_id": 6520032, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu25"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. C8_1", 
+"comment": "", 
+"name": "Hepatocystis sp. C8_1", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Hep sp Nan vel C8 1", 
+"ott_id": 6520033, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu26"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. L1_1", 
+"comment": "", 
+"name": "Hepatocystis sp. L1_1", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Hep sp Nan vel L1 1", 
+"ott_id": 6520034, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu27"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. ex. Pteropus hypomelanus", 
+"comment": "", 
+"name": "Hepatocystis sp. ex. Pteropus hypomelanus", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Hep sp ex Pter hypo", 
+"ott_id": 6520035, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu28"
+}, 
+{
+"adjusted_label": "Nycteria sp. NYC_MOZ01", 
+"comment": "", 
+"name": "Nycteria sp. NYC_MOZ01", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "JCK 7199", 
+"ott_id": 6520036, 
+"parent": 5157638, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu29"
+}, 
+{
+"adjusted_label": "Haemoproteus belopolskyi H_MW1", 
+"comment": "", 
+"name": "Haemoproteus belopolskyi H_MW1", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "H MW1", 
+"ott_id": 6520037, 
+"parent": 1050355, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu3"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. HEP_UGA27", 
+"comment": "", 
+"name": "Hepatocystis sp. HEP_UGA27", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "JCK 8181", 
+"ott_id": 6520038, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu30"
+}, 
+{
+"adjusted_label": "Nycteria sp. NYC_UGA02", 
+"comment": "", 
+"name": "Nycteria sp. NYC_UGA02", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "JCK 8445", 
+"ott_id": 6520039, 
+"parent": 5157638, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu31"
+}, 
+{
+"adjusted_label": "Nycteria sp. NYC_UGA03", 
+"comment": "", 
+"name": "Nycteria sp. NYC_UGA03", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "JCK 8446", 
+"ott_id": 6520040, 
+"parent": 5157638, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu32"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. HEP_UGA06", 
+"comment": "", 
+"name": "Hepatocystis sp. HEP_UGA06", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "JCK 8496", 
+"ott_id": 6520041, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu33"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. HEP_UGA14", 
+"comment": "", 
+"name": "Hepatocystis sp. HEP_UGA14", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "JCK 8534", 
+"ott_id": 6520042, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu34"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. HEP_UGA21", 
+"comment": "", 
+"name": "Hepatocystis sp. HEP_UGA21", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "JCK 8584", 
+"ott_id": 6520043, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu35"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. HEP_UGA25", 
+"comment": "", 
+"name": "Hepatocystis sp. HEP_UGA25", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "JCK 8585", 
+"ott_id": 6520044, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu36"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. HEP_UGA13", 
+"comment": "", 
+"name": "Hepatocystis sp. HEP_UGA13", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "JCK 8586", 
+"ott_id": 6520045, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu37"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. HEP_UGA16", 
+"comment": "", 
+"name": "Hepatocystis sp. HEP_UGA16", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "JCK 8587", 
+"ott_id": 6520046, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu38"
+}, 
+{
+"adjusted_label": "Hepatocystis sp. HEP_UGA07", 
+"comment": "", 
+"name": "Hepatocystis sp. HEP_UGA07", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "JCK 8589", 
+"ott_id": 6520047, 
+"parent": 1013702, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu39"
+}, 
+{
+"adjusted_label": "Haemoproteus belopolskyi P60", 
+"comment": "", 
+"name": "Haemoproteus belopolskyi P60", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "H belopolskyi P60", 
+"ott_id": 6520048, 
+"parent": 1050355, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu4"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
