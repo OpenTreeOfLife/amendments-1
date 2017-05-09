@@ -1,0 +1,269 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "hollylutz", 
+"name": "hollylutz"
+}, 
+"date_created": "2017-05-09T19:14:38.483Z", 
+"id": "additions-6519972-6519986", 
+"new_ottids_required": 15, 
+"study_id": "ot_1136", 
+"taxa": [
+{
+"adjusted_label": "Plasmodium sp. P_AFR255", 
+"comment": "", 
+"name": "Plasmodium sp. P_AFR255", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "MOZ11 151", 
+"ott_id": 6519972, 
+"parent": 474836, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu106"
+}, 
+{
+"adjusted_label": "Nycteria sp. NYC_MLW04", 
+"comment": "", 
+"name": "Nycteria sp. NYC_MLW04", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Nyc Hap50 MLWM 1391", 
+"ott_id": 6519973, 
+"parent": 5157638, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu107"
+}, 
+{
+"adjusted_label": "Nycteria sp. C9_1", 
+"comment": "", 
+"name": "Nycteria sp. C9_1", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Nyc sp R alc C9 1", 
+"ott_id": 6519974, 
+"parent": 5157638, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu108"
+}, 
+{
+"adjusted_label": "Nycteria sp. G3 1", 
+"comment": "", 
+"name": "Nycteria sp. G3 1", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Nyc sp R lan G3 1", 
+"ott_id": 6519975, 
+"parent": 5157638, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu109"
+}, 
+{
+"adjusted_label": "Parahaemoproteus picae 1534", 
+"comment": "", 
+"name": "Parahaemoproteus picae 1534", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "H picae 1534", 
+"ott_id": 6519976, 
+"parent": 16638, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu11"
+}, 
+{
+"adjusted_label": "Parahaemoproteus thraupi PIOLI01", 
+"comment": "", 
+"name": "Parahaemoproteus thraupi PIOLI01", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "PIOLI01 Haemoproteus thraupi", 
+"ott_id": 6519977, 
+"parent": 16638, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu110"
+}, 
+{
+"adjusted_label": "Polychromophilus melanipherus POLY_KEN12", 
+"comment": "", 
+"name": "Polychromophilus melanipherus POLY_KEN12", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "PWW 2738", 
+"ott_id": 6519978, 
+"parent": 997411, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu111"
+}, 
+{
+"adjusted_label": "Polychromophilus melanipherus POLY_KEN15", 
+"comment": "", 
+"name": "Polychromophilus melanipherus POLY_KEN15", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "PWW 2747", 
+"ott_id": 6519979, 
+"parent": 997409, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu112"
+}, 
+{
+"adjusted_label": "Polychromophilus melanipherus POLY_KEN11", 
+"comment": "", 
+"name": "Polychromophilus melanipherus POLY_KEN11", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "PWW 2750", 
+"ott_id": 6519980, 
+"parent": 997409, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu113"
+}, 
+{
+"adjusted_label": "Polychromophilus melanipherus POLY_KEN16", 
+"comment": "", 
+"name": "Polychromophilus melanipherus POLY_KEN16", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "PWW 2751", 
+"ott_id": 6519981, 
+"parent": 997409, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu114"
+}, 
+{
+"adjusted_label": "Polychromophilus melanipherus POLY_KEN02", 
+"comment": "", 
+"name": "Polychromophilus melanipherus POLY_KEN02", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "PWW 2757", 
+"ott_id": 6519982, 
+"parent": 997409, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu115"
+}, 
+{
+"adjusted_label": "Polychromophilus melanipherus POLY_KEN04", 
+"comment": "", 
+"name": "Polychromophilus melanipherus POLY_KEN04", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "PWW 2762", 
+"ott_id": 6519983, 
+"parent": 997409, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu116"
+}, 
+{
+"adjusted_label": "Polychromophilus sp. POLY_KEN19", 
+"comment": "", 
+"name": "Polychromophilus sp. POLY_KEN19", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "PWW 2765", 
+"ott_id": 6519984, 
+"parent": 997411, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu117"
+}, 
+{
+"adjusted_label": "Polychromophilus melanipherus POLY_KEN03", 
+"comment": "", 
+"name": "Polychromophilus melanipherus POLY_KEN03", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "PWW 2769", 
+"ott_id": 6519985, 
+"parent": 997409, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu118"
+}, 
+{
+"adjusted_label": "Polychromophilus melanipherus POLY_KEN18", 
+"comment": "", 
+"name": "Polychromophilus melanipherus POLY_KEN18", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "PWW 2920", 
+"ott_id": 6519986, 
+"parent": 997409, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu119"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
