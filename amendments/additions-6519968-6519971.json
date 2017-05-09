@@ -1,0 +1,82 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "hollylutz", 
+"name": "hollylutz"
+}, 
+"date_created": "2017-05-09T17:04:04.335Z", 
+"id": "additions-6519968-6519971", 
+"new_ottids_required": 4, 
+"study_id": "ot_1136", 
+"taxa": [
+{
+"adjusted_label": "Plasmodium sp. P_RFF1", 
+"comment": "", 
+"name": "Plasmodium sp. P_RFF1", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "MLW 4501", 
+"ott_id": 6519968, 
+"parent": 474836, 
+"rank": "genus", 
+"sources": [
+{
+"source": "", 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu102"
+}, 
+{
+"adjusted_label": "Parahaemoproteus sp. H_AFR252", 
+"comment": "", 
+"name": "Parahaemoproteus sp. H_AFR252", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "MOZ11 085", 
+"ott_id": 6519969, 
+"parent": 726006, 
+"rank": "genus", 
+"sources": [
+{
+"source": "", 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu103"
+}, 
+{
+"adjusted_label": "Parahaemoproteus sp. H_AFR253", 
+"comment": "", 
+"name": "Parahaemoproteus sp. H_AFR253", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "MOZ11 105", 
+"ott_id": 6519970, 
+"parent": 726006, 
+"rank": "genus", 
+"sources": [
+{
+"source": "", 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu104"
+}, 
+{
+"adjusted_label": "Plasmodium sp. P_AFR156", 
+"comment": "", 
+"name": "Plasmodium sp. P_AFR156", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "MOZ11 119", 
+"ott_id": 6519971, 
+"parent": 474836, 
+"rank": "genus", 
+"sources": [
+{
+"source": "", 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu105"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
