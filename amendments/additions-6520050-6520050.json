@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "gazisromina@gmail.com", 
+"login": "rgazis", 
+"name": "Romina Gazis"
+}, 
+"date_created": "2017-05-14T19:05:01.054Z", 
+"id": "additions-6520050-6520050", 
+"new_ottids_required": 1, 
+"study_id": "ot_1138", 
+"taxa": [
+{
+"adjusted_label": "Tropicoporus tropicalis", 
+"comment": "This taxa is in Index fungorum but not in OTT", 
+"name": "Tropicoporus tropicalis", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Tropicoporus tropicalis AY641432", 
+"ott_id": 6520050, 
+"parent": 5685369, 
+"rank": "species", 
+"sources": [
+{
+"source": "Index fungorum", 
+"source_type": "Other"
+}
+], 
+"tag": "Tl1943610"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
