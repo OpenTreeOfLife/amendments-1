@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "gazisromina@gmail.com", 
+"login": "rgazis", 
+"name": "Romina Gazis"
+}, 
+"date_created": "2017-05-14T19:01:42.225Z", 
+"id": "additions-6520049-6520049", 
+"new_ottids_required": 1, 
+"study_id": "ot_1138", 
+"taxa": [
+{
+"adjusted_label": "Tropicoporus stratificans", 
+"comment": "", 
+"name": "Tropicoporus stratificans", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Tropicoporus stratificans KM199689", 
+"ott_id": 6520049, 
+"parent": 5685369, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "Tl1943603"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
