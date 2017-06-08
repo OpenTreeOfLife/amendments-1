@@ -1,0 +1,1595 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "odclerck", 
+"name": "odclerck"
+}, 
+"date_created": "2017-06-08T17:06:27.296Z", 
+"id": "additions-6520052-6520144", 
+"new_ottids_required": 93, 
+"study_id": "ot_1155", 
+"taxa": [
+{
+"adjusted_label": "Lobophora sp70", 
+"comment": "", 
+"name": "Lobophora sp70", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp70", 
+"ott_id": 6520052, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu101"
+}, 
+{
+"adjusted_label": "Lobophora sp73", 
+"comment": "", 
+"name": "Lobophora sp73", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp73", 
+"ott_id": 6520053, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu102"
+}, 
+{
+"adjusted_label": "Lobophora sp74", 
+"comment": "", 
+"name": "Lobophora sp74", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp74", 
+"ott_id": 6520054, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu103"
+}, 
+{
+"adjusted_label": "Lobophora sp75", 
+"comment": "", 
+"name": "Lobophora sp75", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp75", 
+"ott_id": 6520055, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu104"
+}, 
+{
+"adjusted_label": "Lobophora sp76", 
+"comment": "", 
+"name": "Lobophora sp76", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp76", 
+"ott_id": 6520056, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu105"
+}, 
+{
+"adjusted_label": "Lobophora sp77", 
+"comment": "", 
+"name": "Lobophora sp77", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp77", 
+"ott_id": 6520057, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu106"
+}, 
+{
+"adjusted_label": "Lobophora sp78", 
+"comment": "", 
+"name": "Lobophora sp78", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp78", 
+"ott_id": 6520058, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu107"
+}, 
+{
+"adjusted_label": "Lobophora sp79", 
+"comment": "", 
+"name": "Lobophora sp79", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp79", 
+"ott_id": 6520059, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu108"
+}, 
+{
+"adjusted_label": "Lobophora sp80", 
+"comment": "", 
+"name": "Lobophora sp80", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp80", 
+"ott_id": 6520060, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu109"
+}, 
+{
+"adjusted_label": "Lobophora sp81", 
+"comment": "", 
+"name": "Lobophora sp81", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp81", 
+"ott_id": 6520061, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu110"
+}, 
+{
+"adjusted_label": "Lobophora sp82", 
+"comment": "", 
+"name": "Lobophora sp82", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp82", 
+"ott_id": 6520062, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu111"
+}, 
+{
+"adjusted_label": "Lobophora sp83", 
+"comment": "", 
+"name": "Lobophora sp83", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp83", 
+"ott_id": 6520063, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu112"
+}, 
+{
+"adjusted_label": "Lobophora sp85", 
+"comment": "", 
+"name": "Lobophora sp85", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp85", 
+"ott_id": 6520064, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu113"
+}, 
+{
+"adjusted_label": "Lobophora sp86", 
+"comment": "", 
+"name": "Lobophora sp86", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp86", 
+"ott_id": 6520065, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu114"
+}, 
+{
+"adjusted_label": "Lobophora sp9", 
+"comment": "", 
+"name": "Lobophora sp9", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp9", 
+"ott_id": 6520066, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu115"
+}, 
+{
+"adjusted_label": "Lobophora australis2", 
+"comment": "", 
+"name": "Lobophora australis2", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora australis2", 
+"ott_id": 6520067, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu12"
+}, 
+{
+"adjusted_label": "Lobophora crassa1", 
+"comment": "", 
+"name": "Lobophora crassa1", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora crassa1", 
+"ott_id": 6520068, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu13"
+}, 
+{
+"adjusted_label": "Lobophora crassa2", 
+"comment": "", 
+"name": "Lobophora crassa2", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora crassa2", 
+"ott_id": 6520069, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu14"
+}, 
+{
+"adjusted_label": "Lobophora crassa3", 
+"comment": "", 
+"name": "Lobophora crassa3", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora crassa3", 
+"ott_id": 6520070, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu15"
+}, 
+{
+"adjusted_label": "Lobophora crassa4", 
+"comment": "", 
+"name": "Lobophora crassa4", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora crassa4", 
+"ott_id": 6520071, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu16"
+}, 
+{
+"adjusted_label": "Lobophora crassa5", 
+"comment": "", 
+"name": "Lobophora crassa5", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora crassa5", 
+"ott_id": 6520072, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu17"
+}, 
+{
+"adjusted_label": "Lobophora crassa6", 
+"comment": "", 
+"name": "Lobophora crassa6", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora crassa6", 
+"ott_id": 6520073, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu18"
+}, 
+{
+"adjusted_label": "Lobophora crassa7", 
+"comment": "", 
+"name": "Lobophora crassa7", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora crassa7", 
+"ott_id": 6520074, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu19"
+}, 
+{
+"adjusted_label": "Lobophora crassa8", 
+"comment": "", 
+"name": "Lobophora crassa8", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora crassa8", 
+"ott_id": 6520075, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu20"
+}, 
+{
+"adjusted_label": "Lobophora nigrescens1", 
+"comment": "", 
+"name": "Lobophora nigrescens1", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora nigrescens1", 
+"ott_id": 6520076, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu29"
+}, 
+{
+"adjusted_label": "Lobophora nigrescens2", 
+"comment": "", 
+"name": "Lobophora nigrescens2", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora nigrescens2", 
+"ott_id": 6520077, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu30"
+}, 
+{
+"adjusted_label": "Lobophora pachyventera1", 
+"comment": "", 
+"name": "Lobophora pachyventera1", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora pachyventera1", 
+"ott_id": 6520078, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu31"
+}, 
+{
+"adjusted_label": "Lobophora pachyventera2", 
+"comment": "", 
+"name": "Lobophora pachyventera2", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora pachyventera2", 
+"ott_id": 6520079, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu32"
+}, 
+{
+"adjusted_label": "Lobophora pachyventera3", 
+"comment": "", 
+"name": "Lobophora pachyventera3", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora pachyventera3", 
+"ott_id": 6520080, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu33"
+}, 
+{
+"adjusted_label": "Lobophora pachyventera4", 
+"comment": "", 
+"name": "Lobophora pachyventera4", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora pachyventera4", 
+"ott_id": 6520081, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu34"
+}, 
+{
+"adjusted_label": "Lobophora sp1", 
+"comment": "", 
+"name": "Lobophora sp1", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp1", 
+"ott_id": 6520082, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu38"
+}, 
+{
+"adjusted_label": "Lobophora sp10", 
+"comment": "", 
+"name": "Lobophora sp10", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp10", 
+"ott_id": 6520083, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu39"
+}, 
+{
+"adjusted_label": "Lobophora sp11", 
+"comment": "", 
+"name": "Lobophora sp11", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp11", 
+"ott_id": 6520084, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu40"
+}, 
+{
+"adjusted_label": "Lobophora sp12", 
+"comment": "", 
+"name": "Lobophora sp12", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp12", 
+"ott_id": 6520085, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu41"
+}, 
+{
+"adjusted_label": "Lobophora sp13", 
+"comment": "", 
+"name": "Lobophora sp13", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp13", 
+"ott_id": 6520086, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu42"
+}, 
+{
+"adjusted_label": "Lobophora sp14", 
+"comment": "", 
+"name": "Lobophora sp14", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp14", 
+"ott_id": 6520087, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu43"
+}, 
+{
+"adjusted_label": "Lobophora sp15", 
+"comment": "", 
+"name": "Lobophora sp15", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp15", 
+"ott_id": 6520088, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu44"
+}, 
+{
+"adjusted_label": "Lobophora sp16", 
+"comment": "", 
+"name": "Lobophora sp16", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp16", 
+"ott_id": 6520089, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu45"
+}, 
+{
+"adjusted_label": "Lobophora sp17", 
+"comment": "", 
+"name": "Lobophora sp17", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp17", 
+"ott_id": 6520090, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu46"
+}, 
+{
+"adjusted_label": "Lobophora sp18", 
+"comment": "", 
+"name": "Lobophora sp18", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp18", 
+"ott_id": 6520091, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu47"
+}, 
+{
+"adjusted_label": "Lobophora sp19", 
+"comment": "", 
+"name": "Lobophora sp19", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp19", 
+"ott_id": 6520092, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu48"
+}, 
+{
+"adjusted_label": "Lobophora sp2", 
+"comment": "", 
+"name": "Lobophora sp2", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp2", 
+"ott_id": 6520093, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu49"
+}, 
+{
+"adjusted_label": "Dilophus robustus2", 
+"comment": "", 
+"name": "Dilophus robustus2", 
+"name_derivation": "No change to original label", 
+"original_label": "Dilophus robustus2", 
+"ott_id": 6520094, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu5"
+}, 
+{
+"adjusted_label": "Lobophora sp20", 
+"comment": "", 
+"name": "Lobophora sp20", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp20", 
+"ott_id": 6520095, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu50"
+}, 
+{
+"adjusted_label": "Lobophora sp21", 
+"comment": "", 
+"name": "Lobophora sp21", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp21", 
+"ott_id": 6520096, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu51"
+}, 
+{
+"adjusted_label": "Lobophora sp22", 
+"comment": "", 
+"name": "Lobophora sp22", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp22", 
+"ott_id": 6520097, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu52"
+}, 
+{
+"adjusted_label": "Lobophora sp23", 
+"comment": "", 
+"name": "Lobophora sp23", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp23", 
+"ott_id": 6520098, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu53"
+}, 
+{
+"adjusted_label": "Lobophora sp24", 
+"comment": "", 
+"name": "Lobophora sp24", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp24", 
+"ott_id": 6520099, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu54"
+}, 
+{
+"adjusted_label": "Lobophora sp25", 
+"comment": "", 
+"name": "Lobophora sp25", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp25", 
+"ott_id": 6520100, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu55"
+}, 
+{
+"adjusted_label": "Lobophora sp26", 
+"comment": "", 
+"name": "Lobophora sp26", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp26", 
+"ott_id": 6520101, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu56"
+}, 
+{
+"adjusted_label": "Lobophora sp27", 
+"comment": "", 
+"name": "Lobophora sp27", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp27", 
+"ott_id": 6520102, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu57"
+}, 
+{
+"adjusted_label": "Lobophora sp28", 
+"comment": "", 
+"name": "Lobophora sp28", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp28", 
+"ott_id": 6520103, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu58"
+}, 
+{
+"adjusted_label": "Lobophora sp29", 
+"comment": "", 
+"name": "Lobophora sp29", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp29", 
+"ott_id": 6520104, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu59"
+}, 
+{
+"adjusted_label": "Lobophora sp3", 
+"comment": "", 
+"name": "Lobophora sp3", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp3", 
+"ott_id": 6520105, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu60"
+}, 
+{
+"adjusted_label": "Lobophora sp30", 
+"comment": "", 
+"name": "Lobophora sp30", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp30", 
+"ott_id": 6520106, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu61"
+}, 
+{
+"adjusted_label": "Lobophora sp31", 
+"comment": "", 
+"name": "Lobophora sp31", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp31", 
+"ott_id": 6520107, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu62"
+}, 
+{
+"adjusted_label": "Lobophora sp32", 
+"comment": "", 
+"name": "Lobophora sp32", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp32", 
+"ott_id": 6520108, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu63"
+}, 
+{
+"adjusted_label": "Lobophora sp33", 
+"comment": "", 
+"name": "Lobophora sp33", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp33", 
+"ott_id": 6520109, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu64"
+}, 
+{
+"adjusted_label": "Lobophora sp34", 
+"comment": "", 
+"name": "Lobophora sp34", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp34", 
+"ott_id": 6520110, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu65"
+}, 
+{
+"adjusted_label": "Lobophora sp35", 
+"comment": "", 
+"name": "Lobophora sp35", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp35", 
+"ott_id": 6520111, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu66"
+}, 
+{
+"adjusted_label": "Lobophora sp36", 
+"comment": "", 
+"name": "Lobophora sp36", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp36", 
+"ott_id": 6520112, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu67"
+}, 
+{
+"adjusted_label": "Lobophora sp37", 
+"comment": "", 
+"name": "Lobophora sp37", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp37", 
+"ott_id": 6520113, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu68"
+}, 
+{
+"adjusted_label": "Lobophora sp39", 
+"comment": "", 
+"name": "Lobophora sp39", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp39", 
+"ott_id": 6520114, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu69"
+}, 
+{
+"adjusted_label": "Lobophora sp4", 
+"comment": "", 
+"name": "Lobophora sp4", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp4", 
+"ott_id": 6520115, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu70"
+}, 
+{
+"adjusted_label": "Lobophora sp40", 
+"comment": "", 
+"name": "Lobophora sp40", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp40", 
+"ott_id": 6520116, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu71"
+}, 
+{
+"adjusted_label": "Lobophora sp41", 
+"comment": "", 
+"name": "Lobophora sp41", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp41", 
+"ott_id": 6520117, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu72"
+}, 
+{
+"adjusted_label": "Lobophora sp42", 
+"comment": "", 
+"name": "Lobophora sp42", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp42", 
+"ott_id": 6520118, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu73"
+}, 
+{
+"adjusted_label": "Lobophora sp43", 
+"comment": "", 
+"name": "Lobophora sp43", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp43", 
+"ott_id": 6520119, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu74"
+}, 
+{
+"adjusted_label": "Lobophora sp44", 
+"comment": "", 
+"name": "Lobophora sp44", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp44", 
+"ott_id": 6520120, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu75"
+}, 
+{
+"adjusted_label": "Lobophora sp45", 
+"comment": "", 
+"name": "Lobophora sp45", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp45", 
+"ott_id": 6520121, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu76"
+}, 
+{
+"adjusted_label": "Lobophora sp46", 
+"comment": "", 
+"name": "Lobophora sp46", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp46", 
+"ott_id": 6520122, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu77"
+}, 
+{
+"adjusted_label": "Lobophora sp47", 
+"comment": "", 
+"name": "Lobophora sp47", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp47", 
+"ott_id": 6520123, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu78"
+}, 
+{
+"adjusted_label": "Lobophora sp48", 
+"comment": "", 
+"name": "Lobophora sp48", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp48", 
+"ott_id": 6520124, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu79"
+}, 
+{
+"adjusted_label": "Lobophora sp49", 
+"comment": "", 
+"name": "Lobophora sp49", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp49", 
+"ott_id": 6520125, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu80"
+}, 
+{
+"adjusted_label": "Lobophora sp5", 
+"comment": "", 
+"name": "Lobophora sp5", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp5", 
+"ott_id": 6520126, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu81"
+}, 
+{
+"adjusted_label": "Lobophora sp50", 
+"comment": "", 
+"name": "Lobophora sp50", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp50", 
+"ott_id": 6520127, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu82"
+}, 
+{
+"adjusted_label": "Lobophora sp51", 
+"comment": "", 
+"name": "Lobophora sp51", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp51", 
+"ott_id": 6520128, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu83"
+}, 
+{
+"adjusted_label": "Lobophora sp52", 
+"comment": "", 
+"name": "Lobophora sp52", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp52", 
+"ott_id": 6520129, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu84"
+}, 
+{
+"adjusted_label": "Lobophora sp53", 
+"comment": "", 
+"name": "Lobophora sp53", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp53", 
+"ott_id": 6520130, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu85"
+}, 
+{
+"adjusted_label": "Lobophora sp55", 
+"comment": "", 
+"name": "Lobophora sp55", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp55", 
+"ott_id": 6520131, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu86"
+}, 
+{
+"adjusted_label": "Lobophora sp56", 
+"comment": "", 
+"name": "Lobophora sp56", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp56", 
+"ott_id": 6520132, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu87"
+}, 
+{
+"adjusted_label": "Lobophora sp57", 
+"comment": "", 
+"name": "Lobophora sp57", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp57", 
+"ott_id": 6520133, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu88"
+}, 
+{
+"adjusted_label": "Lobophora sp58", 
+"comment": "", 
+"name": "Lobophora sp58", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp58", 
+"ott_id": 6520134, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu89"
+}, 
+{
+"adjusted_label": "Lobophora sp59", 
+"comment": "", 
+"name": "Lobophora sp59", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp59", 
+"ott_id": 6520135, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu90"
+}, 
+{
+"adjusted_label": "Lobophora sp6", 
+"comment": "", 
+"name": "Lobophora sp6", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp6", 
+"ott_id": 6520136, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu91"
+}, 
+{
+"adjusted_label": "Lobophora sp60", 
+"comment": "", 
+"name": "Lobophora sp60", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp60", 
+"ott_id": 6520137, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu92"
+}, 
+{
+"adjusted_label": "Lobophora sp61", 
+"comment": "", 
+"name": "Lobophora sp61", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp61", 
+"ott_id": 6520138, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu93"
+}, 
+{
+"adjusted_label": "Lobophora sp64", 
+"comment": "", 
+"name": "Lobophora sp64", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp64", 
+"ott_id": 6520139, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu94"
+}, 
+{
+"adjusted_label": "Lobophora sp65", 
+"comment": "", 
+"name": "Lobophora sp65", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp65", 
+"ott_id": 6520140, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu95"
+}, 
+{
+"adjusted_label": "Lobophora sp66", 
+"comment": "", 
+"name": "Lobophora sp66", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp66", 
+"ott_id": 6520141, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu96"
+}, 
+{
+"adjusted_label": "Lobophora sp67", 
+"comment": "", 
+"name": "Lobophora sp67", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp67", 
+"ott_id": 6520142, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu97"
+}, 
+{
+"adjusted_label": "Lobophora sp68", 
+"comment": "", 
+"name": "Lobophora sp68", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp68", 
+"ott_id": 6520143, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu98"
+}, 
+{
+"adjusted_label": "Lobophora sp69", 
+"comment": "", 
+"name": "Lobophora sp69", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp69", 
+"ott_id": 6520144, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu99"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
