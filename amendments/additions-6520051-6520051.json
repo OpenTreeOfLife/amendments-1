@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "odclerck", 
+"name": "odclerck"
+}, 
+"date_created": "2017-06-08T16:49:04.064Z", 
+"id": "additions-6520051-6520051", 
+"new_ottids_required": 1, 
+"study_id": "ot_1155", 
+"taxa": [
+{
+"adjusted_label": "Lobophora sp7", 
+"comment": "", 
+"name": "Lobophora sp7", 
+"name_derivation": "No change to original label", 
+"original_label": "Lobophora sp7", 
+"ott_id": 6520051, 
+"parent": 1040157, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1016/j.ympev.2017.03.007", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu100"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
