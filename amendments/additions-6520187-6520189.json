@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "brunoasm", 
+"name": "Bruno de Medeiros"
+}, 
+"date_created": "2017-10-06T21:23:16.529Z", 
+"id": "additions-6520187-6520189", 
+"new_ottids_required": 3, 
+"study_id": "ot_1187", 
+"taxa": [
+{
+"adjusted_label": "Glacicavicola bathyscioides", 
+"comment": "This study is a recent taxonomic revision that includes this species", 
+"name": "Glacicavicola bathyscioides", 
+"name_derivation": "No change to original label", 
+"original_label": "Glacicavicola bathyscioides", 
+"ott_id": 6520187, 
+"parent": 5807594, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu1"
+}, 
+{
+"adjusted_label": "Perkovskius ussuriensis", 
+"comment": "", 
+"name": "Perkovskius ussuriensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Perkovskius ussuriensis", 
+"ott_id": 6520188, 
+"parent": 5807594, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu2"
+}, 
+{
+"adjusted_label": "Perkovskius zerchei", 
+"comment": "", 
+"name": "Perkovskius zerchei", 
+"name_derivation": "No change to original label", 
+"original_label": "Perkovskius zerchei", 
+"ott_id": 6520189, 
+"parent": 5807594, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu3"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
