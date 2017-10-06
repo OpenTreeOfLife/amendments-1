@@ -1,0 +1,99 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "brunoasm", 
+"name": "Bruno de Medeiros"
+}, 
+"date_created": "2017-10-06T21:19:42.228Z", 
+"id": "additions-6520182-6520186", 
+"new_ottids_required": 5, 
+"study_id": "ot_1187", 
+"taxa": [
+{
+"adjusted_label": "Catopocerus alabamae", 
+"comment": "This reference is a recent revision that includes this species. Catopocerus is currently a synonym of Pinodytes in OTT, but this is wrong. Only part of Catopocerus was transferred to Pinodytes, with part remaining as Catopocerus. For now I am putting Catopocerinae as the parent taxon", 
+"name": "Catopocerus alabamae", 
+"name_derivation": "No change to original label", 
+"original_label": "Catopocerus alabamae", 
+"ott_id": 6520182, 
+"parent": 5807594, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu4"
+}, 
+{
+"adjusted_label": "Catopocerus appalachianus", 
+"comment": "", 
+"name": "Catopocerus appalachianus", 
+"name_derivation": "No change to original label", 
+"original_label": "Catopocerus appalachianus", 
+"ott_id": 6520183, 
+"parent": 5807594, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu5"
+}, 
+{
+"adjusted_label": "Catopocerus hamiltoni", 
+"comment": "", 
+"name": "Catopocerus hamiltoni", 
+"name_derivation": "No change to original label", 
+"original_label": "Catopocerus hamiltoni", 
+"ott_id": 6520184, 
+"parent": 5807594, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu6"
+}, 
+{
+"adjusted_label": "Catopocerus jonesi", 
+"comment": "", 
+"name": "Catopocerus jonesi", 
+"name_derivation": "No change to original label", 
+"original_label": "Catopocerus jonesi", 
+"ott_id": 6520185, 
+"parent": 5807594, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu7"
+}, 
+{
+"adjusted_label": "Catopocerus politus", 
+"comment": "", 
+"name": "Catopocerus politus", 
+"name_derivation": "No change to original label", 
+"original_label": "Catopocerus politus", 
+"ott_id": 6520186, 
+"parent": 5807594, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu8"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
