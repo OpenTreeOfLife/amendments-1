@@ -1,0 +1,643 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "brunoasm", 
+"name": "Bruno de Medeiros"
+}, 
+"date_created": "2017-10-06T21:17:48.448Z", 
+"id": "additions-6520145-6520181", 
+"new_ottids_required": 37, 
+"study_id": "ot_1187", 
+"taxa": [
+{
+"adjusted_label": "Pinodytes angulatus", 
+"comment": "This publication is a recent revision that includes this taxon", 
+"name": "Pinodytes angulatus", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes angulatus", 
+"ott_id": 6520145, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu9"
+}, 
+{
+"adjusted_label": "Pinodytes capizzii", 
+"comment": "", 
+"name": "Pinodytes capizzii", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes capizzii", 
+"ott_id": 6520146, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu10"
+}, 
+{
+"adjusted_label": "Pinodytes chandleri", 
+"comment": "", 
+"name": "Pinodytes chandleri", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes chandleri", 
+"ott_id": 6520147, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu41"
+}, 
+{
+"adjusted_label": "Pinodytes colorado", 
+"comment": "", 
+"name": "Pinodytes colorado", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes colorado", 
+"ott_id": 6520148, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu27"
+}, 
+{
+"adjusted_label": "Pinodytes constrictus", 
+"comment": "", 
+"name": "Pinodytes constrictus", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes constrictus", 
+"ott_id": 6520149, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu29"
+}, 
+{
+"adjusted_label": "Pinodytes contortus", 
+"comment": "", 
+"name": "Pinodytes contortus", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes contortus", 
+"ott_id": 6520150, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu30"
+}, 
+{
+"adjusted_label": "Pinodytes eldorado", 
+"comment": "", 
+"name": "Pinodytes eldorado", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes eldorado", 
+"ott_id": 6520151, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu49"
+}, 
+{
+"adjusted_label": "Pinodytes fresno", 
+"comment": "", 
+"name": "Pinodytes fresno", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes fresno", 
+"ott_id": 6520152, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu45"
+}, 
+{
+"adjusted_label": "Pinodytes gatibaldi", 
+"comment": "", 
+"name": "Pinodytes gatibaldi", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes gatibaldi", 
+"ott_id": 6520153, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu11"
+}, 
+{
+"adjusted_label": "Pinodytes gibbosus", 
+"comment": "", 
+"name": "Pinodytes gibbosus", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes gibbosus", 
+"ott_id": 6520154, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu46"
+}, 
+{
+"adjusted_label": "Pinodytes humboldtensis", 
+"comment": "", 
+"name": "Pinodytes humboldtensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes humboldtensis", 
+"ott_id": 6520155, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu42"
+}, 
+{
+"adjusted_label": "Pinodytes idaho", 
+"comment": "", 
+"name": "Pinodytes idaho", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes idaho", 
+"ott_id": 6520156, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu31"
+}, 
+{
+"adjusted_label": "Pinodytes imbricatus", 
+"comment": "", 
+"name": "Pinodytes imbricatus", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes imbricatus", 
+"ott_id": 6520157, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu13"
+}, 
+{
+"adjusted_label": "Pinodytes isabella", 
+"comment": "", 
+"name": "Pinodytes isabella", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes isabella", 
+"ott_id": 6520158, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu14"
+}, 
+{
+"adjusted_label": "Pinodytes klamathensis", 
+"comment": "", 
+"name": "Pinodytes klamathensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes klamathensis", 
+"ott_id": 6520159, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu32"
+}, 
+{
+"adjusted_label": "Pinodytes losangeles", 
+"comment": "", 
+"name": "Pinodytes losangeles", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes losangeles", 
+"ott_id": 6520160, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu33"
+}, 
+{
+"adjusted_label": "Pinodytes marinensis", 
+"comment": "", 
+"name": "Pinodytes marinensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes marinensis", 
+"ott_id": 6520161, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu34"
+}, 
+{
+"adjusted_label": "Pinodytes minutus", 
+"comment": "", 
+"name": "Pinodytes minutus", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes minutus", 
+"ott_id": 6520162, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu35"
+}, 
+{
+"adjusted_label": "Pinodytes monterey", 
+"comment": "", 
+"name": "Pinodytes monterey", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes monterey", 
+"ott_id": 6520163, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu36"
+}, 
+{
+"adjusted_label": "Pinodytes newtoni", 
+"comment": "", 
+"name": "Pinodytes newtoni", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes newtoni", 
+"ott_id": 6520164, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu28"
+}, 
+{
+"adjusted_label": "Pinodytes orca", 
+"comment": "", 
+"name": "Pinodytes orca", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes orca", 
+"ott_id": 6520165, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu16"
+}, 
+{
+"adjusted_label": "Pinodytes ovatus", 
+"comment": "", 
+"name": "Pinodytes ovatus", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes ovatus", 
+"ott_id": 6520166, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu37"
+}, 
+{
+"adjusted_label": "Pinodytes parvus", 
+"comment": "", 
+"name": "Pinodytes parvus", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes parvus", 
+"ott_id": 6520167, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu38"
+}, 
+{
+"adjusted_label": "Pinodytes punctuatus", 
+"comment": "", 
+"name": "Pinodytes punctuatus", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes punctuatus", 
+"ott_id": 6520168, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu26"
+}, 
+{
+"adjusted_label": "Pinodytes pusio", 
+"comment": "", 
+"name": "Pinodytes pusio", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes pusio", 
+"ott_id": 6520169, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu47"
+}, 
+{
+"adjusted_label": "Pinodytes rothi", 
+"comment": "", 
+"name": "Pinodytes rothi", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes rothi", 
+"ott_id": 6520170, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu24"
+}, 
+{
+"adjusted_label": "Pinodytes sanjacinto", 
+"comment": "", 
+"name": "Pinodytes sanjacinto", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes sanjacinto", 
+"ott_id": 6520171, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu39"
+}, 
+{
+"adjusted_label": "Pinodytes sequoia", 
+"comment": "", 
+"name": "Pinodytes sequoia", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes sequoia", 
+"ott_id": 6520172, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu50"
+}, 
+{
+"adjusted_label": "Pinodytes setosus", 
+"comment": "", 
+"name": "Pinodytes setosus", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes setosus", 
+"ott_id": 6520173, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu22"
+}, 
+{
+"adjusted_label": "Pinodytes shasta", 
+"comment": "", 
+"name": "Pinodytes shasta", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes shasta", 
+"ott_id": 6520174, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu43"
+}, 
+{
+"adjusted_label": "Pinodytes shoshone", 
+"comment": "", 
+"name": "Pinodytes shoshone", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes shoshone", 
+"ott_id": 6520175, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu17"
+}, 
+{
+"adjusted_label": "Pinodytes sinuatus", 
+"comment": "", 
+"name": "Pinodytes sinuatus", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes sinuatus", 
+"ott_id": 6520176, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu18"
+}, 
+{
+"adjusted_label": "Pinodytes spinus", 
+"comment": "", 
+"name": "Pinodytes spinus", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes spinus", 
+"ott_id": 6520177, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu40"
+}, 
+{
+"adjusted_label": "Pinodytes subterraneus", 
+"comment": "", 
+"name": "Pinodytes subterraneus", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes subterraneus", 
+"ott_id": 6520178, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu19"
+}, 
+{
+"adjusted_label": "Pinodytes tehama", 
+"comment": "", 
+"name": "Pinodytes tehama", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes tehama", 
+"ott_id": 6520179, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu44"
+}, 
+{
+"adjusted_label": "Pinodytes tibialis", 
+"comment": "", 
+"name": "Pinodytes tibialis", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes tibialis", 
+"ott_id": 6520180, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu20"
+}, 
+{
+"adjusted_label": "Pinodytes tuolumne", 
+"comment": "", 
+"name": "Pinodytes tuolumne", 
+"name_derivation": "No change to original label", 
+"original_label": "Pinodytes tuolumne", 
+"ott_id": 6520181, 
+"parent": 5542206, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.mapress.com/zootaxa/2011/f/zt03077p118.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu48"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
