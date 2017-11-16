@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "mpschumm97", 
+"name": "mpschumm97"
+}, 
+"date_created": "2017-11-16T22:15:41.192Z", 
+"id": "additions-6520190-6520190", 
+"new_ottids_required": 1, 
+"study_id": "ot_1206", 
+"taxa": [
+{
+"adjusted_label": "Pteroptyx gombakia", 
+"comment": "", 
+"name": "Pteroptyx gombakia", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Pteroptyx sp ML", 
+"ott_id": 6520190, 
+"parent": 3414724, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/zootaxa.3959.1.1", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl1048602"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
