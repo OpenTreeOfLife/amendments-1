@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "arlin@umd.edu", 
+"login": "arlin", 
+"name": "Arlin Stoltzfus"
+}, 
+"date_created": "2018-04-13T23:54:30.415Z", 
+"id": "additions-6520192-6520192", 
+"new_ottids_required": 1, 
+"study_id": "ot_1247", 
+"taxa": [
+{
+"adjusted_label": "Aretidris buenaventei", 
+"comment": "According to the source, \"Crematogastrini are all the genera under consideration in this paper, namely, Aretidris (= Myrmicine Genus #26 PH02 sensu WARD & al. (2015))\".  This establishes the relationship of synonymy with \"Myrmicine genus26 PH02\" in ot_1247 by Ward, et al. 2015.  ", 
+"name": "Aretidris buenaventei", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Myrmicine genus26 PH02", 
+"ott_id": 6520192, 
+"parent": 45937, 
+"rank": "species", 
+"sources": [
+{
+"source": "General, D.E.M., 2015.  Aretidris, a new genus of ants (Hymenoptera: Formicidae: Myrmicinae) from the mountains of Luzon Island, Philippines.  Myrmecol. News 21: 131-136.  Available from https://myrmecologicalnews.org/cms/index.php?view=category&id=622%253Amyrmecol-news-21-131-136&option=com_content&Itemid=91", 
+"source_type": "Other"
+}
+], 
+"tag": "Tl1486517"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
