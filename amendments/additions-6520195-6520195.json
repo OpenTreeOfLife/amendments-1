@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-06-08T17:55:49.153Z", 
+"id": "additions-6520195-6520195", 
+"new_ottids_required": 1, 
+"study_id": "ot_1345", 
+"taxa": [
+{
+"adjusted_label": "Megavitiornis altirostris", 
+"comment": "", 
+"name": "Megavitiornis altirostris", 
+"name_derivation": "No change to original label", 
+"original_label": "Megavitiornis altirostris", 
+"ott_id": 6520195, 
+"parent": 3596121, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://doi.org/10.1080/03014223.2000.9517627", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl3026903"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
