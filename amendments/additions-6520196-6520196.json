@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-06-18T18:33:48.784Z", 
+"id": "additions-6520196-6520196", 
+"new_ottids_required": 1, 
+"study_id": "ot_1388", 
+"taxa": [
+{
+"adjusted_label": "Petrochelys kyrgyzensis", 
+"comment": "", 
+"name": "Petrochelys kyrgyzensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Petrochelys kyrgyzensis", 
+"ott_id": 6520196, 
+"parent": 5603, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "Tl2627328"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
