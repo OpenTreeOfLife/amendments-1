@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-06-18T18:49:30.479Z", 
+"id": "additions-6520202-6520203", 
+"new_ottids_required": 2, 
+"study_id": "ot_1388", 
+"taxa": [
+{
+"adjusted_label": "Hutchemys sterea", 
+"comment": "", 
+"name": "Hutchemys sterea", 
+"name_derivation": "No change to original label", 
+"original_label": "Hutchemys sterea", 
+"ott_id": 6520202, 
+"parent": 6156185, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://doi.org/10.1666/10-127.1", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2627349"
+}, 
+{
+"adjusted_label": "Hutchemys tetraneton", 
+"comment": "", 
+"name": "Hutchemys tetraneton", 
+"name_derivation": "No change to original label", 
+"original_label": "Hutchemys tetraneton", 
+"ott_id": 6520203, 
+"parent": 6156185, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://doi.org/10.1666/10-127.1", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2627356"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
