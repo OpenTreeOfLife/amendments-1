@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-06-18T18:36:00.610Z", 
+"id": "additions-6520198-6520198", 
+"new_ottids_required": 1, 
+"study_id": "ot_1388", 
+"taxa": [
+{
+"adjusted_label": "Trionyx kansaiensis", 
+"comment": "", 
+"name": "Trionyx kansaiensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Trionyx kansaiensis", 
+"ott_id": 6520198, 
+"parent": 143397, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://doi.org/10.1080/02724631003617548", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2627361"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
