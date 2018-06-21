@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-06-21T20:22:13.617Z", 
+"id": "additions-6520219-6520219", 
+"new_ottids_required": 1, 
+"study_id": "ot_1389", 
+"taxa": [
+{
+"adjusted_label": "Onychodictyon ferox", 
+"comment": "", 
+"name": "Onychodictyon ferox", 
+"name_derivation": "No change to original label", 
+"original_label": "Onychodictyon ferox", 
+"ott_id": 6520219, 
+"parent": 816442, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.4202/app.2008.0209", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2237461"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
