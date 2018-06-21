@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-06-21T19:53:44.214Z", 
+"id": "additions-6520213-6520213", 
+"new_ottids_required": 1, 
+"study_id": "ot_1389", 
+"taxa": [
+{
+"adjusted_label": "Acinocrinus", 
+"comment": "", 
+"name": "Acinocrinus", 
+"name_derivation": "No change to original label", 
+"original_label": "Acinocrinus", 
+"ott_id": 6520213, 
+"parent": 816442, 
+"rank": "genus", 
+"sources": [
+{
+"source": "https://kuscholarworks.ku.edu/handle/1808/3691", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2237463"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
