@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-06-21T20:08:33.252Z", 
+"id": "additions-6520216-6520216", 
+"new_ottids_required": 1, 
+"study_id": "ot_1389", 
+"taxa": [
+{
+"adjusted_label": "Lyrarapax unguispinus", 
+"comment": "", 
+"name": "Lyrarapax unguispinus", 
+"name_derivation": "No change to original label", 
+"original_label": "Lyrarapax unguispinus", 
+"ott_id": 6520216, 
+"parent": 4708904, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1038/nature13486", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2237453"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
