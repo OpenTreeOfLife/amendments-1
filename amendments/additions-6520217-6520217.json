@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-06-21T20:15:37.807Z", 
+"id": "additions-6520217-6520217", 
+"new_ottids_required": 1, 
+"study_id": "ot_1389", 
+"taxa": [
+{
+"adjusted_label": "Antennacanthopodia", 
+"comment": "", 
+"name": "Antennacanthopodia", 
+"name_derivation": "No change to original label", 
+"original_label": "Antennacanthopodia", 
+"ott_id": 6520217, 
+"parent": 816442, 
+"rank": "genus", 
+"sources": [
+{
+"source": "https://doi.org/10.1666%2F09-147R2.1", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2355078"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
