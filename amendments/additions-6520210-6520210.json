@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-06-21T18:15:16.490Z", 
+"id": "additions-6520210-6520210", 
+"new_ottids_required": 1, 
+"study_id": "ot_1389", 
+"taxa": [
+{
+"adjusted_label": "Hallucigenia hongmeia", 
+"comment": "", 
+"name": "Hallucigenia hongmeia", 
+"name_derivation": "No change to original label", 
+"original_label": "Hallucigenia hongmeia", 
+"ott_id": 6520210, 
+"parent": 4720500, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.3140/bull.geosci.1280", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2237442"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
