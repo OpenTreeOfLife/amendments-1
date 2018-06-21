@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-06-21T17:46:46.532Z", 
+"id": "additions-6520205-6520205", 
+"new_ottids_required": 1, 
+"study_id": "ot_1389", 
+"taxa": [
+{
+"adjusted_label": "Onychodictyon gracilis", 
+"comment": "", 
+"name": "Onychodictyon gracilis", 
+"name_derivation": "No change to original label", 
+"original_label": "Onychodictyon gracilis", 
+"ott_id": 6520205, 
+"parent": 1072433, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.4202/app.2008.0209", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2237424"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
