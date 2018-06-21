@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-06-21T18:13:21.204Z", 
+"id": "additions-6520208-6520209", 
+"new_ottids_required": 2, 
+"study_id": "ot_1389", 
+"taxa": [
+{
+"adjusted_label": "Aegirocassis benmoulae", 
+"comment": "", 
+"name": "Aegirocassis benmoulae", 
+"name_derivation": "No change to original label", 
+"original_label": "Aegirocassis benmoulae", 
+"ott_id": 6520208, 
+"parent": 6176908, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1038/nature14256", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2237435"
+}, 
+{
+"adjusted_label": "Hallucigenia fortis", 
+"comment": "", 
+"name": "Hallucigenia fortis", 
+"name_derivation": "No change to original label", 
+"original_label": "Hallucigenia fortis", 
+"ott_id": 6520209, 
+"parent": 4720500, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1111/j.1096-3642.1995.tb00110.x", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2237439"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
