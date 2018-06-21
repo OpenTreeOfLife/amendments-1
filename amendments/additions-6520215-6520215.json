@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-06-21T20:01:46.469Z", 
+"id": "additions-6520215-6520215", 
+"new_ottids_required": 1, 
+"study_id": "ot_1389", 
+"taxa": [
+{
+"adjusted_label": "Jianshanopodia", 
+"comment": "", 
+"name": "Jianshanopodia", 
+"name_derivation": "No change to original label", 
+"original_label": "Jianshanopodia", 
+"ott_id": 6520215, 
+"parent": 816442, 
+"rank": "genus", 
+"sources": [
+{
+"source": "http://www.app.pan.pl/article/item/app51-215.html", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2355082"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
