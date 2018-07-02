@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-07-02T23:41:47.816Z", 
+"id": "additions-6520222-6520222", 
+"new_ottids_required": 1, 
+"study_id": "ot_1431", 
+"taxa": [
+{
+"adjusted_label": "Saurornithoides junior", 
+"comment": "", 
+"name": "Saurornithoides junior", 
+"name_derivation": "No change to original label", 
+"original_label": "Saurornithoides junior", 
+"ott_id": 6520222, 
+"parent": 4947118, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://www.palaeontologia.pan.pl/Archive/1974_30_5-22_1-4.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl863011"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
