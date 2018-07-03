@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-07-03T07:20:38.788Z", 
+"id": "additions-6520223-6520223", 
+"new_ottids_required": 1, 
+"study_id": "ot_1431", 
+"taxa": [
+{
+"adjusted_label": "Segnosaurus galbiensis", 
+"comment": "", 
+"name": "Segnosaurus galbiensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Segnosaurus galbiensis", 
+"ott_id": 6520223, 
+"parent": 4128375, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://paleoglot.org/files/Perle%2079.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl863014"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
