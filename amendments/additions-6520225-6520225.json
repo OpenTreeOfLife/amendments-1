@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-07-03T16:45:48.604Z", 
+"id": "additions-6520225-6520225", 
+"new_ottids_required": 1, 
+"study_id": "ot_1447", 
+"taxa": [
+{
+"adjusted_label": "Andhracoides gebaueri", 
+"comment": "", 
+"name": "Andhracoides gebaueri", 
+"name_derivation": "No change to original label", 
+"original_label": "Andhracoides gebaueri", 
+"ott_id": 6520225, 
+"parent": 3001969, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://doi.org/10.1163/1937240X-00002333", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl1684240"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
