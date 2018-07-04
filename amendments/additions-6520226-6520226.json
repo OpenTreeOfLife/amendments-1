@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-07-04T01:03:23.038Z", 
+"id": "additions-6520226-6520226", 
+"new_ottids_required": 1, 
+"study_id": "ot_1448", 
+"taxa": [
+{
+"adjusted_label": "Artibeus anthonyi", 
+"comment": "", 
+"name": "Artibeus anthonyi", 
+"name_derivation": "No change to original label", 
+"original_label": "Artibeus anthonyi", 
+"ott_id": 6520226, 
+"parent": 289155, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://doi.org/10.1644/08-MAMM-A-372R1.1", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl2988166"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
