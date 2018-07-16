@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-07-16T07:04:57.969Z", 
+"id": "additions-6520227-6520227", 
+"new_ottids_required": 1, 
+"study_id": "ot_1503", 
+"taxa": [
+{
+"adjusted_label": "Chrichtonsaurus benxiensis", 
+"comment": "", 
+"name": "Chrichtonsaurus benxiensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Chrichtonsaurus benxiensis", 
+"ott_id": 6520227, 
+"parent": 4946528, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://doi.org/10.1111/j.1755-6724.2007.tb01010.x", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl844193"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
