@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "JohnHeraty", 
+"name": "JohnHeraty"
+}, 
+"date_created": "2018-07-17T00:21:58.107Z", 
+"id": "additions-6520230-6520230", 
+"new_ottids_required": 1, 
+"study_id": "ot_1506", 
+"taxa": [
+{
+"adjusted_label": "Ancylotropus D0707", 
+"comment": "", 
+"name": "Ancylotropus D0707", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "E7.2 Ancylotropus.sp.D0707", 
+"ott_id": 6520230, 
+"parent": 32392, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1098/rspb.2013.0495", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu155"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
