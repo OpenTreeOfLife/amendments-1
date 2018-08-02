@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "JohnHeraty", 
+"name": "JohnHeraty"
+}, 
+"date_created": "2018-08-02T20:22:00.151Z", 
+"id": "additions-6520235-6520235", 
+"new_ottids_required": 1, 
+"study_id": "ot_1093", 
+"taxa": [
+{
+"adjusted_label": "Brasema allynii", 
+"comment": "", 
+"name": "Brasema allynii", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "EPE Brasema allynii female ch", 
+"ott_id": 6520235, 
+"parent": 584347, 
+"rank": "species", 
+"sources": [
+{
+"source": "described species", 
+"source_type": "Other"
+}
+], 
+"tag": "otu67"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
