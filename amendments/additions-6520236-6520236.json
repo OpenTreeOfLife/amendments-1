@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "JohnHeraty", 
+"name": "JohnHeraty"
+}, 
+"date_created": "2018-08-02T21:43:44.977Z", 
+"id": "additions-6520236-6520236", 
+"new_ottids_required": 1, 
+"study_id": "ot_1598", 
+"taxa": [
+{
+"adjusted_label": "Orasema achkola", 
+"comment": "", 
+"name": "Orasema achkola", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Orasema achkola FL D3938 ABCEgH F", 
+"ott_id": 6520236, 
+"parent": 1045704, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu19"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
