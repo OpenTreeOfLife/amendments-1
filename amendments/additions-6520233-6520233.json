@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "JohnHeraty", 
+"name": "JohnHeraty"
+}, 
+"date_created": "2018-08-02T13:29:27.808Z", 
+"id": "additions-6520233-6520233", 
+"new_ottids_required": 1, 
+"study_id": "ot_1506", 
+"taxa": [
+{
+"adjusted_label": "Kapala sp. D2802", 
+"comment": "because it would not be accepted otherwise.", 
+"name": "Kapala sp. D2802", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "E9.1 Kapala.sp.frgui.D2802", 
+"ott_id": 6520233, 
+"parent": 1032778, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu208"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
