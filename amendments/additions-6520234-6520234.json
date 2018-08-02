@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "david.maddison@science.oregonstate.edu", 
+"login": "DMaddison", 
+"name": "David Maddison"
+}, 
+"date_created": "2018-08-02T18:07:11.823Z", 
+"id": "additions-6520234-6520234", 
+"new_ottids_required": 1, 
+"study_id": "ot_1580", 
+"taxa": [
+{
+"adjusted_label": "Bembidion puponga", 
+"comment": "", 
+"name": "Bembidion puponga", 
+"name_derivation": "No change to original label", 
+"original_label": "Bembidion puponga", 
+"ott_id": 6520234, 
+"parent": 641087, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://digitalcommons.unl.edu/insectamundi/906/", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu72"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
