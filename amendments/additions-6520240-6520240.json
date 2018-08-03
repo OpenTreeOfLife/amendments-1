@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-08-03T18:11:27.244Z", 
+"id": "additions-6520240-6520240", 
+"new_ottids_required": 1, 
+"study_id": "ot_1564", 
+"taxa": [
+{
+"adjusted_label": "Kalbarria", 
+"comment": "", 
+"name": "Kalbarria", 
+"name_derivation": "No change to original label", 
+"original_label": "Kalbarria", 
+"ott_id": 6520240, 
+"parent": 4709854, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://eprints.esc.cam.ac.uk/id/eprint/2727", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu121"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
