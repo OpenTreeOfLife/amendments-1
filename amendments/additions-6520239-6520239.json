@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-08-03T18:08:40.865Z", 
+"id": "additions-6520239-6520239", 
+"new_ottids_required": 1, 
+"study_id": "ot_1564", 
+"taxa": [
+{
+"adjusted_label": "Apankura", 
+"comment": "", 
+"name": "Apankura", 
+"name_derivation": "No change to original label", 
+"original_label": "Apankura", 
+"ott_id": 6520239, 
+"parent": 4709854, 
+"rank": "genus", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1038/nature02649", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu120"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
