@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "s.byrum@ku.edu", 
+"login": "sbyrum", 
+"name": "sbyrum"
+}, 
+"date_created": "2018-08-03T19:00:14.496Z", 
+"id": "additions-6520242-6520242", 
+"new_ottids_required": 1, 
+"study_id": "ot_1564", 
+"taxa": [
+{
+"adjusted_label": "Synaustrus", 
+"comment": "", 
+"name": "Synaustrus", 
+"name_derivation": "No change to original label", 
+"original_label": "Synaustrus", 
+"ott_id": 6520242, 
+"parent": 4709854, 
+"rank": "genus", 
+"sources": [
+{
+"source": "https://www.austmus.gov.au/uploads/journals/17436/681.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu125"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
