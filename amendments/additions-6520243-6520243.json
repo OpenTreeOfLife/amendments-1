@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "jonathan.chang@ucla.edu", 
+"login": "jonchang", 
+"name": "Jonathan Chang"
+}, 
+"date_created": "2018-08-09T17:19:22.177Z", 
+"id": "additions-6520243-6520243", 
+"new_ottids_required": 1, 
+"study_id": "ot_1642", 
+"taxa": [
+{
+"adjusted_label": "Trichomycterus piratymbara", 
+"comment": "", 
+"name": "Trichomycterus piratymbara", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Trichomycterus pyratimbara", 
+"ott_id": 6520243, 
+"parent": 923320, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://pfeil-verlag.de/wp-content/uploads/2015/05/ief23_4_08.pdf", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu73"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
