@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "jonathan.chang@ucla.edu", 
+"login": "jonchang", 
+"name": "Jonathan Chang"
+}, 
+"date_created": "2018-08-09T17:20:42.417Z", 
+"id": "additions-6520244-6520244", 
+"new_ottids_required": 1, 
+"study_id": "ot_1642", 
+"taxa": [
+{
+"adjusted_label": "Ituglanis goya", 
+"comment": "", 
+"name": "Ituglanis goya", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Ituglanis goya3", 
+"ott_id": 6520244, 
+"parent": 3622258, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/zootaxa.4171.3.2", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu37"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
