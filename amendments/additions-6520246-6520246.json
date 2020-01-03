@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "kaiyaprovost", 
+"name": "kaiyaprovost"
+}, 
+"date_created": "2020-01-03T19:42:05.568Z", 
+"id": "additions-6520246-6520246", 
+"new_ottids_required": 1, 
+"study_id": "ot_1968", 
+"taxa": [
+{
+"adjusted_label": "Strigops habroptilus", 
+"comment": "This is the only extant Strigops ", 
+"name": "Strigops habroptila", 
+"name_derivation": "No change to original label", 
+"original_label": "Strigops habroptila", 
+"ott_id": 6520246, 
+"parent": 512918, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://en.wikipedia.org/wiki/Kakapo", 
+"source_type": "Other"
+}
+], 
+"tag": "otu156"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
