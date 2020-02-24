@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "MGGirard", 
+"name": "Matt Girard"
+}, 
+"date_created": "2020-02-24T16:36:38.308Z", 
+"id": "additions-6520247-6520248", 
+"new_ottids_required": 2, 
+"study_id": "ot_1979", 
+"taxa": [
+{
+"adjusted_label": "Cirrhilabrus briangreenei", 
+"comment": "", 
+"name": "Cirrhilabrus briangreenei", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "CIR03 C briangreenei n sp", 
+"ott_id": 6520247, 
+"parent": 195610, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu16"
+}, 
+{
+"adjusted_label": "Cgreeni", 
+"comment": "", 
+"name": "Cgreeni", 
+"name_derivation": "No change to original label", 
+"original_label": "Cgreeni", 
+"ott_id": 6520248, 
+"parent": 195610, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu29"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
