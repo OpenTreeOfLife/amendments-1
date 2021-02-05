@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "arthur200126@gmail.com", 
+"login": "Artoria2e5", 
+"name": "Mingye Wang"
+}, 
+"date_created": "2021-02-05T09:54:32.344Z", 
+"id": "additions-6520249-6520249", 
+"new_ottids_required": 1, 
+"study_id": "ot_1979", 
+"taxa": [
+{
+"adjusted_label": "Cirrhilabrus briangreenei", 
+"comment": "", 
+"name": "Cirrhilabrus briangreenei", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "CIR05 C briangreenei n sp", 
+"ott_id": 6520249, 
+"parent": 195610, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1643/CI-19-297", 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu11"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
