@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "brunoasm", 
+"name": "Bruno de Medeiros"
+}, 
+"date_created": "2021-03-13T14:47:22.535Z", 
+"id": "additions-6520255-6520255", 
+"new_ottids_required": 1, 
+"study_id": "ot_2012", 
+"taxa": [
+{
+"adjusted_label": "Cryptoderma fortunei", 
+"comment": "", 
+"name": "Cryptoderma fortunei", 
+"name_derivation": "No change to original label", 
+"original_label": "Cryptoderma fortunei", 
+"ott_id": 6520255, 
+"parent": 4607010, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2789697", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu46"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
