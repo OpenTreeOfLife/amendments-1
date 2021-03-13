@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "brunoasm", 
+"name": "Bruno de Medeiros"
+}, 
+"date_created": "2021-03-13T14:48:10.157Z", 
+"id": "additions-6520256-6520256", 
+"new_ottids_required": 1, 
+"study_id": "ot_2012", 
+"taxa": [
+{
+"adjusted_label": "Cryptoderma formosense", 
+"comment": "", 
+"name": "Cryptoderma formosense", 
+"name_derivation": "No change to original label", 
+"original_label": "Cryptoderma formosense", 
+"ott_id": 6520256, 
+"parent": 4607010, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2789698", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu45"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
