@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "brunoasm", 
+"name": "Bruno de Medeiros"
+}, 
+"date_created": "2021-03-13T14:23:15.773Z", 
+"id": "additions-6520251-6520251", 
+"new_ottids_required": 1, 
+"study_id": "ot_2012", 
+"taxa": [
+{
+"adjusted_label": "Poteriophorus uhlemanni", 
+"comment": "", 
+"name": "Poteriophorus uhlemanni", 
+"name_derivation": "No change to original label", 
+"original_label": "Poteriophorus uhlemanni", 
+"ott_id": 6520251, 
+"parent": 4607088, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://doi.org/10.1649/0010-065X-73.2.283", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu18"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
