@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "eliotmiller", 
+"name": "eliotmiller"
+}, 
+"date_created": "2021-03-30T03:26:24.897Z", 
+"id": "additions-6520258-6520258", 
+"new_ottids_required": 1, 
+"study_id": "ot_2016", 
+"taxa": [
+{
+"adjusted_label": "Celeus ochraceus", 
+"comment": "https://avibase.bsc-eoc.org/species.jsp?lang=EN&avibaseid=DF220B1FB12CC694 Previously considered a subspecies of C. flavescens", 
+"name": "Celeus ochraceus", 
+"name_derivation": "No change to original label", 
+"original_label": "Celeus ochraceus", 
+"ott_id": 6520258, 
+"parent": 724182, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://avibase.bsc-eoc.org/species.jsp?lang=EN&avibaseid=DF220B1FB12CC694", 
+"source_type": "Other"
+}
+], 
+"tag": "otu322"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
