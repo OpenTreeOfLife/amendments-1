@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2021-04-15T18:51:58.122Z", 
+"id": "additions-6520263-6520263", 
+"new_ottids_required": 1, 
+"study_id": "ot_2019", 
+"taxa": [
+{
+"adjusted_label": "Alopochen mauritiana", 
+"comment": "", 
+"name": "Alopochen mauritiana", 
+"name_derivation": "No change to original label", 
+"original_label": "Alopochen mauritiana", 
+"ott_id": 6520263, 
+"parent": 860117, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu20163"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
