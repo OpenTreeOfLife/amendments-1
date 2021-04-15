@@ -1,0 +1,1034 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2021-04-15T19:28:20.403Z", 
+"id": "additions-6520264-6520323", 
+"new_ottids_required": 60, 
+"study_id": "ot_2019", 
+"taxa": [
+{
+"adjusted_label": "Leistes bellicosus", 
+"comment": "", 
+"name": "Leistes bellicosus", 
+"name_derivation": "No change to original label", 
+"original_label": "Leistes bellicosus", 
+"ott_id": 6520264, 
+"parent": 3597461, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu10190"
+}, 
+{
+"adjusted_label": "Emberiza calandra", 
+"comment": "", 
+"name": "Emberiza calandra", 
+"name_derivation": "No change to original label", 
+"original_label": "Emberiza calandra", 
+"ott_id": 6520265, 
+"parent": 711854, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu10382"
+}, 
+{
+"adjusted_label": "Passer zarudnyi", 
+"comment": "", 
+"name": "Passer zarudnyi", 
+"name_derivation": "No change to original label", 
+"original_label": "Passer zarudnyi", 
+"ott_id": 6520266, 
+"parent": 515158, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu10706"
+}, 
+{
+"adjusted_label": "Cinnyris gertrudis", 
+"comment": "", 
+"name": "Cinnyris gertrudis", 
+"name_derivation": "No change to original label", 
+"original_label": "Cinnyris gertrudis", 
+"ott_id": 6520267, 
+"parent": 520444, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu11122"
+}, 
+{
+"adjusted_label": "Calliope tschebaiewi", 
+"comment": "", 
+"name": "Calliope tschebaiewi", 
+"name_derivation": "No change to original label", 
+"original_label": "Calliope tschebaiewi", 
+"ott_id": 6520268, 
+"parent": 6152946, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu11371"
+}, 
+{
+"adjusted_label": "Cyornis pelingensis", 
+"comment": "", 
+"name": "Cyornis pelingensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Cyornis pelingensis", 
+"ott_id": 6520269, 
+"parent": 288691, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu11467"
+}, 
+{
+"adjusted_label": "Cyornis sumatrensis", 
+"comment": "", 
+"name": "Cyornis sumatrensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Cyornis sumatrensis", 
+"ott_id": 6520270, 
+"parent": 288691, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu11476"
+}, 
+{
+"adjusted_label": "Ianthocincla woodi", 
+"comment": "", 
+"name": "Ianthocincla woodi", 
+"name_derivation": "No change to original label", 
+"original_label": "Ianthocincla woodi", 
+"ott_id": 6520271, 
+"parent": 294063, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu12107"
+}, 
+{
+"adjusted_label": "Megapomatorhinus erythrocnemis", 
+"comment": "", 
+"name": "Megapomatorhinus erythrocnemis", 
+"name_derivation": "No change to original label", 
+"original_label": "Megapomatorhinus erythrocnemis", 
+"ott_id": 6520272, 
+"parent": 5852575, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu12278"
+}, 
+{
+"adjusted_label": "Zosterops eurycricotus", 
+"comment": "", 
+"name": "Zosterops eurycricotus", 
+"name_derivation": "No change to original label", 
+"original_label": "Zosterops eurycricotus", 
+"ott_id": 6520273, 
+"parent": 131988, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu12378"
+}, 
+{
+"adjusted_label": "Phylloscopus rotiensis", 
+"comment": "", 
+"name": "Phylloscopus rotiensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Phylloscopus rotiensis", 
+"ott_id": 6520274, 
+"parent": 96289, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu12567"
+}, 
+{
+"adjusted_label": "Phylloscopus intensior", 
+"comment": "", 
+"name": "Phylloscopus intensior", 
+"name_derivation": "No change to original label", 
+"original_label": "Phylloscopus intensior", 
+"ott_id": 6520275, 
+"parent": 96289, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu12572"
+}, 
+{
+"adjusted_label": "Pycnonotus snouckaerti", 
+"comment": "", 
+"name": "Pycnonotus snouckaerti", 
+"name_derivation": "No change to original label", 
+"original_label": "Pycnonotus snouckaerti", 
+"ott_id": 6520276, 
+"parent": 92678, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu12700"
+}, 
+{
+"adjusted_label": "Pica bottanensis", 
+"comment": "", 
+"name": "Pica bottanensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Pica bottanensis", 
+"ott_id": 6520277, 
+"parent": 776480, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu13512"
+}, 
+{
+"adjusted_label": "Pica asirensis", 
+"comment": "", 
+"name": "Pica asirensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Pica asirensis", 
+"ott_id": 6520278, 
+"parent": 776480, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu13514"
+}, 
+{
+"adjusted_label": "Dicrurus atactus", 
+"comment": "", 
+"name": "Dicrurus atactus", 
+"name_derivation": "No change to original label", 
+"original_label": "Dicrurus atactus", 
+"ott_id": 6520279, 
+"parent": 72474, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu13784"
+}, 
+{
+"adjusted_label": "Dicrurus occidentalis", 
+"comment": "", 
+"name": "Dicrurus occidentalis", 
+"name_derivation": "No change to original label", 
+"original_label": "Dicrurus occidentalis", 
+"ott_id": 6520280, 
+"parent": 72474, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu13790"
+}, 
+{
+"adjusted_label": "Rhipidura sulaensis", 
+"comment": "", 
+"name": "Rhipidura sulaensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Rhipidura sulaensis", 
+"ott_id": 6520281, 
+"parent": 21006, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu13810"
+}, 
+{
+"adjusted_label": "Myzomela irianawidodoae", 
+"comment": "", 
+"name": "Myzomela irianawidodoae", 
+"name_derivation": "No change to original label", 
+"original_label": "Myzomela irianawidodoae", 
+"ott_id": 6520282, 
+"parent": 598352, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu14442"
+}, 
+{
+"adjusted_label": "Schiffornis olivacea", 
+"comment": "", 
+"name": "Schiffornis olivacea", 
+"name_derivation": "No change to original label", 
+"original_label": "Schiffornis olivacea", 
+"ott_id": 6520283, 
+"parent": 857137, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu15072"
+}, 
+{
+"adjusted_label": "Automolus exsertus", 
+"comment": "", 
+"name": "Automolus exsertus", 
+"name_derivation": "No change to original label", 
+"original_label": "Automolus exsertus", 
+"ott_id": 6520284, 
+"parent": 759408, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu15335"
+}, 
+{
+"adjusted_label": "Myrmothera subcanescens", 
+"comment": "", 
+"name": "Myrmothera subcanescens", 
+"name_derivation": "No change to original label", 
+"original_label": "Myrmothera subcanescens", 
+"ott_id": 6520285, 
+"parent": 736629, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu15578"
+}, 
+{
+"adjusted_label": "Cercomacroides fuscicauda", 
+"comment": "", 
+"name": "Cercomacroides fuscicauda", 
+"name_derivation": "No change to original label", 
+"original_label": "Cercomacroides fuscicauda", 
+"ott_id": 6520286, 
+"parent": 743734, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu15711"
+}, 
+{
+"adjusted_label": "Psittacara labati", 
+"comment": "", 
+"name": "Psittacara labati", 
+"name_derivation": "No change to original label", 
+"original_label": "Psittacara labati", 
+"ott_id": 6520287, 
+"parent": 4131198, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu15938"
+}, 
+{
+"adjusted_label": "Psittacara maugei", 
+"comment": "", 
+"name": "Psittacara maugei", 
+"name_derivation": "No change to original label", 
+"original_label": "Psittacara maugei", 
+"ott_id": 6520288, 
+"parent": 4131198, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu15939"
+}, 
+{
+"adjusted_label": "Necopsittacus rodricanus", 
+"comment": "", 
+"name": "Necopsittacus rodricanus", 
+"name_derivation": "No change to original label", 
+"original_label": "Necopsittacus rodricanus", 
+"ott_id": 6520289, 
+"parent": 4131195, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu16247"
+}, 
+{
+"adjusted_label": "Lophopsittacus mauritianus", 
+"comment": "", 
+"name": "Lophopsittacus mauritianus", 
+"name_derivation": "No change to original label", 
+"original_label": "Lophopsittacus mauritianus", 
+"ott_id": 6520290, 
+"parent": 4131208, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu16249"
+}, 
+{
+"adjusted_label": "Eclectus infectus", 
+"comment": "", 
+"name": "Eclectus infectus", 
+"name_derivation": "No change to original label", 
+"original_label": "Eclectus infectus", 
+"ott_id": 6520291, 
+"parent": 375779, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu16271"
+}, 
+{
+"adjusted_label": "Colaptes oceanicus", 
+"comment": "", 
+"name": "Colaptes oceanicus", 
+"name_derivation": "No change to original label", 
+"original_label": "Colaptes oceanicus", 
+"ott_id": 6520292, 
+"parent": 1020136, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu16397"
+}, 
+{
+"adjusted_label": "Celeus ochraceus", 
+"comment": "", 
+"name": "Celeus ochraceus", 
+"name_derivation": "No change to original label", 
+"original_label": "Celeus ochraceus", 
+"ott_id": 6520293, 
+"parent": 724182, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu16416"
+}, 
+{
+"adjusted_label": "Dinopium psarodes", 
+"comment": "", 
+"name": "Dinopium psarodes", 
+"name_derivation": "No change to original label", 
+"original_label": "Dinopium psarodes", 
+"ott_id": 6520294, 
+"parent": 1076467, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu16465"
+}, 
+{
+"adjusted_label": "Psilopogon auricularis", 
+"comment": "", 
+"name": "Psilopogon auricularis", 
+"name_derivation": "No change to original label", 
+"original_label": "Psilopogon auricularis", 
+"ott_id": 6520295, 
+"parent": 291642, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu16749"
+}, 
+{
+"adjusted_label": "Bucco noanamae", 
+"comment": "", 
+"name": "Bucco noanamae (ebird)", 
+"name_derivation": "Label is a synonym", 
+"original_label": "Bucco noanamae", 
+"ott_id": 6520296, 
+"parent": 483803, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu16804"
+}, 
+{
+"adjusted_label": "Tyto deroepstorffi", 
+"comment": "", 
+"name": "Tyto deroepstorffi", 
+"name_derivation": "No change to original label", 
+"original_label": "Tyto deroepstorffi", 
+"ott_id": 6520297, 
+"parent": 1065605, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu17132"
+}, 
+{
+"adjusted_label": "Megascops gilesi", 
+"comment": "", 
+"name": "Megascops gilesi", 
+"name_derivation": "No change to original label", 
+"original_label": "Megascops gilesi", 
+"ott_id": 6520298, 
+"parent": 181710, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu17289"
+}, 
+{
+"adjusted_label": "Otus sulaensis", 
+"comment": "", 
+"name": "Otus sulaensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Otus sulaensis", 
+"ott_id": 6520299, 
+"parent": 1086553, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu17334"
+}, 
+{
+"adjusted_label": "Otus siaoensis", 
+"comment": "", 
+"name": "Otus siaoensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Otus siaoensis", 
+"ott_id": 6520300, 
+"parent": 1086553, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu17335"
+}, 
+{
+"adjusted_label": "Bermuteo avivorus", 
+"comment": "", 
+"name": "Bermuteo avivorus", 
+"name_derivation": "No change to original label", 
+"original_label": "Bermuteo avivorus", 
+"ott_id": 6520301, 
+"parent": 4130335, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu17393"
+}, 
+{
+"adjusted_label": "Nyctanassa carcinocatactes", 
+"comment": "", 
+"name": "Nyctanassa carcinocatactes", 
+"name_derivation": "No change to original label", 
+"original_label": "Nyctanassa carcinocatactes", 
+"ott_id": 6520302, 
+"parent": 244690, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu17665"
+}, 
+{
+"adjusted_label": "Nycticorax megacephalus", 
+"comment": "", 
+"name": "Nycticorax megacephalus", 
+"name_derivation": "No change to original label", 
+"original_label": "Nycticorax megacephalus", 
+"ott_id": 6520303, 
+"parent": 313128, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu17668"
+}, 
+{
+"adjusted_label": "Nycticorax duboisi", 
+"comment": "", 
+"name": "Nycticorax duboisi", 
+"name_derivation": "No change to original label", 
+"original_label": "Nycticorax duboisi", 
+"ott_id": 6520304, 
+"parent": 313128, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu17669"
+}, 
+{
+"adjusted_label": "Nycticorax mauritianus", 
+"comment": "", 
+"name": "Nycticorax mauritianus", 
+"name_derivation": "No change to original label", 
+"original_label": "Nycticorax mauritianus", 
+"ott_id": 6520305, 
+"parent": 313128, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu17670"
+}, 
+{
+"adjusted_label": "Campylopterus calcirupicola", 
+"comment": "", 
+"name": "Campylopterus calcirupicola", 
+"name_derivation": "No change to original label", 
+"original_label": "Campylopterus calcirupicola", 
+"ott_id": 6520306, 
+"parent": 294127, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu18629"
+}, 
+{
+"adjusted_label": "Urochroa leucura", 
+"comment": "", 
+"name": "Urochroa leucura", 
+"name_derivation": "No change to original label", 
+"original_label": "Urochroa leucura", 
+"ott_id": 6520307, 
+"parent": 398908, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu18730"
+}, 
+{
+"adjusted_label": "Setopagis heterura", 
+"comment": "", 
+"name": "Setopagis heterura", 
+"name_derivation": "No change to original label", 
+"original_label": "Setopagis heterura", 
+"ott_id": 6520308, 
+"parent": 3601781, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu19118"
+}, 
+{
+"adjusted_label": "Systellura decussata", 
+"comment": "", 
+"name": "Systellura decussata", 
+"name_derivation": "No change to original label", 
+"original_label": "Systellura decussata", 
+"ott_id": 6520309, 
+"parent": 4130547, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu19127"
+}, 
+{
+"adjusted_label": "Hierococcyx bocki", 
+"comment": "", 
+"name": "Hierococcyx bocki", 
+"name_derivation": "No change to original label", 
+"original_label": "Hierococcyx bocki", 
+"ott_id": 6520310, 
+"parent": 589929, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu19166"
+}, 
+{
+"adjusted_label": "Treron griveaudi", 
+"comment": "", 
+"name": "Treron griveaudi", 
+"name_derivation": "No change to original label", 
+"original_label": "Treron griveaudi", 
+"ott_id": 6520311, 
+"parent": 873964, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu19483"
+}, 
+{
+"adjusted_label": "Treron axillaris", 
+"comment": "", 
+"name": "Treron axillaris", 
+"name_derivation": "No change to original label", 
+"original_label": "Treron axillaris", 
+"ott_id": 6520312, 
+"parent": 873964, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu19493"
+}, 
+{
+"adjusted_label": "Nesoenas rodericanus", 
+"comment": "", 
+"name": "Nesoenas rodericanus", 
+"name_derivation": "No change to original label", 
+"original_label": "Nesoenas rodericanus", 
+"ott_id": 6520313, 
+"parent": 981607, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu19655"
+}, 
+{
+"adjusted_label": "Nesoenas cicur", 
+"comment": "", 
+"name": "Nesoenas cicur", 
+"name_derivation": "No change to original label", 
+"original_label": "Nesoenas cicur", 
+"ott_id": 6520314, 
+"parent": 981607, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu19656"
+}, 
+{
+"adjusted_label": "Nesoenas duboisi", 
+"comment": "", 
+"name": "Nesoenas duboisi", 
+"name_derivation": "No change to original label", 
+"original_label": "Nesoenas duboisi", 
+"ott_id": 6520315, 
+"parent": 981607, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu19658"
+}, 
+{
+"adjusted_label": "Columba thiriouxi", 
+"comment": "", 
+"name": "Columba thiriouxi", 
+"name_derivation": "No change to original label", 
+"original_label": "Columba thiriouxi", 
+"ott_id": 6520316, 
+"parent": 938415, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu19676"
+}, 
+{
+"adjusted_label": "Megapodius forsteni", 
+"comment": "", 
+"name": "Megapodius forsteni", 
+"name_derivation": "No change to original label", 
+"original_label": "Megapodius forsteni", 
+"ott_id": 6520317, 
+"parent": 837567, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu19964"
+}, 
+{
+"adjusted_label": "Ortalis squamata", 
+"comment": "", 
+"name": "Ortalis squamata", 
+"name_derivation": "No change to original label", 
+"original_label": "Ortalis squamata", 
+"ott_id": 6520318, 
+"parent": 109892, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu20008"
+}, 
+{
+"adjusted_label": "Ortalis araucuan", 
+"comment": "", 
+"name": "Ortalis araucuan", 
+"name_derivation": "No change to original label", 
+"original_label": "Ortalis araucuan", 
+"ott_id": 6520319, 
+"parent": 109892, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu20009"
+}, 
+{
+"adjusted_label": "Ortalis columbiana", 
+"comment": "", 
+"name": "Ortalis columbiana", 
+"name_derivation": "No change to original label", 
+"original_label": "Ortalis columbiana", 
+"ott_id": 6520320, 
+"parent": 109892, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu20011"
+}, 
+{
+"adjusted_label": "Melanitta stejnegeri", 
+"comment": "", 
+"name": "Melanitta stejnegeri", 
+"name_derivation": "No change to original label", 
+"original_label": "Melanitta stejnegeri", 
+"ott_id": 6520321, 
+"parent": 948665, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu20058"
+}, 
+{
+"adjusted_label": "Mareca marecula", 
+"comment": "", 
+"name": "Mareca marecula", 
+"name_derivation": "No change to original label", 
+"original_label": "Mareca marecula", 
+"ott_id": 6520322, 
+"parent": 3595961, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu20118"
+}, 
+{
+"adjusted_label": "Poospiza nigrorufa", 
+"comment": "", 
+"name": "Poospiza nigrorufa (ebird)", 
+"name_derivation": "Label is a synonym", 
+"original_label": "Poospiza nigrorufa", 
+"ott_id": 6520323, 
+"parent": 605365, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu9674"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
