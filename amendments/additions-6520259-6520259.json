@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2021-04-15T17:57:21.806Z", 
+"id": "additions-6520259-6520259", 
+"new_ottids_required": 1, 
+"study_id": "ot_2019", 
+"taxa": [
+{
+"adjusted_label": "Alectroenas payandeei", 
+"comment": "", 
+"name": "Alectroenas payandeei", 
+"name_derivation": "No change to original label", 
+"original_label": "Alectroenas payandeei", 
+"ott_id": 6520259, 
+"parent": 1032064, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu19416"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
