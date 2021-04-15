@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2021-04-15T18:04:24.243Z", 
+"id": "additions-6520260-6520261", 
+"new_ottids_required": 2, 
+"study_id": "ot_2019", 
+"taxa": [
+{
+"adjusted_label": "Alopecoenas norfolkensis", 
+"comment": "", 
+"name": "Alopecoenas norfolkensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Alopecoenas norfolkensis", 
+"ott_id": 6520260, 
+"parent": 6151171, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu19593"
+}, 
+{
+"adjusted_label": "Alopecoenas ferrugineus", 
+"comment": "", 
+"name": "Alopecoenas ferrugineus", 
+"name_derivation": "No change to original label", 
+"original_label": "Alopecoenas ferrugineus", 
+"ott_id": 6520261, 
+"parent": 6151171, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/the-ebird-taxonomy", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu19601"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
