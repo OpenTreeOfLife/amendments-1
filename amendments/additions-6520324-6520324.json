@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "MGGirard", 
+"name": "Matt Girard"
+}, 
+"date_created": "2021-05-07T16:31:47.929Z", 
+"id": "additions-6520324-6520324", 
+"new_ottids_required": 1, 
+"study_id": "ot_2026", 
+"taxa": [
+{
+"adjusted_label": "USNMFS245254 USNM587913 Micryletta lineata", 
+"comment": "Taxon originally described in Taylor, E. H. 1962. The amphibian fauna of Thailand. University of Kansas Science Bulletin 43:265\u2013599.", 
+"name": "Micryletta lineata", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "USNMFS245254 USNM587913 Micryletta lineata", 
+"ott_id": 6520324, 
+"parent": 304793, 
+"rank": "species", 
+"sources": [
+{
+"source": "This taxon is not described in this study, but it is found to be a valid taxon ", 
+"source_type": "Other"
+}
+], 
+"tag": "otu49"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
