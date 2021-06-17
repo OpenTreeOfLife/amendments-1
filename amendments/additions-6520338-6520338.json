@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ewers.christine@gmail.com", 
+"login": "ewersSaucedo", 
+"name": "Christine Ewers-Saucedo"
+}, 
+"date_created": "2021-06-17T13:21:11.184Z", 
+"id": "additions-6520338-6520338", 
+"new_ottids_required": 1, 
+"study_id": "ot_2033", 
+"taxa": [
+{
+"adjusted_label": "Triangulidae", 
+"comment": "", 
+"name": "Triangulidae", 
+"name_derivation": "No change to original label", 
+"original_label": "Triangulidae", 
+"ott_id": 6520338, 
+"parent": 363885, 
+"rank": "family", 
+"sources": [
+{
+"source": "https://doi.org/10.1093/zoolinnean/zlz140", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu1"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
