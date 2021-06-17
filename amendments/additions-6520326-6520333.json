@@ -1,0 +1,150 @@
+{
+"curator": {
+"email": "ewers.christine@gmail.com", 
+"login": "ewersSaucedo", 
+"name": "Christine Ewers-Saucedo"
+}, 
+"date_created": "2021-06-17T12:14:08.557Z", 
+"id": "additions-6520326-6520333", 
+"new_ottids_required": 8, 
+"study_id": "ot_2033", 
+"taxa": [
+{
+"adjusted_label": "Triangulidae", 
+"comment": "", 
+"name": "Triangulidae", 
+"name_derivation": "No change to original label", 
+"original_label": "Triangulidae", 
+"ott_id": 6520326, 
+"parent": 363885, 
+"rank": "family", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu1"
+}, 
+{
+"adjusted_label": "Scalpelidae", 
+"comment": "", 
+"name": "Scalpelidae", 
+"name_derivation": "No change to original label", 
+"original_label": "Scalpelidae", 
+"ott_id": 6520327, 
+"parent": 363885, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu22"
+}, 
+{
+"adjusted_label": "Neolepadidae", 
+"comment": "", 
+"name": "Neolepadidae", 
+"name_derivation": "No change to original label", 
+"original_label": "Neolepadidae", 
+"ott_id": 6520328, 
+"parent": 363885, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu23"
+}, 
+{
+"adjusted_label": "Elminidae", 
+"comment": "", 
+"name": "Elminidae", 
+"name_derivation": "No change to original label", 
+"original_label": "Elminidae", 
+"ott_id": 6520329, 
+"parent": 363885, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu32"
+}, 
+{
+"adjusted_label": "Pirusaccidae", 
+"comment": "", 
+"name": "Pirusaccidae", 
+"name_derivation": "No change to original label", 
+"original_label": "Pirusaccidae", 
+"ott_id": 6520330, 
+"parent": 363885, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu4"
+}, 
+{
+"adjusted_label": "Petrarciae", 
+"comment": "", 
+"name": "Petrarciae", 
+"name_derivation": "No change to original label", 
+"original_label": "Petrarciae", 
+"ott_id": 6520331, 
+"parent": 363885, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu45"
+}, 
+{
+"adjusted_label": "Polyascidae", 
+"comment": "", 
+"name": "Polyascidae", 
+"name_derivation": "No change to original label", 
+"original_label": "Polyascidae", 
+"ott_id": 6520332, 
+"parent": 363885, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu8"
+}, 
+{
+"adjusted_label": "Peltogasterellidae", 
+"comment": "", 
+"name": "Peltogasterellidae", 
+"name_derivation": "No change to original label", 
+"original_label": "Peltogasterellidae", 
+"ott_id": 6520333, 
+"parent": 363885, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu9"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
