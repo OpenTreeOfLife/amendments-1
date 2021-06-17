@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ewers.christine@gmail.com", 
+"login": "ewersSaucedo", 
+"name": "Christine Ewers-Saucedo"
+}, 
+"date_created": "2021-06-17T13:13:04.456Z", 
+"id": "additions-6520337-6520337", 
+"new_ottids_required": 1, 
+"study_id": "ot_2033", 
+"taxa": [
+{
+"adjusted_label": "Neolepadidae", 
+"comment": "", 
+"name": "Neolepadidae", 
+"name_derivation": "No change to original label", 
+"original_label": "Neolepadidae", 
+"ott_id": 6520337, 
+"parent": 734625, 
+"rank": "family", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.1017/S0025315404008975h", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu23"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
