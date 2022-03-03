@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2022-03-03T23:11:03.902Z", 
+"id": "additions-6520342-6520342", 
+"new_ottids_required": 1, 
+"study_id": "ot_2019", 
+"taxa": [
+{
+"adjusted_label": "Megascops roraimae", 
+"comment": "", 
+"name": "Megascops roraimae", 
+"name_derivation": "No change to original label", 
+"original_label": "Megascops roraimae", 
+"ott_id": 6520342, 
+"parent": 181710, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/news/2019-ebird-taxonomy-update", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu17296"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
