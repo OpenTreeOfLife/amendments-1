@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2022-03-15T15:52:13.810Z", 
+"id": "additions-6520369-6520369", 
+"new_ottids_required": 1, 
+"study_id": "ot_2064", 
+"taxa": [
+{
+"adjusted_label": "Ortalis ruficeps", 
+"comment": "", 
+"name": "Ortalis ruficeps", 
+"name_derivation": "No change to original label", 
+"original_label": "Ortalis ruficeps", 
+"ott_id": 6520369, 
+"parent": 109892, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu3"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
