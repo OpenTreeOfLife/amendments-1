@@ -1,0 +1,82 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2022-03-15T16:13:58.100Z", 
+"id": "additions-6520373-6520376", 
+"new_ottids_required": 4, 
+"study_id": "ot_2064", 
+"taxa": [
+{
+"adjusted_label": "Mionectes roraimae", 
+"comment": "", 
+"name": "Mionectes roraimae", 
+"name_derivation": "No change to original label", 
+"original_label": "Mionectes roraimae", 
+"ott_id": 6520373, 
+"parent": 683046, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu38"
+}, 
+{
+"adjusted_label": "Myzomela prawiradilagae", 
+"comment": "", 
+"name": "Myzomela prawiradilagae", 
+"name_derivation": "No change to original label", 
+"original_label": "Myzomela prawiradilagae", 
+"ott_id": 6520374, 
+"parent": 598352, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu39"
+}, 
+{
+"adjusted_label": "Rheinardia nigrescens", 
+"comment": "", 
+"name": "Rheinardia nigrescens", 
+"name_derivation": "No change to original label", 
+"original_label": "Rheinardia nigrescens", 
+"ott_id": 6520375, 
+"parent": 727338, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu4"
+}, 
+{
+"adjusted_label": "Myzomela wahe", 
+"comment": "", 
+"name": "Myzomela wahe", 
+"name_derivation": "No change to original label", 
+"original_label": "Myzomela wahe", 
+"ott_id": 6520376, 
+"parent": 598352, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu40"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
