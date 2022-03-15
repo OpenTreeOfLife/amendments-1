@@ -1,0 +1,82 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2022-03-15T00:58:02.150Z", 
+"id": "additions-6520345-6520348", 
+"new_ottids_required": 4, 
+"study_id": "ot_2019", 
+"taxa": [
+{
+"adjusted_label": "Scytalopus frankeae", 
+"comment": "", 
+"name": "Scytalopus frankeae", 
+"name_derivation": "No change to original label", 
+"original_label": "Scytalopus frankeae", 
+"ott_id": 6520345, 
+"parent": 44860, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu37105"
+}, 
+{
+"adjusted_label": "Scytalopus whitneyi", 
+"comment": "", 
+"name": "Scytalopus whitneyi", 
+"name_derivation": "No change to original label", 
+"original_label": "Scytalopus whitneyi", 
+"ott_id": 6520346, 
+"parent": 44860, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu37106"
+}, 
+{
+"adjusted_label": "Scytalopus androstictus", 
+"comment": "", 
+"name": "Scytalopus androstictus", 
+"name_derivation": "No change to original label", 
+"original_label": "Scytalopus androstictus", 
+"ott_id": 6520347, 
+"parent": 44860, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu37114"
+}, 
+{
+"adjusted_label": "Scytalopus krabbei", 
+"comment": "", 
+"name": "Scytalopus krabbei", 
+"name_derivation": "No change to original label", 
+"original_label": "Scytalopus krabbei", 
+"ott_id": 6520348, 
+"parent": 44860, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu37115"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
