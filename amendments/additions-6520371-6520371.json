@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2022-03-15T16:01:46.522Z", 
+"id": "additions-6520371-6520371", 
+"new_ottids_required": 1, 
+"study_id": "ot_2064", 
+"taxa": [
+{
+"adjusted_label": "Sclerurus obscurior", 
+"comment": "", 
+"name": "Sclerurus obscurior", 
+"name_derivation": "No change to original label", 
+"original_label": "Sclerurus obscurior", 
+"ott_id": 6520371, 
+"parent": 743730, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu36"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
