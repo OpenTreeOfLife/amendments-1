@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2022-03-15T15:39:18.375Z", 
+"id": "additions-6520364-6520364", 
+"new_ottids_required": 1, 
+"study_id": "ot_2064", 
+"taxa": [
+{
+"adjusted_label": "Taenioptynx sylvaticus", 
+"comment": "Adding genus first", 
+"name": "Taenioptynx", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Taenioptynx sylvaticus", 
+"ott_id": 6520364, 
+"parent": 1028828, 
+"rank": "genus", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu12"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
