@@ -1,0 +1,116 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2022-03-15T22:29:31.973Z", 
+"id": "additions-6520377-6520382", 
+"new_ottids_required": 6, 
+"study_id": "ot_2064", 
+"taxa": [
+{
+"adjusted_label": "Colluricincla fortis", 
+"comment": "", 
+"name": "Colluricincla fortis", 
+"name_derivation": "No change to original label", 
+"original_label": "Colluricincla fortis", 
+"ott_id": 6520377, 
+"parent": 175392, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/news/2021-ebird-taxonomy-update", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu41"
+}, 
+{
+"adjusted_label": "Colluricincla affinis", 
+"comment": "", 
+"name": "Colluricincla affinis", 
+"name_derivation": "No change to original label", 
+"original_label": "Colluricincla affinis", 
+"ott_id": 6520378, 
+"parent": 175392, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/news/2021-ebird-taxonomy-update", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu42"
+}, 
+{
+"adjusted_label": "Colluricincla obscura", 
+"comment": "", 
+"name": "Colluricincla obscura", 
+"name_derivation": "No change to original label", 
+"original_label": "Colluricincla obscura", 
+"ott_id": 6520379, 
+"parent": 175392, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/news/2021-ebird-taxonomy-update", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu43"
+}, 
+{
+"adjusted_label": "Colluricincla tappenbecki", 
+"comment": "", 
+"name": "Colluricincla tappenbecki", 
+"name_derivation": "No change to original label", 
+"original_label": "Colluricincla tappenbecki", 
+"ott_id": 6520380, 
+"parent": 175392, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/news/2021-ebird-taxonomy-update", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu44"
+}, 
+{
+"adjusted_label": "Colluricincla discolor", 
+"comment": "", 
+"name": "Colluricincla discolor", 
+"name_derivation": "No change to original label", 
+"original_label": "Colluricincla discolor", 
+"ott_id": 6520381, 
+"parent": 175392, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/news/2021-ebird-taxonomy-update", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu45"
+}, 
+{
+"adjusted_label": "Colluricincla rufogaster", 
+"comment": "", 
+"name": "Colluricincla rufogaster", 
+"name_derivation": "No change to original label", 
+"original_label": "Colluricincla rufogaster", 
+"ott_id": 6520382, 
+"parent": 175392, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/news/2021-ebird-taxonomy-update", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu46"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
