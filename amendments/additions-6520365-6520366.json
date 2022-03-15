@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2022-03-15T15:46:43.763Z", 
+"id": "additions-6520365-6520366", 
+"new_ottids_required": 2, 
+"study_id": "ot_2064", 
+"taxa": [
+{
+"adjusted_label": "Ninox plesseni", 
+"comment": "", 
+"name": "Ninox plesseni", 
+"name_derivation": "No change to original label", 
+"original_label": "Ninox plesseni", 
+"ott_id": 6520365, 
+"parent": 767822, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu13"
+}, 
+{
+"adjusted_label": "Ninox hantu", 
+"comment": "", 
+"name": "Ninox hantu", 
+"name_derivation": "No change to original label", 
+"original_label": "Ninox hantu", 
+"ott_id": 6520366, 
+"parent": 767822, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu14"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
