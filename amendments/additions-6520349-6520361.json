@@ -1,0 +1,235 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2022-03-15T04:41:04.034Z", 
+"id": "additions-6520349-6520361", 
+"new_ottids_required": 13, 
+"study_id": "ot_2064", 
+"taxa": [
+{
+"adjusted_label": "Grallaria spatiator", 
+"comment": "", 
+"name": "Grallaria spatiator", 
+"name_derivation": "No change to original label", 
+"original_label": "Grallaria spatiator", 
+"ott_id": 6520349, 
+"parent": 1041027, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update#new-species", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu18"
+}, 
+{
+"adjusted_label": "Grallaria saltuensis", 
+"comment": "", 
+"name": "Grallaria saltuensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Grallaria saltuensis", 
+"ott_id": 6520350, 
+"parent": 1041027, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update#new-species", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu19"
+}, 
+{
+"adjusted_label": "Grallaria centralis", 
+"comment": "", 
+"name": "Grallaria centralis", 
+"name_derivation": "No change to original label", 
+"original_label": "Grallaria centralis", 
+"ott_id": 6520351, 
+"parent": 1041027, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update#new-species", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu20"
+}, 
+{
+"adjusted_label": "Grallaria ayacuchensis", 
+"comment": "", 
+"name": "Grallaria ayacuchensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Grallaria ayacuchensis", 
+"ott_id": 6520352, 
+"parent": 1041027, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update#new-species", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu21"
+}, 
+{
+"adjusted_label": "Grallaria occabambae", 
+"comment": "", 
+"name": "Grallaria occabambae", 
+"name_derivation": "No change to original label", 
+"original_label": "Grallaria occabambae", 
+"ott_id": 6520353, 
+"parent": 1041027, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update#new-species", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu22"
+}, 
+{
+"adjusted_label": "Grallaria sinaensis", 
+"comment": "", 
+"name": "Grallaria sinaensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Grallaria sinaensis", 
+"ott_id": 6520354, 
+"parent": 1041027, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update#new-species", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu23"
+}, 
+{
+"adjusted_label": "Grallaria cochabambae", 
+"comment": "", 
+"name": "Grallaria cochabambae", 
+"name_derivation": "No change to original label", 
+"original_label": "Grallaria cochabambae", 
+"ott_id": 6520355, 
+"parent": 1041027, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update#new-species", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu24"
+}, 
+{
+"adjusted_label": "Grallaria alvarezi", 
+"comment": "", 
+"name": "Grallaria alvarezi", 
+"name_derivation": "No change to original label", 
+"original_label": "Grallaria alvarezi", 
+"ott_id": 6520356, 
+"parent": 1041027, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update#new-species", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu25"
+}, 
+{
+"adjusted_label": "Grallaria saturata", 
+"comment": "", 
+"name": "Grallaria saturata", 
+"name_derivation": "No change to original label", 
+"original_label": "Grallaria saturata", 
+"ott_id": 6520357, 
+"parent": 1041027, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update#new-species", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu26"
+}, 
+{
+"adjusted_label": "Grallaria cajamarcae", 
+"comment": "", 
+"name": "Grallaria cajamarcae", 
+"name_derivation": "No change to original label", 
+"original_label": "Grallaria cajamarcae", 
+"ott_id": 6520358, 
+"parent": 1041027, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update#new-species", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu27"
+}, 
+{
+"adjusted_label": "Grallaria gravesi", 
+"comment": "", 
+"name": "Grallaria gravesi", 
+"name_derivation": "No change to original label", 
+"original_label": "Grallaria gravesi", 
+"ott_id": 6520359, 
+"parent": 1041027, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update#new-species", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu28"
+}, 
+{
+"adjusted_label": "Grallaria oneilli", 
+"comment": "", 
+"name": "Grallaria oneilli", 
+"name_derivation": "No change to original label", 
+"original_label": "Grallaria oneilli", 
+"ott_id": 6520360, 
+"parent": 1041027, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update#new-species", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu29"
+}, 
+{
+"adjusted_label": "Grallaria obscura", 
+"comment": "", 
+"name": "Grallaria obscura", 
+"name_derivation": "No change to original label", 
+"original_label": "Grallaria obscura", 
+"ott_id": 6520361, 
+"parent": 1041027, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update#new-species", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu30"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
