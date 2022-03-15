@@ -1,0 +1,116 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2022-03-15T23:34:15.526Z", 
+"id": "additions-6520423-6520428", 
+"new_ottids_required": 6, 
+"study_id": "ot_2064", 
+"taxa": [
+{
+"adjusted_label": "Gypsophila crassa", 
+"comment": "Add genus", 
+"name": "Gypsophila (genus in Aves)", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Gypsophila crassa", 
+"ott_id": 6520423, 
+"parent": 3599857, 
+"rank": "genus", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu66"
+}, 
+{
+"adjusted_label": "Chlorestes julie", 
+"comment": "", 
+"name": "Chlorestes julie", 
+"name_derivation": "No change to original label", 
+"original_label": "Chlorestes julie", 
+"ott_id": 6520424, 
+"parent": 1039521, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu8"
+}, 
+{
+"adjusted_label": "Mayrimunia tristissima", 
+"comment": "add genus first", 
+"name": "Mayrimunia", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Mayrimunia tristissima", 
+"ott_id": 6520425, 
+"parent": 507124, 
+"rank": "genus", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu83"
+}, 
+{
+"adjusted_label": "Glaucestrilda caerulescens", 
+"comment": "Add genus first", 
+"name": "Glaucestrilda", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Glaucestrilda caerulescens", 
+"ott_id": 6520426, 
+"parent": 507124, 
+"rank": "genus", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu85"
+}, 
+{
+"adjusted_label": "Rhynchospiza dabbenei", 
+"comment": "", 
+"name": "Rhynchospiza dabbenei", 
+"name_derivation": "No change to original label", 
+"original_label": "Rhynchospiza dabbenei", 
+"ott_id": 6520427, 
+"parent": 3599688, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu88"
+}, 
+{
+"adjusted_label": "Rhopospina alaudina", 
+"comment": "Add genus first", 
+"name": "Rhopospina", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Rhopospina alaudina", 
+"ott_id": 6520428, 
+"parent": 445866, 
+"rank": "genus", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu90"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
