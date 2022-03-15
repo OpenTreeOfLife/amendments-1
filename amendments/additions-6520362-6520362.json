@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2022-03-15T04:45:07.248Z", 
+"id": "additions-6520362-6520362", 
+"new_ottids_required": 1, 
+"study_id": "ot_2064", 
+"taxa": [
+{
+"adjusted_label": "Yungipicus nanus", 
+"comment": "", 
+"name": "Yungipicus nanus", 
+"name_derivation": "No change to original label", 
+"original_label": "Yungipicus nanus", 
+"ott_id": 6520362, 
+"parent": 4130763, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update#new-species", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu15"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
