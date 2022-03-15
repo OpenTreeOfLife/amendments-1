@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2022-03-15T16:09:44.381Z", 
+"id": "additions-6520372-6520372", 
+"new_ottids_required": 1, 
+"study_id": "ot_2064", 
+"taxa": [
+{
+"adjusted_label": "Synallaxis chinchipensis", 
+"comment": "", 
+"name": "Synallaxis chinchipensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Synallaxis chinchipensis", 
+"ott_id": 6520372, 
+"parent": 860401, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu37"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
