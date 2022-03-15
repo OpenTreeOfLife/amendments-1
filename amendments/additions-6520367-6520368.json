@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2022-03-15T15:49:09.799Z", 
+"id": "additions-6520367-6520368", 
+"new_ottids_required": 2, 
+"study_id": "ot_2064", 
+"taxa": [
+{
+"adjusted_label": "Pyriglena maura", 
+"comment": "", 
+"name": "Pyriglena maura", 
+"name_derivation": "No change to original label", 
+"original_label": "Pyriglena maura", 
+"ott_id": 6520367, 
+"parent": 743736, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu16"
+}, 
+{
+"adjusted_label": "Pyriglena similis", 
+"comment": "", 
+"name": "Pyriglena similis", 
+"name_derivation": "No change to original label", 
+"original_label": "Pyriglena similis", 
+"ott_id": 6520368, 
+"parent": 743736, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu17"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
