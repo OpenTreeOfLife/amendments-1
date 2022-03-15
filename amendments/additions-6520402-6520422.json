@@ -1,0 +1,371 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2022-03-15T23:23:35.182Z", 
+"id": "additions-6520402-6520422", 
+"new_ottids_required": 21, 
+"study_id": "ot_2064", 
+"taxa": [
+{
+"adjusted_label": "Erythrogenys hypoleucos", 
+"comment": "", 
+"name": "Erythrogenys hypoleucos", 
+"name_derivation": "No change to original label", 
+"original_label": "Erythrogenys hypoleucos", 
+"ott_id": 6520402, 
+"parent": 5852575, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu64"
+}, 
+{
+"adjusted_label": "Erythrogenys mcclellandi", 
+"comment": "", 
+"name": "Erythrogenys mcclellandi", 
+"name_derivation": "No change to original label", 
+"original_label": "Erythrogenys mcclellandi", 
+"ott_id": 6520403, 
+"parent": 5852575, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu65"
+}, 
+{
+"adjusted_label": "Saucerottia hoffmanni", 
+"comment": "", 
+"name": "Saucerottia hoffmanni", 
+"name_derivation": "No change to original label", 
+"original_label": "Saucerottia hoffmanni", 
+"ott_id": 6520404, 
+"parent": 4130945, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu7"
+}, 
+{
+"adjusted_label": "Pterorhinus galbanus", 
+"comment": "", 
+"name": "Pterorhinus galbanus", 
+"name_derivation": "No change to original label", 
+"original_label": "Pterorhinus galbanus", 
+"ott_id": 6520405, 
+"parent": 3605344, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu70"
+}, 
+{
+"adjusted_label": "Pterorhinus courtoisi", 
+"comment": "", 
+"name": "Pterorhinus courtoisi", 
+"name_derivation": "No change to original label", 
+"original_label": "Pterorhinus courtoisi", 
+"ott_id": 6520406, 
+"parent": 3605344, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu71"
+}, 
+{
+"adjusted_label": "Pterorhinus mitratus", 
+"comment": "", 
+"name": "Pterorhinus mitratus", 
+"name_derivation": "No change to original label", 
+"original_label": "Pterorhinus mitratus", 
+"ott_id": 6520407, 
+"parent": 3605344, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu72"
+}, 
+{
+"adjusted_label": "Pterorhinus nuchalis", 
+"comment": "", 
+"name": "Pterorhinus nuchalis", 
+"name_derivation": "No change to original label", 
+"original_label": "Pterorhinus nuchalis", 
+"ott_id": 6520408, 
+"parent": 3605344, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu73"
+}, 
+{
+"adjusted_label": "Pterorhinus waddelli", 
+"comment": "", 
+"name": "Pterorhinus waddelli", 
+"name_derivation": "No change to original label", 
+"original_label": "Pterorhinus waddelli", 
+"ott_id": 6520409, 
+"parent": 3605344, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu74"
+}, 
+{
+"adjusted_label": "Pterorhinus koslowi", 
+"comment": "", 
+"name": "Pterorhinus koslowi", 
+"name_derivation": "No change to original label", 
+"original_label": "Pterorhinus koslowi", 
+"ott_id": 6520410, 
+"parent": 3605344, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu75"
+}, 
+{
+"adjusted_label": "Pterorhinus ruficeps", 
+"comment": "", 
+"name": "Pterorhinus ruficeps", 
+"name_derivation": "No change to original label", 
+"original_label": "Pterorhinus ruficeps", 
+"ott_id": 6520411, 
+"parent": 3605344, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu76"
+}, 
+{
+"adjusted_label": "Pterorhinus caerulatus", 
+"comment": "", 
+"name": "Pterorhinus caerulatus", 
+"name_derivation": "No change to original label", 
+"original_label": "Pterorhinus caerulatus", 
+"ott_id": 6520412, 
+"parent": 3605344, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu77"
+}, 
+{
+"adjusted_label": "Pterorhinus berthemyi", 
+"comment": "", 
+"name": "Pterorhinus berthemyi", 
+"name_derivation": "No change to original label", 
+"original_label": "Pterorhinus berthemyi", 
+"ott_id": 6520413, 
+"parent": 3605344, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu78"
+}, 
+{
+"adjusted_label": "Sitta insularis", 
+"comment": "", 
+"name": "Sitta insularis", 
+"name_derivation": "No change to original label", 
+"original_label": "Sitta insularis", 
+"ott_id": 6520414, 
+"parent": 603922, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu79"
+}, 
+{
+"adjusted_label": "Cistothorus stellaris", 
+"comment": "", 
+"name": "Cistothorus stellaris", 
+"name_derivation": "No change to original label", 
+"original_label": "Cistothorus stellaris", 
+"ott_id": 6520415, 
+"parent": 932505, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu80"
+}, 
+{
+"adjusted_label": "Cyornis montanus", 
+"comment": "", 
+"name": "Cyornis montanus", 
+"name_derivation": "No change to original label", 
+"original_label": "Cyornis montanus", 
+"ott_id": 6520416, 
+"parent": 288691, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu81"
+}, 
+{
+"adjusted_label": "Dicaeum dayakorum", 
+"comment": "", 
+"name": "Dicaeum dayakorum", 
+"name_derivation": "No change to original label", 
+"original_label": "Dicaeum dayakorum", 
+"ott_id": 6520417, 
+"parent": 420993, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu82"
+}, 
+{
+"adjusted_label": "Euphonia godmani", 
+"comment": "", 
+"name": "Euphonia godmani", 
+"name_derivation": "No change to original label", 
+"original_label": "Euphonia godmani", 
+"ott_id": 6520418, 
+"parent": 693626, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu86"
+}, 
+{
+"adjusted_label": "Pyrrhula owstoni", 
+"comment": "", 
+"name": "Pyrrhula owstoni", 
+"name_derivation": "No change to original label", 
+"original_label": "Pyrrhula owstoni", 
+"ott_id": 6520419, 
+"parent": 1083731, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu87"
+}, 
+{
+"adjusted_label": "Basileuterus delattrii", 
+"comment": "", 
+"name": "Basileuterus delattrii", 
+"name_derivation": "No change to original label", 
+"original_label": "Basileuterus delattrii", 
+"ott_id": 6520420, 
+"parent": 758213, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu89"
+}, 
+{
+"adjusted_label": "Charadrius dealbatus", 
+"comment": "", 
+"name": "Charadrius dealbatus", 
+"name_derivation": "No change to original label", 
+"original_label": "Charadrius dealbatus", 
+"ott_id": 6520421, 
+"parent": 112946, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu9"
+}, 
+{
+"adjusted_label": "Melopyrrha grandis", 
+"comment": "", 
+"name": "Melopyrrha grandis", 
+"name_derivation": "No change to original label", 
+"original_label": "Melopyrrha grandis", 
+"ott_id": 6520422, 
+"parent": 838941, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu92"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
