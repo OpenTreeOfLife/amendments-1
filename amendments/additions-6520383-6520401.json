@@ -1,0 +1,337 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2022-03-15T22:49:21.762Z", 
+"id": "additions-6520383-6520401", 
+"new_ottids_required": 19, 
+"study_id": "ot_2064", 
+"taxa": [
+{
+"adjusted_label": "Rhipidura habibiei", 
+"comment": "", 
+"name": "Rhipidura habibiei", 
+"name_derivation": "No change to original label", 
+"original_label": "Rhipidura habibiei", 
+"ott_id": 6520383, 
+"parent": 21006, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu47"
+}, 
+{
+"adjusted_label": "Melanocharis citreola", 
+"comment": "", 
+"name": "Melanocharis citreola", 
+"name_derivation": "No change to original label", 
+"original_label": "Melanocharis citreola", 
+"ott_id": 6520384, 
+"parent": 176451, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu48"
+}, 
+{
+"adjusted_label": "Alaudala heinei", 
+"comment": "", 
+"name": "Alaudala heinei", 
+"name_derivation": "No change to original label", 
+"original_label": "Alaudala heinei", 
+"ott_id": 6520385, 
+"parent": 3604518, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu49"
+}, 
+{
+"adjusted_label": "Cypsiurus gracilis", 
+"comment": "", 
+"name": "Cypsiurus gracilis", 
+"name_derivation": "No change to original label", 
+"original_label": "Cypsiurus gracilis", 
+"ott_id": 6520386, 
+"parent": 586271, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu5"
+}, 
+{
+"adjusted_label": "Prinia lepida", 
+"comment": "", 
+"name": "Prinia lepida", 
+"name_derivation": "No change to original label", 
+"original_label": "Prinia lepida", 
+"ott_id": 6520387, 
+"parent": 275658, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu50"
+}, 
+{
+"adjusted_label": "Cisticola bakerorum", 
+"comment": "", 
+"name": "Cisticola bakerorum", 
+"name_derivation": "No change to original label", 
+"original_label": "Cisticola bakerorum", 
+"ott_id": 6520388, 
+"parent": 24061, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu51"
+}, 
+{
+"adjusted_label": "Cisticola anderseni", 
+"comment": "", 
+"name": "Cisticola anderseni", 
+"name_derivation": "No change to original label", 
+"original_label": "Cisticola anderseni", 
+"ott_id": 6520389, 
+"parent": 24061, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu52"
+}, 
+{
+"adjusted_label": "Locustella musculus", 
+"comment": "", 
+"name": "Locustella musculus", 
+"name_derivation": "No change to original label", 
+"original_label": "Locustella musculus", 
+"ott_id": 6520390, 
+"parent": 564106, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu53"
+}, 
+{
+"adjusted_label": "Locustella portenta", 
+"comment": "", 
+"name": "Locustella portenta", 
+"name_derivation": "No change to original label", 
+"original_label": "Locustella portenta", 
+"ott_id": 6520391, 
+"parent": 564106, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu54"
+}, 
+{
+"adjusted_label": "Locustella disturbans", 
+"comment": "", 
+"name": "Locustella disturbans", 
+"name_derivation": "No change to original label", 
+"original_label": "Locustella disturbans", 
+"ott_id": 6520392, 
+"parent": 564106, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu55"
+}, 
+{
+"adjusted_label": "Bradypterus centralis", 
+"comment": "", 
+"name": "Bradypterus centralis", 
+"name_derivation": "No change to original label", 
+"original_label": "Bradypterus centralis", 
+"ott_id": 6520393, 
+"parent": 436332, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu56"
+}, 
+{
+"adjusted_label": "Alophoixus tephrogenys", 
+"comment": "", 
+"name": "Alophoixus tephrogenys", 
+"name_derivation": "No change to original label", 
+"original_label": "Alophoixus tephrogenys", 
+"ott_id": 6520394, 
+"parent": 3599384, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu57"
+}, 
+{
+"adjusted_label": "Alophoixus ruficrissus", 
+"comment": "", 
+"name": "Alophoixus ruficrissus", 
+"name_derivation": "No change to original label", 
+"original_label": "Alophoixus ruficrissus", 
+"ott_id": 6520395, 
+"parent": 3599384, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu58"
+}, 
+{
+"adjusted_label": "Phylloscopus misoriensis", 
+"comment": "", 
+"name": "Phylloscopus misoriensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Phylloscopus misoriensis", 
+"ott_id": 6520396, 
+"parent": 96289, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu59"
+}, 
+{
+"adjusted_label": "Campylopterus diamantinensis", 
+"comment": "", 
+"name": "Campylopterus diamantinensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Campylopterus diamantinensis", 
+"ott_id": 6520397, 
+"parent": 294127, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu6"
+}, 
+{
+"adjusted_label": "Curruca iberiae", 
+"comment": "", 
+"name": "Curruca iberiae", 
+"name_derivation": "No change to original label", 
+"original_label": "Curruca iberiae", 
+"ott_id": 6520398, 
+"parent": 6138424, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu60"
+}, 
+{
+"adjusted_label": "Zosterops stuhlmanni", 
+"comment": "", 
+"name": "Zosterops stuhlmanni", 
+"name_derivation": "No change to original label", 
+"original_label": "Zosterops stuhlmanni", 
+"ott_id": 6520399, 
+"parent": 131988, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu61"
+}, 
+{
+"adjusted_label": "Zosterops flavissimus", 
+"comment": "", 
+"name": "Zosterops flavissimus", 
+"name_derivation": "No change to original label", 
+"original_label": "Zosterops flavissimus", 
+"ott_id": 6520400, 
+"parent": 131988, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu62"
+}, 
+{
+"adjusted_label": "Zosterops tetiparius", 
+"comment": "", 
+"name": "Zosterops tetiparius", 
+"name_derivation": "No change to original label", 
+"original_label": "Zosterops tetiparius", 
+"ott_id": 6520401, 
+"parent": 131988, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://ebird.org/science/use-ebird-data/2021-ebird-taxonomy-update/", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu63"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
