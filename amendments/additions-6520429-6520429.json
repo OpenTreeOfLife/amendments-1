@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "MGGirard", 
+"name": "Matt Girard"
+}, 
+"date_created": "2022-04-14T10:49:17.923Z", 
+"id": "additions-6520429-6520429", 
+"new_ottids_required": 1, 
+"study_id": "ot_2076", 
+"taxa": [
+{
+"adjusted_label": "Protoxotes lorentzi", 
+"comment": "", 
+"name": "Protoxotes lorentzi", 
+"name_derivation": "No change to original label", 
+"original_label": "Protoxotes lorentzi", 
+"ott_id": 6520429, 
+"parent": 1089728, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.3853/j.0067-1975.22.1950.604", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu10"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
