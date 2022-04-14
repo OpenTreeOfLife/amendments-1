@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "MGGirard", 
+"name": "Matt Girard"
+}, 
+"date_created": "2022-04-14T10:50:00.426Z", 
+"id": "additions-6520430-6520430", 
+"new_ottids_required": 1, 
+"study_id": "ot_2076", 
+"taxa": [
+{
+"adjusted_label": "Toxotes sundaicus", 
+"comment": "", 
+"name": "Toxotes sundaicus", 
+"name_derivation": "No change to original label", 
+"original_label": "Toxotes sundaicus", 
+"ott_id": 6520430, 
+"parent": 1089728, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.23788/IEF-952", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu9"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
