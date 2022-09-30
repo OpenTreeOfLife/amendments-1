@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2022-09-30T19:06:44.171Z", 
+"id": "additions-6520431-6520431", 
+"new_ottids_required": 1, 
+"study_id": "ot_2151", 
+"taxa": [
+{
+"adjusted_label": "Macronyx capensis", 
+"comment": "Macronyx capensis and Motacilla capensis were incorrectly synonomized. I couldn't use 'Macronyx capensis' for this label as at appears in the OTT, so I added s.s. (sensu stricto).", 
+"name": "Macronyx capensis s.s.", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Macronyx capensis CA10018 Dull", 
+"ott_id": 6520431, 
+"parent": 165983, 
+"rank": "species", 
+"sources": [
+{
+"source": "Macronyx capensis and Motacilla capensis were incorrectly synonomized", 
+"source_type": "Other"
+}
+], 
+"tag": "otu112"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
