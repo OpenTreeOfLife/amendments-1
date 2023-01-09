@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "acornmonkey", 
+"name": "acornmonkey"
+}, 
+"date_created": "2023-01-09T10:27:10.417Z", 
+"id": "additions-6520432-6520432", 
+"new_ottids_required": 1, 
+"study_id": "ot_1335", 
+"taxa": [
+{
+"adjusted_label": "\"Coelophysis\" kayentakatae", 
+"comment": "The dinosaur genus Syntarsus is a junior homonym. \"Coelophysis\" kayentakatae is of uncertain placement, hence the quotation marks. But most sources refer to it as Coelophysis.", 
+"name": "\"Coelophysis\" kayentakatae", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Syntarsus kayentakatae", 
+"ott_id": 6520432, 
+"parent": 4947009, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://doi.org/10.1093%2Fzoolinnean%2Fzlaa054", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "Tl847183"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
