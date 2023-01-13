@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "matiaskacto", 
+"name": "matiaskacto"
+}, 
+"date_created": "2023-01-13T18:33:53.444Z", 
+"id": "additions-6520445-6520446", 
+"new_ottids_required": 2, 
+"study_id": "ot_2215", 
+"taxa": [
+{
+"adjusted_label": "Micropuntia pulchella", 
+"comment": "", 
+"name": "Micropuntia pulchella", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Micro pulchella MCH95", 
+"ott_id": 6520445, 
+"parent": 227061, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://www.ipni.org/n/60426930-2", 
+"source_type": "Other"
+}
+], 
+"tag": "otu15"
+}, 
+{
+"adjusted_label": "Salmonopunita salmiana", 
+"comment": "", 
+"name": "Salmonopunita salmiana", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Salmonopunita salmiana MK 515", 
+"ott_id": 6520446, 
+"parent": 227061, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://www.ipni.org/n/1011378-1", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu24"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
