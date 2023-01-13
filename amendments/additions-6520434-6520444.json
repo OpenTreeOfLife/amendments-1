@@ -1,0 +1,201 @@
+{
+"curator": {
+"email": "sunray1@ufl.edu", 
+"login": "sunray1", 
+"name": "Chandra Earl"
+}, 
+"date_created": "2023-01-13T18:13:53.219Z", 
+"id": "additions-6520434-6520444", 
+"new_ottids_required": 11, 
+"study_id": "ot_2206", 
+"taxa": [
+{
+"adjusted_label": "Leptachatina cerealis", 
+"comment": "", 
+"name": "Leptachatina cerealis", 
+"name_derivation": "No change to original label", 
+"original_label": "Leptachatina cerealis", 
+"ott_id": 6520434, 
+"parent": 74922, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1459632", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu12"
+}, 
+{
+"adjusted_label": "Leptachatina cuneata", 
+"comment": "", 
+"name": "Leptachatina cuneata", 
+"name_derivation": "No change to original label", 
+"original_label": "Leptachatina cuneata", 
+"ott_id": 6520435, 
+"parent": 74922, 
+"rank": "species", 
+"sources": [
+{
+"source": "Cowie, R. H., Evenhuis, N. L. & Christensen, C. C. (1995). Catalog of the Native Land and Freshwater Molluscs of the Hawaiian Islands. vi + 248 pp. [3 June]. Leiden (Backhuys Publishers).", 
+"source_type": "Other"
+}
+], 
+"tag": "otu14"
+}, 
+{
+"adjusted_label": "Leptachatina cylindrata", 
+"comment": "", 
+"name": "Leptachatina cylindrata", 
+"name_derivation": "No change to original label", 
+"original_label": "Leptachatina cylindrata", 
+"ott_id": 6520436, 
+"parent": 74922, 
+"rank": "species", 
+"sources": [
+{
+"source": "Cowie, R. H., Evenhuis, N. L. & Christensen, C. C. (1995). Catalog of the Native Land and Freshwater Molluscs of the Hawaiian Islands. vi + 248 pp. [3 June]. Leiden (Backhuys Publishers).", 
+"source_type": "Other"
+}
+], 
+"tag": "otu15"
+}, 
+{
+"adjusted_label": "Leptachatina gracilis", 
+"comment": "", 
+"name": "Leptachatina gracilis", 
+"name_derivation": "No change to original label", 
+"original_label": "Leptachatina gracilis", 
+"ott_id": 6520437, 
+"parent": 74922, 
+"rank": "species", 
+"sources": [
+{
+"source": "Cowie, R. H., Evenhuis, N. L. & Christensen, C. C. (1995). Catalog of the Native Land and Freshwater Molluscs of the Hawaiian Islands. vi + 248 pp. [3 June]. Leiden (Backhuys Publishers).", 
+"source_type": "Other"
+}
+], 
+"tag": "otu16"
+}, 
+{
+"adjusted_label": "Leptachatina gummea", 
+"comment": "", 
+"name": "Leptachatina gummea", 
+"name_derivation": "No change to original label", 
+"original_label": "Leptachatina gummea", 
+"ott_id": 6520438, 
+"parent": 74922, 
+"rank": "species", 
+"sources": [
+{
+"source": "Cowie, R. H., Evenhuis, N. L. & Christensen, C. C. (1995). Catalog of the Native Land and Freshwater Molluscs of the Hawaiian Islands. vi + 248 pp. [3 June]. Leiden (Backhuys Publishers).", 
+"source_type": "Other"
+}
+], 
+"tag": "otu17"
+}, 
+{
+"adjusted_label": "Leptachatina persubtilis", 
+"comment": "", 
+"name": "Leptachatina persubtilis", 
+"name_derivation": "No change to original label", 
+"original_label": "Leptachatina persubtilis", 
+"ott_id": 6520439, 
+"parent": 74922, 
+"rank": "species", 
+"sources": [
+{
+"source": "Cowie, R. H., Evenhuis, N. L. & Christensen, C. C. (1995). Catalog of the Native Land and Freshwater Molluscs of the Hawaiian Islands. vi + 248 pp. [3 June]. Leiden (Backhuys Publishers).", 
+"source_type": "Other"
+}
+], 
+"tag": "otu19"
+}, 
+{
+"adjusted_label": "Leptachatina popouwelensis", 
+"comment": "", 
+"name": "Leptachatina popouwelensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Leptachatina popouwelensis", 
+"ott_id": 6520440, 
+"parent": 74922, 
+"rank": "species", 
+"sources": [
+{
+"source": "Cowie, R. H., Evenhuis, N. L. & Christensen, C. C. (1995). Catalog of the Native Land and Freshwater Molluscs of the Hawaiian Islands. vi + 248 pp. [3 June]. Leiden (Backhuys Publishers).", 
+"source_type": "Other"
+}
+], 
+"tag": "otu20"
+}, 
+{
+"adjusted_label": "Amastra cylindrica", 
+"comment": "", 
+"name": "Amastra cylindrica", 
+"name_derivation": "No change to original label", 
+"original_label": "Amastra cylindrica", 
+"ott_id": 6520441, 
+"parent": 228908, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1511229", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu3"
+}, 
+{
+"adjusted_label": "Amastra goniops", 
+"comment": "", 
+"name": "Amastra goniops", 
+"name_derivation": "No change to original label", 
+"original_label": "Amastra goniops", 
+"ott_id": 6520442, 
+"parent": 228908, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1487628", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu4"
+}, 
+{
+"adjusted_label": "Amastra rubens", 
+"comment": "", 
+"name": "Amastra rubens", 
+"name_derivation": "No change to original label", 
+"original_label": "Amastra rubens", 
+"ott_id": 6520443, 
+"parent": 228908, 
+"rank": "species", 
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1459870", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu6"
+}, 
+{
+"adjusted_label": "Amastra variegata", 
+"comment": "", 
+"name": "Amastra variegata", 
+"name_derivation": "No change to original label", 
+"original_label": "Amastra variegata", 
+"ott_id": 6520444, 
+"parent": 228908, 
+"rank": "species", 
+"sources": [
+{
+"source": "Cowie, R. H., Evenhuis, N. L. & Christensen, C. C. (1995). Catalog of the Native Land and Freshwater Molluscs of the Hawaiian Islands. vi + 248 pp. [3 June]. Leiden (Backhuys Publishers).", 
+"source_type": "Other"
+}
+], 
+"tag": "otu8"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
