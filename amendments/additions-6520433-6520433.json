@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS", 
+"login": "the-kunsze", 
+"name": "the-kunsze"
+}, 
+"date_created": "2023-01-13T18:08:13.557Z", 
+"id": "additions-6520433-6520433", 
+"new_ottids_required": 1, 
+"study_id": "ot_2204", 
+"taxa": [
+{
+"adjusted_label": "Meriania baumgratziana", 
+"comment": "newly described species not included before", 
+"name": "Meriania baumgratziana", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Merianieae Meriania baumgratziana", 
+"ott_id": 6520433, 
+"parent": 76955, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/phytotaxa.453.3.4", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu118"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
