@@ -1,0 +1,184 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2023-05-17T22:19:31.581Z", 
+"id": "additions-6520467-6520476", 
+"new_ottids_required": 10, 
+"study_id": "ot_2064", 
+"taxa": [
+{
+"adjusted_label": "Zimmerius improbus improbus", 
+"comment": "Type subspecies", 
+"name": "Zimmerius improbus improbus", 
+"name_derivation": "No change to original label", 
+"original_label": "Zimmerius improbus improbus", 
+"ott_id": 6520467, 
+"parent": 5560067, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu120"
+}, 
+{
+"adjusted_label": "Zimmerius vilissimus vilissimus", 
+"comment": "", 
+"name": "Zimmerius vilissimus vilissimus", 
+"name_derivation": "No change to original label", 
+"original_label": "Zimmerius vilissimus vilissimus", 
+"ott_id": 6520468, 
+"parent": 937184, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu121"
+}, 
+{
+"adjusted_label": "Zosterops abyssinicus abyssinicus", 
+"comment": "", 
+"name": "Zosterops abyssinicus abyssinicus", 
+"name_derivation": "No change to original label", 
+"original_label": "Zosterops abyssinicus abyssinicus", 
+"ott_id": 6520469, 
+"parent": 335475, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu122"
+}, 
+{
+"adjusted_label": "Asthenes vilcabambae vilcabambae", 
+"comment": "", 
+"name": "Asthenes vilcabambae vilcabambae", 
+"name_derivation": "No change to original label", 
+"original_label": "Asthenes vilcabambae vilcabambae", 
+"ott_id": 6520470, 
+"parent": 835367, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu93"
+}, 
+{
+"adjusted_label": "Bambusicola thoracicus thoracicus", 
+"comment": "", 
+"name": "Bambusicola thoracicus thoracicus", 
+"name_derivation": "No change to original label", 
+"original_label": "Bambusicola thoracicus thoracicus", 
+"ott_id": 6520471, 
+"parent": 521334, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu94"
+}, 
+{
+"adjusted_label": "Catharus dryas dryas", 
+"comment": "", 
+"name": "Catharus dryas dryas", 
+"name_derivation": "No change to original label", 
+"original_label": "Catharus dryas dryas", 
+"ott_id": 6520472, 
+"parent": 252695, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu95"
+}, 
+{
+"adjusted_label": "Chasiempis sandwichensis sandwichensis", 
+"comment": "", 
+"name": "Chasiempis sandwichensis sandwichensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Chasiempis sandwichensis sandwichensis", 
+"ott_id": 6520473, 
+"parent": 893771, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu96"
+}, 
+{
+"adjusted_label": "Chrysocolaptes lucidus lucidus", 
+"comment": "", 
+"name": "Chrysocolaptes lucidus lucidus", 
+"name_derivation": "No change to original label", 
+"original_label": "Chrysocolaptes lucidus lucidus", 
+"ott_id": 6520474, 
+"parent": 724186, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu97"
+}, 
+{
+"adjusted_label": "Cinclosoma castaneothorax castaneothorax", 
+"comment": "", 
+"name": "Cinclosoma castaneothorax castaneothorax", 
+"name_derivation": "No change to original label", 
+"original_label": "Cinclosoma castaneothorax castaneothorax", 
+"ott_id": 6520475, 
+"parent": 294608, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu98"
+}, 
+{
+"adjusted_label": "Dicrurus adsimilis adsimilis", 
+"comment": "", 
+"name": "Dicrurus adsimilis adsimilis", 
+"name_derivation": "No change to original label", 
+"original_label": "Dicrurus adsimilis adsimilis", 
+"ott_id": 6520476, 
+"parent": 263357, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu99"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
