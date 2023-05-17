@@ -1,0 +1,354 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2023-05-17T22:14:18.080Z", 
+"id": "additions-6520447-6520466", 
+"new_ottids_required": 20, 
+"study_id": "ot_2064", 
+"taxa": [
+{
+"adjusted_label": "Dicrurus ludwigii ludwigii", 
+"comment": "Type subspecies was missing from taxonomy", 
+"name": "Dicrurus ludwigii ludwigii", 
+"name_derivation": "No change to original label", 
+"original_label": "Dicrurus ludwigii ludwigii", 
+"ott_id": 6520447, 
+"parent": 207205, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu100"
+}, 
+{
+"adjusted_label": "Eremalauda dunni dunni", 
+"comment": "", 
+"name": "Eremalauda dunni dunni", 
+"name_derivation": "No change to original label", 
+"original_label": "Eremalauda dunni dunni", 
+"ott_id": 6520448, 
+"parent": 3597547, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu101"
+}, 
+{
+"adjusted_label": "Ficedula narcissina narcissina", 
+"comment": "", 
+"name": "Ficedula narcissina narcissina", 
+"name_derivation": "No change to original label", 
+"original_label": "Ficedula narcissina narcissina", 
+"ott_id": 6520449, 
+"parent": 131996, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu102"
+}, 
+{
+"adjusted_label": "Forpus xanthopterygius xanthopterygius", 
+"comment": "", 
+"name": "Forpus xanthopterygius xanthopterygius", 
+"name_derivation": "No change to original label", 
+"original_label": "Forpus xanthopterygius xanthopterygius", 
+"ott_id": 6520450, 
+"parent": 267637, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu103"
+}, 
+{
+"adjusted_label": "Francolinus castaneicollis castaneicollis", 
+"comment": "", 
+"name": "Francolinus castaneicollis castaneicollis", 
+"name_derivation": "No change to original label", 
+"original_label": "Francolinus castaneicollis castaneicollis", 
+"ott_id": 6520451, 
+"parent": 1080982, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu104"
+}, 
+{
+"adjusted_label": "Gallinula nesiotis nesiotis", 
+"comment": "", 
+"name": "Gallinula nesiotis nesiotis", 
+"name_derivation": "No change to original label", 
+"original_label": "Gallinula nesiotis nesiotis", 
+"ott_id": 6520452, 
+"parent": 385131, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu105"
+}, 
+{
+"adjusted_label": "Geospiza difficilis difficilis", 
+"comment": "", 
+"name": "Geospiza difficilis difficilis", 
+"name_derivation": "No change to original label", 
+"original_label": "Geospiza difficilis difficilis", 
+"ott_id": 6520453, 
+"parent": 419376, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu106"
+}, 
+{
+"adjusted_label": "Haematopus unicolor unicolor", 
+"comment": "", 
+"name": "Haematopus unicolor unicolor", 
+"name_derivation": "No change to original label", 
+"original_label": "Haematopus unicolor unicolor", 
+"ott_id": 6520454, 
+"parent": 80079, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu107"
+}, 
+{
+"adjusted_label": "Himantopus himantopus himantopus", 
+"comment": "", 
+"name": "Himantopus himantopus himantopus", 
+"name_derivation": "No change to original label", 
+"original_label": "Himantopus himantopus himantopus", 
+"ott_id": 6520455, 
+"parent": 364171, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu108"
+}, 
+{
+"adjusted_label": "Hylopezus macularius macularius", 
+"comment": "", 
+"name": "Hylopezus macularius macularius", 
+"name_derivation": "No change to original label", 
+"original_label": "Hylopezus macularius macularius", 
+"ott_id": 6520456, 
+"parent": 227756, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu109"
+}, 
+{
+"adjusted_label": "Liocichla phoenicea phoenicea", 
+"comment": "", 
+"name": "Liocichla phoenicea phoenicea", 
+"name_derivation": "No change to original label", 
+"original_label": "Liocichla phoenicea phoenicea", 
+"ott_id": 6520457, 
+"parent": 451636, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu110"
+}, 
+{
+"adjusted_label": "Merops nubicus nubicus", 
+"comment": "", 
+"name": "Merops nubicus nubicus", 
+"name_derivation": "No change to original label", 
+"original_label": "Merops nubicus nubicus", 
+"ott_id": 6520458, 
+"parent": 989087, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu111"
+}, 
+{
+"adjusted_label": "Myrmeciza immaculata immaculata", 
+"comment": "", 
+"name": "Myrmeciza immaculata immaculata", 
+"name_derivation": "No change to original label", 
+"original_label": "Myrmeciza immaculata immaculata", 
+"ott_id": 6520459, 
+"parent": 515434, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu112"
+}, 
+{
+"adjusted_label": "Otus senegalensis senegalensis", 
+"comment": "", 
+"name": "Otus senegalensis senegalensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Otus senegalensis senegalensis", 
+"ott_id": 6520460, 
+"parent": 277291, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu113"
+}, 
+{
+"adjusted_label": "Paroaria gularis gularis", 
+"comment": "", 
+"name": "Paroaria gularis gularis", 
+"name_derivation": "No change to original label", 
+"original_label": "Paroaria gularis gularis", 
+"ott_id": 6520461, 
+"parent": 320949, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu114"
+}, 
+{
+"adjusted_label": "Phaethornis longirostris longirostris", 
+"comment": "", 
+"name": "Phaethornis longirostris longirostris", 
+"name_derivation": "No change to original label", 
+"original_label": "Phaethornis longirostris longirostris", 
+"ott_id": 6520462, 
+"parent": 975184, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu115"
+}, 
+{
+"adjusted_label": "Pterodroma macroptera macroptera", 
+"comment": "", 
+"name": "Pterodroma macroptera macroptera", 
+"name_derivation": "No change to original label", 
+"original_label": "Pterodroma macroptera macroptera", 
+"ott_id": 6520463, 
+"parent": 271032, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu116"
+}, 
+{
+"adjusted_label": "Pteruthius aenobarbus aenobarbus", 
+"comment": "", 
+"name": "Pteruthius aenobarbus aenobarbus", 
+"name_derivation": "No change to original label", 
+"original_label": "Pteruthius aenobarbus aenobarbus", 
+"ott_id": 6520464, 
+"parent": 245036, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu117"
+}, 
+{
+"adjusted_label": "Pteruthius flaviscapis flaviscapis", 
+"comment": "", 
+"name": "Pteruthius flaviscapis flaviscapis", 
+"name_derivation": "No change to original label", 
+"original_label": "Pteruthius flaviscapis flaviscapis", 
+"ott_id": 6520465, 
+"parent": 245037, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu118"
+}, 
+{
+"adjusted_label": "Rostratula benghalensis benghalensis", 
+"comment": "", 
+"name": "Rostratula benghalensis benghalensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Rostratula benghalensis benghalensis", 
+"ott_id": 6520466, 
+"parent": 5276, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu119"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
