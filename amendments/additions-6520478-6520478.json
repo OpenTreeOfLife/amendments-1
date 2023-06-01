@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2023-06-01T18:44:24.728Z", 
+"id": "additions-6520478-6520478", 
+"new_ottids_required": 1, 
+"study_id": "ot_2019", 
+"taxa": [
+{
+"adjusted_label": "Laniarius poensis", 
+"comment": "Missing type subspecies", 
+"name": "Laniarius poensis poensis", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Laniarius poensis", 
+"ott_id": 6520478, 
+"parent": 515130, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu3726"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
