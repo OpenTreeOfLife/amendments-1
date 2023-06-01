@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2023-06-01T18:42:22.517Z", 
+"id": "additions-6520477-6520477", 
+"new_ottids_required": 1, 
+"study_id": "ot_2019", 
+"taxa": [
+{
+"adjusted_label": "Laniarius ferrugineus", 
+"comment": "Type subspp missing", 
+"name": "Laniarius ferrugineus ferrugineus", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Laniarius ferrugineus", 
+"ott_id": 6520477, 
+"parent": 92681, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu3735"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
