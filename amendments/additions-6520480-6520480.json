@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2023-07-18T23:20:03.062Z",
+"id": "additions-6520480-6520480",
+"new_ottids_required": 1,
+"study_id": "ot_2019",
+"taxa": [
+{
+"adjusted_label": "Ducula subflavescens",
+"comment": "",
+"name": "Ducula subflavescens",
+"name_derivation": "No change to original label",
+"original_label": "Ducula subflavescens",
+"ott_id": 6520480,
+"parent": 300042,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu19375"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
