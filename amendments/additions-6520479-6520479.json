@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2023-07-18T22:48:31.458Z",
+"id": "additions-6520479-6520479",
+"new_ottids_required": 1,
+"study_id": "ot_2019",
+"taxa": [
+{
+"adjusted_label": "Ptilinopus alligator",
+"comment": "",
+"name": "Ptilinopus alligator",
+"name_derivation": "No change to original label",
+"original_label": "Ptilinopus alligator",
+"ott_id": 6520479,
+"parent": 28961,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu19472"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
