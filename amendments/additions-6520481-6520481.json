@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mtholder@gmail.com",
+"login": "mtholder",
+"name": "Mark T. Holder"
+},
+"date_created": "2023-07-26T22:01:54.569Z",
+"id": "additions-6520481-6520481",
+"new_ottids_required": 1,
+"study_id": "ot_189",
+"taxa": [
+{
+"adjusted_label": "Thaumasotcheles massonktenos",
+"comment": "",
+"name": "Thaumasotcheles massonktenos",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Thaumasotcheles massonktenos1",
+"ott_id": 6520481,
+"parent": 115859,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1163/1937240x-00002201",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu10"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
