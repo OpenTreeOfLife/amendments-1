@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2023-08-04T20:24:56.269Z",
+"id": "additions-6520489-6520489",
+"new_ottids_required": 1,
+"study_id": "ot_2019",
+"taxa": [
+{
+"adjusted_label": "Pachycephala melanorhyncha",
+"comment": "",
+"name": "Pachycephala melanorhyncha",
+"name_derivation": "No change to original label",
+"original_label": "Pachycephala melanorhyncha",
+"ott_id": 6520489,
+"parent": 896892,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu14042"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
