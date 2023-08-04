@@ -1,0 +1,133 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2023-08-04T20:04:35.426Z",
+"id": "additions-6520482-6520488",
+"new_ottids_required": 7,
+"study_id": "ot_2019",
+"taxa": [
+{
+"adjusted_label": "Macronyx capensis",
+"comment": "De-synonomize split taxa",
+"name": "Macronyx capensis",
+"name_derivation": "No change to original label",
+"original_label": "Macronyx capensis",
+"ott_id": 6520482,
+"parent": 165983,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu10626"
+},
+{
+"adjusted_label": "Heteromyias cinereifrons",
+"comment": "",
+"name": "Heteromyias cinereifrons",
+"name_derivation": "No change to original label",
+"original_label": "Heteromyias cinereifrons",
+"ott_id": 6520483,
+"parent": 3599145,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu13390"
+},
+{
+"adjusted_label": "Sphecotheres viridis",
+"comment": "",
+"name": "Sphecotheres viridis",
+"name_derivation": "No change to original label",
+"original_label": "Sphecotheres viridis",
+"ott_id": 6520484,
+"parent": 319138,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu14000"
+},
+{
+"adjusted_label": "Poecilotriccus calopterus",
+"comment": "",
+"name": "Poecilotriccus calopterus",
+"name_derivation": "No change to original label",
+"original_label": "Poecilotriccus calopterus",
+"ott_id": 6520485,
+"parent": 230702,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu14939"
+},
+{
+"adjusted_label": "Microcarbo coronatus",
+"comment": "",
+"name": "Microcarbo coronatus",
+"name_derivation": "No change to original label",
+"original_label": "Microcarbo coronatus",
+"ott_id": 6520486,
+"parent": 3600669,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu17739"
+},
+{
+"adjusted_label": "Ducula spilorrhoa",
+"comment": "",
+"name": "Ducula spilorrhoa",
+"name_derivation": "No change to original label",
+"original_label": "Ducula spilorrhoa",
+"ott_id": 6520487,
+"parent": 300042,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu19374"
+},
+{
+"adjusted_label": "Bubo milesi",
+"comment": "",
+"name": "Bubo milesi",
+"name_derivation": "No change to original label",
+"original_label": "Bubo milesi",
+"ott_id": 6520488,
+"parent": 402451,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu38874"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
