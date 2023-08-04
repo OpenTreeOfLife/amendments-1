@@ -1,0 +1,150 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2023-08-04T20:54:02.032Z",
+"id": "additions-6520492-6520499",
+"new_ottids_required": 8,
+"study_id": "ot_2019",
+"taxa": [
+{
+"adjusted_label": "Ficedula erithacus",
+"comment": "",
+"name": "Ficedula erithacus",
+"name_derivation": "No change to original label",
+"original_label": "Ficedula erithacus",
+"ott_id": 6520492,
+"parent": 131998,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11357"
+},
+{
+"adjusted_label": "Glaucestrilda caerulescens",
+"comment": "",
+"name": "Glaucestrilda caerulescens",
+"name_derivation": "No change to original label",
+"original_label": "Glaucestrilda caerulescens",
+"ott_id": 6520493,
+"parent": 6520426,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu32333"
+},
+{
+"adjusted_label": "Mayrimunia tristissima",
+"comment": "",
+"name": "Mayrimunia tristissima",
+"name_derivation": "No change to original label",
+"original_label": "Mayrimunia tristissima",
+"ott_id": 6520494,
+"parent": 6520425,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu32396"
+},
+{
+"adjusted_label": "Mayrimunia leucosticta",
+"comment": "",
+"name": "Mayrimunia leucosticta",
+"name_derivation": "No change to original label",
+"original_label": "Mayrimunia leucosticta",
+"ott_id": 6520495,
+"parent": 6520425,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu32397"
+},
+{
+"adjusted_label": "Gypsophila calcicola",
+"comment": "",
+"name": "Gypsophila calcicola",
+"name_derivation": "No change to original label",
+"original_label": "Gypsophila calcicola",
+"ott_id": 6520496,
+"parent": 28652,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu33739"
+},
+{
+"adjusted_label": "Gypsophila annamensis",
+"comment": "",
+"name": "Gypsophila annamensis",
+"name_derivation": "No change to original label",
+"original_label": "Gypsophila annamensis",
+"ott_id": 6520497,
+"parent": 28652,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu33740"
+},
+{
+"adjusted_label": "Gypsophila crassa",
+"comment": "",
+"name": "Gypsophila crassa",
+"name_derivation": "No change to original label",
+"original_label": "Gypsophila crassa",
+"ott_id": 6520498,
+"parent": 28652,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu33741"
+},
+{
+"adjusted_label": "Taenioptynx sylvaticus",
+"comment": "",
+"name": "Taenioptynx sylvaticus",
+"name_derivation": "No change to original label",
+"original_label": "Taenioptynx sylvaticus",
+"ott_id": 6520499,
+"parent": 6520364,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu38826"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
