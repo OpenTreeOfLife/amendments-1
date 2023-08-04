@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2023-08-04T20:46:32.550Z",
+"id": "additions-6520491-6520491",
+"new_ottids_required": 1,
+"study_id": "ot_2019",
+"taxa": [
+{
+"adjusted_label": "Rhopospina alaudina",
+"comment": "",
+"name": "Rhopospina alaudina",
+"name_derivation": "No change to original label",
+"original_label": "Rhopospina alaudina",
+"ott_id": 6520491,
+"parent": 6520428,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu31202"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
