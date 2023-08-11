@@ -1,0 +1,150 @@
+{
+"curator": {
+"email": "ANONYMOUS",
+"login": "Chelskoj",
+"name": "Chelskoj"
+},
+"date_created": "2023-08-11T20:32:04.372Z",
+"id": "additions-6520500-6520507",
+"new_ottids_required": 8,
+"study_id": "ot_2240",
+"taxa": [
+{
+"adjusted_label": "Automeris banus argentifera",
+"comment": "",
+"name": "Automeris banus argentifera",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Saturniidae Hemileucinae Automeris banus argentifera",
+"ott_id": 6520500,
+"parent": 379406,
+"rank": "subspecies",
+"sources": [
+{
+"source": "https://www.gbif.org/species/6210682",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu12"
+},
+{
+"adjusted_label": "Automeris banus proxima",
+"comment": "",
+"name": "Automeris banus proxima",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Saturniidae Hemileucinae Automeris banus proxima",
+"ott_id": 6520501,
+"parent": 379406,
+"rank": "subspecies",
+"sources": [
+{
+"source": "https://www.gbif.org/species/6210683",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu13"
+},
+{
+"adjusted_label": "Automeris belti zaruma",
+"comment": "",
+"name": "Automeris belti zaruma",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Saturniidae Hemileucinae Automeris belti zaruma",
+"ott_id": 6520502,
+"parent": 379415,
+"rank": "subspecies",
+"sources": [
+{
+"source": "https://www.gbif.org/species/6210688",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu15"
+},
+{
+"adjusted_label": "Automeris boudinotiana",
+"comment": "",
+"name": "Automeris boudinotiana",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Saturniidae Hemileucinae Automeris boudinotiana",
+"ott_id": 6520503,
+"parent": 391857,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.gbif.org/species/11752187",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu18"
+},
+{
+"adjusted_label": "Automeris cecrops pamina",
+"comment": "",
+"name": "Automeris cecrops pamina",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Saturniidae Hemileucinae Automeris cecrops pamina",
+"ott_id": 6520504,
+"parent": 182758,
+"rank": "subspecies",
+"sources": [
+{
+"source": "https://www.gbif.org/species/6210677",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu20"
+},
+{
+"adjusted_label": "Automeris denticulata",
+"comment": "",
+"name": "Automeris denticulata",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Saturniidae Hemileucinae Automeris denticulata",
+"ott_id": 6520505,
+"parent": 391857,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.gbif.org/species/1866053",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu28"
+},
+{
+"adjusted_label": "Automeris amanda limpida",
+"comment": "",
+"name": "Automeris amanda limpida",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Saturniidae Hemileucinae Automeris amanda limpida",
+"ott_id": 6520506,
+"parent": 1014973,
+"rank": "subspecies",
+"sources": [
+{
+"source": "https://www.gbif.org/species/6210674",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu5"
+},
+{
+"adjusted_label": "Automeris vomona pichinchensis",
+"comment": "",
+"name": "Automeris vomona pichinchensis",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Saturniidae Hemileucinae Automeris vomona pichinchensis",
+"ott_id": 6520507,
+"parent": 3099643,
+"rank": "subspecies",
+"sources": [
+{
+"source": "https://www.gbif.org/species/6210660",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu82"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
