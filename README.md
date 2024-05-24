@@ -4,3 +4,4 @@ Amendments to the OpenTree taxonomy. Each describes the intended operations (e.g
 ## License
 
 The data in this repository is released under the [Create Commons Zero 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+
