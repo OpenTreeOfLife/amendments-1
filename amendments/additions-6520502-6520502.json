@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mtholder@gmail.com",
+"login": "mtholder",
+"name": "Mark T. Holder"
+},
+"date_created": "2024-05-24T20:36:48.838Z",
+"id": "additions-6520502-6520502",
+"new_ottids_required": 1,
+"study_id": "ot_2269",
+"taxa": [
+{
+"adjusted_label": "Grammomys dryas",
+"comment": "unrelated to this study. https://github.com/OpenTreeOfLife/feedback/issues/452",
+"name": "Grammomys dryas",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Rajiformes",
+"ott_id": 6520502,
+"parent": 170604,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.gbif.org/species/2439198",
+"source_type": "Other"
+}
+],
+"tag": "otu10"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
