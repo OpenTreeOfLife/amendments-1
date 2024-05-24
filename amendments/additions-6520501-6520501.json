@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mtholder@gmail.com",
+"login": "mtholder",
+"name": "Mark T. Holder"
+},
+"date_created": "2024-05-24T20:02:37.143Z",
+"id": "additions-6520501-6520501",
+"new_ottids_required": 1,
+"study_id": "ot_189",
+"taxa": [
+{
+"adjusted_label": "Haeromys pusillus",
+"comment": "unrelated to this taxon. adding a taxon from https://github.com/OpenTreeOfLife/feedback/issues/449",
+"name": "Haeromys pusillus",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Thaumasotcheles massonktenos2",
+"ott_id": 6520501,
+"parent": 3610081,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.gbif.org/species/2438869",
+"source_type": "Other"
+}
+],
+"tag": "otu11"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
