@@ -61,30 +61,13 @@
 "tag": "otu32396"
 },
 {
-"adjusted_label": "Mayrimunia leucosticta",
-"comment": "",
-"name": "Mayrimunia leucosticta",
-"name_derivation": "No change to original label",
-"original_label": "Mayrimunia leucosticta",
-"ott_id": 6520495,
-"parent": 6520425,
-"rank": "species",
-"sources": [
-{
-"source": "https://www.birds.cornell.edu/clementschecklist",
-"source_type": "Link to online taxonomy"
-}
-],
-"tag": "otu32397"
-},
-{
 "adjusted_label": "Gypsophila calcicola",
 "comment": "",
 "name": "Gypsophila calcicola",
 "name_derivation": "No change to original label",
 "original_label": "Gypsophila calcicola",
 "ott_id": 6520496,
-"parent": 28652,
+"parent": 6520423,
 "rank": "species",
 "sources": [
 {
@@ -101,7 +84,7 @@
 "name_derivation": "No change to original label",
 "original_label": "Gypsophila annamensis",
 "ott_id": 6520497,
-"parent": 28652,
+"parent": 6520423,
 "rank": "species",
 "sources": [
 {
@@ -118,7 +101,7 @@
 "name_derivation": "No change to original label",
 "original_label": "Gypsophila crassa",
 "ott_id": 6520498,
-"parent": 28652,
+"parent": 6520423,
 "rank": "species",
 "sources": [
 {
