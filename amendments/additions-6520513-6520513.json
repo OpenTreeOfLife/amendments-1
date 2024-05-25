@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mtholder@gmail.com",
+"login": "mtholder",
+"name": "Mark T. Holder"
+},
+"date_created": "2024-05-25T20:15:21.945Z",
+"id": "additions-6520513-6520513",
+"new_ottids_required": 1,
+"study_id": "ot_2269",
+"taxa": [
+{
+"adjusted_label": "Acoelomorpha",
+"comment": "Not related to this study. See https://github.com/OpenTreeOfLife/feedback/issues/161",
+"name": "Atlantogenata",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Rajiformes",
+"ott_id": 6520513,
+"parent": 683263,
+"rank": "no rank",
+"sources": [
+{
+"source": "https://academic.oup.com/sysbio/article/48/1/119/1657373",
+"source_type": "Other"
+}
+],
+"tag": "otu10"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
