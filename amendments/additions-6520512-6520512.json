@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mtholder@gmail.com",
+"login": "mtholder",
+"name": "Mark T. Holder"
+},
+"date_created": "2024-05-25T16:09:27.991Z",
+"id": "additions-6520512-6520512",
+"new_ottids_required": 1,
+"study_id": "ot_2269",
+"taxa": [
+{
+"adjusted_label": "Ambulacraria",
+"comment": "Unrelated to this study. https://github.com/OpenTreeOfLife/feedback/issues/151",
+"name": "Ambulacraria",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Rajiformes",
+"ott_id": 6520512,
+"parent": 147604,
+"rank": "no rank",
+"sources": [
+{
+"source": "https://link.springer.com/article/10.1007/s13127-011-0044-4",
+"source_type": "Other"
+}
+],
+"tag": "otu10"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
