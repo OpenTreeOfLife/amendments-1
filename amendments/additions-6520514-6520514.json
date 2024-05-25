@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mtholder@gmail.com",
+"login": "mtholder",
+"name": "Mark T. Holder"
+},
+"date_created": "2024-05-25T21:10:31.789Z",
+"id": "additions-6520514-6520514",
+"new_ottids_required": 1,
+"study_id": "ot_2269",
+"taxa": [
+{
+"adjusted_label": "Acoelomorpha",
+"comment": "Not related to this study. See https://github.com/OpenTreeOfLife/feedback/issues/188",
+"name": "Olfactores",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Rajiformes",
+"ott_id": 6520514,
+"parent": 125642,
+"rank": "no rank",
+"sources": [
+{
+"source": "https://www.nature.com/articles/nature04336",
+"source_type": "Other"
+}
+],
+"tag": "otu10"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
