@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mtholder@gmail.com",
+"login": "mtholder",
+"name": "Mark T. Holder"
+},
+"date_created": "2024-05-27T17:03:48.520Z",
+"id": "additions-6520515-6520515",
+"new_ottids_required": 1,
+"study_id": "ot_654",
+"taxa": [
+{
+"adjusted_label": "Caenophidia",
+"comment": "unrelated to this study. just adding a clade name.",
+"name": "Caenophidia",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Tetrastemmatidae IZ132537",
+"ott_id": 6520515,
+"parent": 5835348,
+"rank": "no rank",
+"sources": [
+{
+"source": "http://palaeos.com/vertebrates/squamata/macrostomata.html#Caenophidia",
+"source_type": "Other"
+}
+],
+"tag": "Tl1335171"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
