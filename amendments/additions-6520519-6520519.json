@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mtholder@gmail.com",
+"login": "mtholder",
+"name": "Mark T. Holder"
+},
+"date_created": "2024-05-28T17:37:55.404Z",
+"id": "additions-6520519-6520519",
+"new_ottids_required": 1,
+"study_id": "ot_770",
+"taxa": [
+{
+"adjusted_label": "Primatomorpha",
+"comment": "not related to this study",
+"name": "Primatomorpha",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Basileuterus roraimae",
+"ott_id": 6520519,
+"parent": 392222,
+"rank": "no rank",
+"sources": [
+{
+"source": "https://link.springer.com/chapter/10.1007/978-1-4899-2388-2_2",
+"source_type": "Other"
+}
+],
+"tag": "otu198"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
