@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mtholder@gmail.com",
+"login": "mtholder",
+"name": "Mark T. Holder"
+},
+"date_created": "2024-05-28T14:49:38.198Z",
+"id": "additions-6520516-6520516",
+"new_ottids_required": 1,
+"study_id": "ot_770",
+"taxa": [
+{
+"adjusted_label": "Orchamoplatus",
+"comment": "unrelated to this study. ",
+"name": "Orchamoplatus",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Basileuterus roraimae",
+"ott_id": 6520516,
+"parent": 290572,
+"rank": "genus",
+"sources": [
+{
+"source": "https://www.gbif.org/dataset/43f21316-d220-4713-a4d9-59559f626ece",
+"source_type": "Other"
+}
+],
+"tag": "otu198"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
