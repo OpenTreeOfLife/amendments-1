@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mtholder@gmail.com",
+"login": "mtholder",
+"name": "Mark T. Holder"
+},
+"date_created": "2024-05-28T15:42:20.795Z",
+"id": "additions-6520517-6520517",
+"new_ottids_required": 1,
+"study_id": "ot_770",
+"taxa": [
+{
+"adjusted_label": "Melomys caurinus",
+"comment": "not related to this study.",
+"name": "Melomys caurinus",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Basileuterus roraimae",
+"ott_id": 6520517,
+"parent": 260131,
+"rank": "species",
+"sources": [
+{
+"source": "https://en.wikipedia.org/wiki/Short-tailed_Talaud_mosaic-tailed_rat",
+"source_type": "Other"
+}
+],
+"tag": "otu198"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
