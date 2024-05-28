@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mtholder@gmail.com",
+"login": "mtholder",
+"name": "Mark T. Holder"
+},
+"date_created": "2024-05-28T15:45:52.684Z",
+"id": "additions-6520518-6520518",
+"new_ottids_required": 1,
+"study_id": "ot_770",
+"taxa": [
+{
+"adjusted_label": "Rattus pococki",
+"comment": "not related to this study.",
+"name": "Rattus pococki",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Basileuterus roraimae",
+"ott_id": 6520518,
+"parent": 271578,
+"rank": "species",
+"sources": [
+{
+"source": "https://en.wikipedia.org/wiki/Pocock%27s_highland_rat",
+"source_type": "Other"
+}
+],
+"tag": "otu198"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
