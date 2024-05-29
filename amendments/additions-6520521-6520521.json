@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mtholder@gmail.com",
+"login": "mtholder",
+"name": "Mark T. Holder"
+},
+"date_created": "2024-05-29T19:16:25.061Z",
+"id": "additions-6520521-6520521",
+"new_ottids_required": 1,
+"study_id": "ot_770",
+"taxa": [
+{
+"adjusted_label": "Phoeniconaias",
+"comment": "not related to this study",
+"name": "Phoeniconaias",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Basileuterus roraimae",
+"ott_id": 6520521,
+"parent": 472436,
+"rank": "species",
+"sources": [
+{
+"source": "clements",
+"source_type": "Other"
+}
+],
+"tag": "otu198"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
