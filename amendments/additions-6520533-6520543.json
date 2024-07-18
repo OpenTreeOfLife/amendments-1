@@ -1,0 +1,201 @@
+{
+"curator": {
+"email": "ANONYMOUS",
+"login": "hyanwong",
+"name": "Yan Wong"
+},
+"date_created": "2024-07-18T19:04:47.766Z",
+"id": "additions-6520533-6520543",
+"new_ottids_required": 11,
+"study_id": "ot_2317",
+"taxa": [
+{
+"adjusted_label": "Protanilla boltoni",
+"comment": "",
+"name": "Protanilla boltoni",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Protanilla boltoni CASENT0217032",
+"ott_id": 6520533,
+"parent": 68217,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.antwiki.org/wiki/Protanilla_boltoni",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu274"
+},
+{
+"adjusted_label": "Amoimyrmex striatus",
+"comment": "",
+"name": "Amoimyrmex striatus",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Amoimyrmex striatus USNMENT00924113",
+"ott_id": 6520534,
+"parent": 344333,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.antwiki.org/wiki/Amoimyrmex_striatus",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu12"
+},
+{
+"adjusted_label": "Lasius americanus",
+"comment": "",
+"name": "Lasius americanus",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Lasius americanus FMNHINS0000105181",
+"ott_id": 6520535,
+"parent": 418137,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.antwiki.org/wiki/Lasius_americanus",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu139"
+},
+{
+"adjusted_label": "Dinomyrmex gigas",
+"comment": "",
+"name": "Dinomyrmex gigas",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Dinomyrmex gigas FMNHINS0003471788",
+"ott_id": 6520536,
+"parent": 418138,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.antwiki.org/wiki/Dinomyrmex_gigas",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu147"
+},
+{
+"adjusted_label": "Colobopsis obliqua",
+"comment": "",
+"name": "Colobopsis obliqua",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Colobopsis obliqua FMNHINS0003145306",
+"ott_id": 6520537,
+"parent": 418138,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.antwiki.org/wiki/Colobopsis_obliqua",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu148"
+},
+{
+"adjusted_label": "Paratrachymyrmex cornetzi",
+"comment": "",
+"name": "Paratrachymyrmex cornetzi",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Paratrachymyrmex cornetzi USNMENT00439347",
+"ott_id": 6520538,
+"parent": 344333,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.antwiki.org/wiki/Paratrachymyrmex_cornetzi",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu16"
+},
+{
+"adjusted_label": "Xerolitor explicatus",
+"comment": "",
+"name": "Xerolitor explicatus",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Xerolitor explicatus USNMENT01125245",
+"ott_id": 6520539,
+"parent": 344333,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.antwiki.org/wiki/Xerolitor_explicatus",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu17"
+},
+{
+"adjusted_label": "Mycetomoellerius zeteki",
+"comment": "",
+"name": "Mycetomoellerius zeteki",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Mycetomoellerius zeteki USNMENT01125246",
+"ott_id": 6520540,
+"parent": 344333,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.antwiki.org/wiki/Mycetomoellerius_zeteki",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu19"
+},
+{
+"adjusted_label": "Forelius maranhaoensis",
+"comment": "",
+"name": "Forelius maranhaoensis",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Forelius maranhaoensis VOUCHER1308",
+"ott_id": 6520541,
+"parent": 256681,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.antwiki.org/wiki/Forelius_maranhaoensis",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu195"
+},
+{
+"adjusted_label": "Syscia madrensis",
+"comment": "",
+"name": "Syscia madrensis",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Syscia madrensis CASENT0732067",
+"ott_id": 6520542,
+"parent": 161685,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.antwiki.org/wiki/Syscia_madrensis",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu205"
+},
+{
+"adjusted_label": "Leptanilloides nomadus",
+"comment": "",
+"name": "Leptanilloides nomadus",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Leptanilloides nomadus RA0397atMCZ",
+"ott_id": 6520543,
+"parent": 161685,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.antwiki.org/wiki/Leptanilloides_nomadus",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu210"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
