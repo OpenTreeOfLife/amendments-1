@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS",
+"login": "hyanwong",
+"name": "Yan Wong"
+},
+"date_created": "2024-07-18T19:09:14.900Z",
+"id": "additions-6520544-6520544",
+"new_ottids_required": 1,
+"study_id": "ot_2317",
+"taxa": [
+{
+"adjusted_label": "Brachyponera sennaarensis",
+"comment": "",
+"name": "Brachyponera sennaarensis",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Brachyponera sennaarensis FMNHINS0003165604",
+"ott_id": 6520544,
+"parent": 327971,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.antwiki.org/wiki/Brachyponera_sennaarensis",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu237"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
