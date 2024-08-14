@@ -1,0 +1,73 @@
+{
+"curator": {
+"email": "ANONYMOUS",
+"login": "Ellie-Hay",
+"name": "Eleanor Hay"
+},
+"date_created": "2024-08-14T20:56:08.577Z",
+"id": "additions-6520545-6520547",
+"new_ottids_required": 3,
+"study_id": "ot_2320",
+"taxa": [
+{
+"adjusted_label": "Myzomela erythrocephala dammermani",
+"comment": "This is recognised as a species according to the IOC world bird list (version 10.2). \nNOTE: It does state that this species is already in OT taxonomy, although it wouldn't match to the species and a separate search states that it does not appear in the latest synthetic tree and is hidden (https://tree.opentreeoflife.org/opentree/argus/ottol@5560085/Myzomela-dammermani)",
+"name": "Myzomela dammermani",
+"name_derivation": "No change to original label",
+"original_label": "Myzomela dammermani",
+"ott_id": 6520545,
+"parent": 1092345,
+"rank": "species",
+"sources": [
+{
+"source": "https://ebird.org/species/summyz1",
+"source_type": "Other"
+},
+{
+"source": "https://birdsoftheworld.org/bow/species/summyz1/cur/introduction",
+"source_type": "Other"
+}
+],
+"tag": "otu92"
+},
+{
+"adjusted_label": "Meliphaga imitatrix",
+"comment": "This study followed the IOC world bird list (version 10.2) and Microptilotis imitatrix is a species according to this list",
+"name": "Microptilotis imitatrix",
+"name_derivation": "No change to original label",
+"original_label": "Microptilotis imitatrix",
+"ott_id": 6520546,
+"parent": 1092345,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.iucnredlist.org/species/155109013/155636062",
+"source_type": "Other"
+},
+{
+"source": "https://ebird.org/species/grahon5",
+"source_type": "Other"
+}
+],
+"tag": "otu163"
+},
+{
+"adjusted_label": "Philemon buceroides yorki",
+"comment": "Philemon yorki is a species according to the IOC world bird list (version 10.2)",
+"name": "Philemon yorki",
+"name_derivation": "No change to original label",
+"original_label": "Philemon yorki",
+"ott_id": 6520547,
+"parent": 1092345,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.gbif.org/species/6101037",
+"source_type": "Other"
+}
+],
+"tag": "otu69"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
