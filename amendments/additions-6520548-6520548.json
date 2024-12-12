@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2024-12-12T17:33:41.081Z",
+"id": "additions-6520548-6520548",
+"new_ottids_required": 1,
+"study_id": "pg_2674",
+"taxa": [
+{
+"adjusted_label": "Faxonius neglectus",
+"comment": "",
+"name": "Faxonius neglectus",
+"name_derivation": "Label is a synonym",
+"original_label": "Orconectes neglectus",
+"ott_id": 6520548,
+"parent": 45677,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=885727",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu400668"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
