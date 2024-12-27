@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2024-12-27T18:26:04.102Z",
+"id": "additions-6520552-6520552",
+"new_ottids_required": 1,
+"study_id": "pg_2673",
+"taxa": [
+{
+"adjusted_label": "Neocallichirus mericeae",
+"comment": "OTT id 613647",
+"name": "Neocallichirus mericeae",
+"name_derivation": "Label is a synonym",
+"original_label": "O Se meri",
+"ott_id": 6520552,
+"parent": 791663,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1398887",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu400614"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
