@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2024-12-31T01:12:14.686Z",
+"id": "additions-6520553-6520553",
+"new_ottids_required": 1,
+"study_id": "ot_213",
+"taxa": [
+{
+"adjusted_label": "Orconectes palmeri longimanus",
+"comment": "",
+"name": "Faxonius palmeri longimanus",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Orconectes palmeri longimanus",
+"ott_id": 6520553,
+"parent": 7116905,
+"rank": "subspecies",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=885781",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu207"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
