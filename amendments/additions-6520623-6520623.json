@@ -1,0 +1,35 @@
+{
+"curator": {
+"email": "ANONYMOUS",
+"login": "Phyllopteryx",
+"name": "Josefin Stiller"
+},
+"date_created": "2025-05-05T14:02:02.208Z",
+"id": "additions-6520623-6520623",
+"new_ottids_required": 1,
+"study_id": "ot_2783",
+"taxa": [
+{
+"adjusted_label": "Trichobranchus bibranchiatus",
+"comment": "",
+"name": "Trichobranchus bibranchiatus",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "TRI_Trichobranchus_cf._bibranchiatus",
+"ott_id": 6520623,
+"parent": 911557,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=340096",
+"source_type": "Link to online taxonomy"
+},
+{
+"source": "https://doi.org/10.3390/biology9040073",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu129"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
