@@ -1,0 +1,99 @@
+{
+"curator": {
+"email": "ANONYMOUS",
+"login": "Phyllopteryx",
+"name": "Josefin Stiller"
+},
+"date_created": "2025-05-05T13:10:34.981Z",
+"id": "additions-6520554-6520558",
+"new_ottids_required": 5,
+"study_id": "ot_2782",
+"taxa": [
+{
+"adjusted_label": "Microphis ocellatus",
+"comment": "",
+"name": "Microphis ocellatus",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Microphis ocellatus Indonesia spades",
+"ott_id": 6520554,
+"parent": 495936,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1186/s12915-022-01271-w",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu153"
+},
+{
+"adjusted_label": "Solenostomus paegnius",
+"comment": "",
+"name": "Solenostomus paegnius",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Solenostomus paegnius Philippines abyss",
+"ott_id": 6520555,
+"parent": 804809,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1186/s12915-022-01271-w",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu193"
+},
+{
+"adjusted_label": "Doryrhamphus californiensis",
+"comment": "",
+"name": "Doryrhamphus californiensis",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Doryrhamphus californiensis GulfCalifornia spades",
+"ott_id": 6520556,
+"parent": 445221,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1186/s12915-022-01271-w",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu47"
+},
+{
+"adjusted_label": "Doryrhamphus paulus",
+"comment": "",
+"name": "Doryrhamphus paulus",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Doryrhamphus paulus GulfCalifornia spades",
+"ott_id": 6520557,
+"parent": 445221,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1186/s12915-022-01271-w",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu54"
+},
+{
+"adjusted_label": "Cylix tupareomanaia",
+"comment": "",
+"name": "Cylix tupareomanaia",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Idiotropiscis sp NewZealand abyss",
+"ott_id": 6520558,
+"parent": 145131,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1186/s12915-022-01271-w",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu131"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
