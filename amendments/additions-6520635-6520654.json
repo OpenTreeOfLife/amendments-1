@@ -1,0 +1,354 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2025-05-05T22:50:12.684Z",
+"id": "additions-6520635-6520654",
+"new_ottids_required": 20,
+"study_id": "ot_2770",
+"taxa": [
+{
+"adjusted_label": "Streptopelia xanthocycla",
+"comment": "",
+"name": "Streptopelia xanthocycla",
+"name_derivation": "No change to original label",
+"original_label": "Streptopelia xanthocycla",
+"ott_id": 6520635,
+"parent": 549522,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10537"
+},
+{
+"adjusted_label": "Scleroptila whytei",
+"comment": "",
+"name": "Scleroptila whytei",
+"name_derivation": "No change to original label",
+"original_label": "Scleroptila whytei",
+"ott_id": 6520636,
+"parent": 124998,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10656"
+},
+{
+"adjusted_label": "Scleroptila elgonensis",
+"comment": "",
+"name": "Scleroptila elgonensis",
+"name_derivation": "No change to original label",
+"original_label": "Scleroptila elgonensis",
+"ott_id": 6520637,
+"parent": 124998,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10660"
+},
+{
+"adjusted_label": "Tropicoperdix graydoni",
+"comment": "",
+"name": "Tropicoperdix graydoni",
+"name_derivation": "No change to original label",
+"original_label": "Tropicoperdix graydoni",
+"ott_id": 6520638,
+"parent": 5859858,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10694"
+},
+{
+"adjusted_label": "Lophura pyronota",
+"comment": "",
+"name": "Lophura pyronota",
+"name_derivation": "No change to original label",
+"original_label": "Lophura pyronota",
+"ott_id": 6520639,
+"parent": 624441,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10707"
+},
+{
+"adjusted_label": "Guttera edouardi",
+"comment": "",
+"name": "Guttera edouardi",
+"name_derivation": "No change to original label",
+"original_label": "Guttera edouardi",
+"ott_id": 6520640,
+"parent": 684042,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10823"
+},
+{
+"adjusted_label": "Guttera verreauxi",
+"comment": "",
+"name": "Guttera verreauxi",
+"name_derivation": "No change to original label",
+"original_label": "Guttera verreauxi",
+"ott_id": 6520641,
+"parent": 684042,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10824"
+},
+{
+"adjusted_label": "Fringilla spodiogenys",
+"comment": "",
+"name": "Fringilla spodiogenys",
+"name_derivation": "No change to original label",
+"original_label": "Fringilla spodiogenys",
+"ott_id": 6520642,
+"parent": 28336,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1083"
+},
+{
+"adjusted_label": "Fringilla canariensis",
+"comment": "",
+"name": "Fringilla canariensis",
+"name_derivation": "No change to original label",
+"original_label": "Fringilla canariensis",
+"ott_id": 6520643,
+"parent": 28336,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1084"
+},
+{
+"adjusted_label": "Fringilla moreletti",
+"comment": "",
+"name": "Fringilla moreletti",
+"name_derivation": "No change to original label",
+"original_label": "Fringilla moreletti",
+"ott_id": 6520644,
+"parent": 28336,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1087"
+},
+{
+"adjusted_label": "Chlorophonia flavifrons",
+"comment": "",
+"name": "Chlorophonia flavifrons",
+"name_derivation": "No change to original label",
+"original_label": "Chlorophonia flavifrons",
+"ott_id": 6520645,
+"parent": 357621,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1094"
+},
+{
+"adjusted_label": "Chlorophonia sclateri",
+"comment": "",
+"name": "Chlorophonia sclateri",
+"name_derivation": "No change to original label",
+"original_label": "Chlorophonia sclateri",
+"ott_id": 6520646,
+"parent": 357621,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1095"
+},
+{
+"adjusted_label": "Chlorophonia musica",
+"comment": "",
+"name": "Chlorophonia musica",
+"name_derivation": "No change to original label",
+"original_label": "Chlorophonia musica",
+"ott_id": 6520647,
+"parent": 357621,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1097"
+},
+{
+"adjusted_label": "Anthus brevirostris",
+"comment": "",
+"name": "Anthus brevirostris",
+"name_derivation": "No change to original label",
+"original_label": "Anthus brevirostris",
+"ott_id": 6520648,
+"parent": 28337,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1118"
+},
+{
+"adjusted_label": "Euplectes laticauda",
+"comment": "",
+"name": "Euplectes laticauda",
+"name_derivation": "No change to original label",
+"original_label": "Euplectes laticauda",
+"ott_id": 6520649,
+"parent": 901167,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1388"
+},
+{
+"adjusted_label": "Ploceus holoxanthus",
+"comment": "",
+"name": "Ploceus holoxanthus",
+"name_derivation": "No change to original label",
+"original_label": "Ploceus holoxanthus",
+"ott_id": 6520650,
+"parent": 370815,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1453"
+},
+{
+"adjusted_label": "Ploceus brachypterus",
+"comment": "",
+"name": "Ploceus brachypterus",
+"name_derivation": "No change to original label",
+"original_label": "Ploceus brachypterus",
+"ott_id": 6520651,
+"parent": 370815,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1469"
+},
+{
+"adjusted_label": "Anaplectes jubaensis",
+"comment": "",
+"name": "Anaplectes jubaensis",
+"name_derivation": "No change to original label",
+"original_label": "Anaplectes jubaensis",
+"ott_id": 6520652,
+"parent": 82262,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1480"
+},
+{
+"adjusted_label": "Chloropsis moluccensis",
+"comment": "",
+"name": "Chloropsis moluccensis",
+"name_derivation": "No change to original label",
+"original_label": "Chloropsis moluccensis",
+"ott_id": 6520653,
+"parent": 647191,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1513"
+},
+{
+"adjusted_label": "Irena tweeddalii",
+"comment": "",
+"name": "Irena tweeddalii",
+"name_derivation": "No change to original label",
+"original_label": "Irena tweeddalii",
+"ott_id": 6520654,
+"parent": 647180,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1520"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
