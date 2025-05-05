@@ -1,0 +1,94 @@
+{
+"curator": {
+"email": "ANONYMOUS",
+"login": "Phyllopteryx",
+"name": "Josefin Stiller"
+},
+"date_created": "2025-05-05T13:18:04.120Z",
+"id": "additions-6520608-6520611",
+"new_ottids_required": 4,
+"study_id": "ot_2782",
+"taxa": [
+{
+"adjusted_label": "Microphis ocellatus",
+"comment": "",
+"name": "Microphis ocellatus",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Microphis ocellatus Indonesia spades",
+"ott_id": 6520608,
+"parent": 495936,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1186/s12915-022-01271-w",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu153"
+},
+{
+"adjusted_label": "Solenostomus paegnius",
+"comment": "",
+"name": "Solenostomus paegnius",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Solenostomus paegnius Philippines abyss",
+"ott_id": 6520609,
+"parent": 804809,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1186/s12915-022-01271-w",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu193"
+},
+{
+"adjusted_label": "Doryrhamphus californiensis",
+"comment": "",
+"name": "Doryrhamphus californiensis",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Doryrhamphus californiensis GulfCalifornia spades",
+"ott_id": 6520610,
+"parent": 445221,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1186/s12915-022-01271-w",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu47"
+},
+{
+"adjusted_label": "Doryrhamphus paulus",
+"comment": "",
+"name": "Doryrhamphus paulus",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Doryrhamphus paulus GulfCalifornia spades",
+"ott_id": 6520611,
+"parent": 445221,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1186/s12915-022-01271-w",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu54"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
