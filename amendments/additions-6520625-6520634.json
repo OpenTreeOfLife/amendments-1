@@ -1,0 +1,184 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2025-05-05T22:46:15.716Z",
+"id": "additions-6520625-6520634",
+"new_ottids_required": 10,
+"study_id": "ot_2770",
+"taxa": [
+{
+"adjusted_label": "Cacomantis blandus",
+"comment": "",
+"name": "Cacomantis blandus",
+"name_derivation": "No change to original label",
+"original_label": "Cacomantis blandus",
+"ott_id": 6520625,
+"parent": 792625,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10053"
+},
+{
+"adjusted_label": "Cacomantis addendus",
+"comment": "",
+"name": "Cacomantis addendus",
+"name_derivation": "No change to original label",
+"original_label": "Cacomantis addendus",
+"ott_id": 6520626,
+"parent": 792625,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10054"
+},
+{
+"adjusted_label": "Cacomantis virescens",
+"comment": "",
+"name": "Cacomantis virescens",
+"name_derivation": "No change to original label",
+"original_label": "Cacomantis virescens",
+"ott_id": 6520627,
+"parent": 792625,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10057"
+},
+{
+"adjusted_label": "Phaenicophaeus oeneicaudus",
+"comment": "",
+"name": "Phaenicophaeus oeneicaudus",
+"name_derivation": "No change to original label",
+"original_label": "Phaenicophaeus oeneicaudus",
+"ott_id": 6520628,
+"parent": 1041421,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10119"
+},
+{
+"adjusted_label": "Centropus burchellii",
+"comment": "",
+"name": "Centropus burchellii",
+"name_derivation": "No change to original label",
+"original_label": "Centropus burchellii",
+"ott_id": 6520629,
+"parent": 1039514,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10136"
+},
+{
+"adjusted_label": "Coua olivaceiceps",
+"comment": "",
+"name": "Coua olivaceiceps",
+"name_derivation": "No change to original label",
+"original_label": "Coua olivaceiceps",
+"ott_id": 6520630,
+"parent": 787071,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10159"
+},
+{
+"adjusted_label": "Ducula cuprea",
+"comment": "",
+"name": "Ducula cuprea",
+"name_derivation": "No change to original label",
+"original_label": "Ducula cuprea",
+"ott_id": 6520631,
+"parent": 300042,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10265"
+},
+{
+"adjusted_label": "Ducula geelvinkiana",
+"comment": "",
+"name": "Ducula geelvinkiana",
+"name_derivation": "No change to original label",
+"original_label": "Ducula geelvinkiana",
+"ott_id": 6520632,
+"parent": 300042,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10282"
+},
+{
+"adjusted_label": "Ducula oenothorax",
+"comment": "",
+"name": "Ducula oenothorax",
+"name_derivation": "No change to original label",
+"original_label": "Ducula oenothorax",
+"ott_id": 6520633,
+"parent": 300042,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10293"
+},
+{
+"adjusted_label": "Ptilinopus speciosus",
+"comment": "",
+"name": "Ptilinopus speciosus",
+"name_derivation": "No change to original label",
+"original_label": "Ptilinopus speciosus",
+"ott_id": 6520634,
+"parent": 28961,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10319"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
