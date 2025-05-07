@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-05-07T17:50:42.032Z",
+"id": "additions-6520659-6520659",
+"new_ottids_required": 1,
+"study_id": "ot_2794",
+"taxa": [
+{
+"adjusted_label": "Orconectes sheltae",
+"comment": "",
+"name": "Cambarus sheltae",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Orconectes sheltae",
+"ott_id": 6520659,
+"parent": 876591,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.3897/subtbiol.43.79993",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu25"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
