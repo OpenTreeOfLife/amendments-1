@@ -1,0 +1,82 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-05-07T00:40:00.910Z",
+"id": "additions-6520655-6520658",
+"new_ottids_required": 4,
+"study_id": "ot_2790",
+"taxa": [
+{
+"adjusted_label": "Lacunicambarus dalyae",
+"comment": "",
+"name": "Lacunicambarus dalyae",
+"name_derivation": "No change to original label",
+"original_label": "Lacunicambarus dalyae",
+"ott_id": 6520655,
+"parent": 79860,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1381900",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu10"
+},
+{
+"adjusted_label": "Lacunicambarus nebrascensis",
+"comment": "",
+"name": "Lacunicambarus nebrascensis",
+"name_derivation": "No change to original label",
+"original_label": "Lacunicambarus nebrascensis",
+"ott_id": 6520656,
+"parent": 79860,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1560271",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu13"
+},
+{
+"adjusted_label": "Lacunicambarus freudensteini",
+"comment": "",
+"name": "Lacunicambarus freundensteini",
+"name_derivation": "No change to original label",
+"original_label": "Lacunicambarus freundensteini",
+"ott_id": 6520657,
+"parent": 79860,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1443603",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu7"
+},
+{
+"adjusted_label": "Lacunicambarus mobilensis",
+"comment": "",
+"name": "Lacunicambarus mobilensis",
+"name_derivation": "No change to original label",
+"original_label": "Lacunicambarus mobilensis",
+"ott_id": 6520658,
+"parent": 79860,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1443602",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu9"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
