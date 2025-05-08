@@ -1,0 +1,354 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2025-05-08T18:27:59.507Z",
+"id": "additions-6520699-6520718",
+"new_ottids_required": 20,
+"study_id": "ot_2770",
+"taxa": [
+{
+"adjusted_label": "Turdus ruficeps",
+"comment": "",
+"name": "Turdus ruficeps",
+"name_derivation": "No change to original label",
+"original_label": "Turdus ruficeps",
+"ott_id": 6520699,
+"parent": 568571,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2111"
+},
+{
+"adjusted_label": "Turdus samoensis",
+"comment": "",
+"name": "Turdus samoensis",
+"name_derivation": "No change to original label",
+"original_label": "Turdus samoensis",
+"ott_id": 6520700,
+"parent": 568571,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2112"
+},
+{
+"adjusted_label": "Turdus xanthopus",
+"comment": "",
+"name": "Turdus xanthopus",
+"name_derivation": "No change to original label",
+"original_label": "Turdus xanthopus",
+"ott_id": 6520701,
+"parent": 568571,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2114"
+},
+{
+"adjusted_label": "Turdus pritzbueri",
+"comment": "",
+"name": "Turdus pritzbueri",
+"name_derivation": "No change to original label",
+"original_label": "Turdus pritzbueri",
+"ott_id": 6520702,
+"parent": 568571,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2115"
+},
+{
+"adjusted_label": "Turdus vanikorensis",
+"comment": "",
+"name": "Turdus vanikorensis",
+"name_derivation": "No change to original label",
+"original_label": "Turdus vanikorensis",
+"ott_id": 6520703,
+"parent": 568571,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2116"
+},
+{
+"adjusted_label": "Turdus bougainvillei",
+"comment": "",
+"name": "Turdus bougainvillei",
+"name_derivation": "No change to original label",
+"original_label": "Turdus bougainvillei",
+"ott_id": 6520704,
+"parent": 568571,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2118"
+},
+{
+"adjusted_label": "Turdus heinrothi",
+"comment": "",
+"name": "Turdus heinrothi",
+"name_derivation": "No change to original label",
+"original_label": "Turdus heinrothi",
+"ott_id": 6520705,
+"parent": 568571,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2119"
+},
+{
+"adjusted_label": "Turdus papuensis",
+"comment": "",
+"name": "Turdus papuensis",
+"name_derivation": "No change to original label",
+"original_label": "Turdus papuensis",
+"ott_id": 6520706,
+"parent": 568571,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2120"
+},
+{
+"adjusted_label": "Turdus deningeri",
+"comment": "",
+"name": "Turdus deningeri",
+"name_derivation": "No change to original label",
+"original_label": "Turdus deningeri",
+"ott_id": 6520707,
+"parent": 568571,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2121"
+},
+{
+"adjusted_label": "Turdus schlegelii",
+"comment": "",
+"name": "Turdus schlegelii",
+"name_derivation": "No change to original label",
+"original_label": "Turdus schlegelii",
+"ott_id": 6520708,
+"parent": 568571,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2123"
+},
+{
+"adjusted_label": "Turdus litsitsirupa",
+"comment": "",
+"name": "Turdus litsitsirupa",
+"name_derivation": "No change to original label",
+"original_label": "Turdus litsitsirupa",
+"ott_id": 6520709,
+"parent": 568571,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2201"
+},
+{
+"adjusted_label": "Turdus simensis",
+"comment": "",
+"name": "Turdus simensis",
+"name_derivation": "No change to original label",
+"original_label": "Turdus simensis",
+"ott_id": 6520710,
+"parent": 568571,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2203"
+},
+{
+"adjusted_label": "Ramphocinclus sanctaeluciae",
+"comment": "",
+"name": "Ramphocinclus sanctaeluciae",
+"name_derivation": "No change to original label",
+"original_label": "Ramphocinclus sanctaeluciae",
+"ott_id": 6520711,
+"parent": 1000579,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2323"
+},
+{
+"adjusted_label": "Acridotheres leucocephalus",
+"comment": "",
+"name": "Acridotheres leucocephalus",
+"name_derivation": "No change to original label",
+"original_label": "Acridotheres leucocephalus",
+"ott_id": 6520712,
+"parent": 595029,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2382"
+},
+{
+"adjusted_label": "Gracupica jalla",
+"comment": "",
+"name": "Gracupica jalla",
+"name_derivation": "No change to original label",
+"original_label": "Gracupica jalla",
+"ott_id": 6520713,
+"parent": 6153987,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2397"
+},
+{
+"adjusted_label": "Gracupica floweri",
+"comment": "",
+"name": "Gracupica floweri",
+"name_derivation": "No change to original label",
+"original_label": "Gracupica floweri",
+"ott_id": 6520714,
+"parent": 6153987,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2398"
+},
+{
+"adjusted_label": "Gracula venerata",
+"comment": "",
+"name": "Gracula venerata",
+"name_derivation": "No change to original label",
+"original_label": "Gracula venerata",
+"ott_id": 6520715,
+"parent": 80417,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2408"
+},
+{
+"adjusted_label": "Cyphorhinus dichrous",
+"comment": "",
+"name": "Cyphorhinus dichrous",
+"name_derivation": "No change to original label",
+"original_label": "Cyphorhinus dichrous",
+"ott_id": 6520716,
+"parent": 403168,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2463"
+},
+{
+"adjusted_label": "Tangara brasiliensis",
+"comment": "",
+"name": "Tangara brasiliensis",
+"name_derivation": "No change to original label",
+"original_label": "Tangara brasiliensis",
+"ott_id": 6520717,
+"parent": 817640,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu248"
+},
+{
+"adjusted_label": "Pheugopedius schulenbergi",
+"comment": "",
+"name": "Pheugopedius schulenbergi",
+"name_derivation": "No change to original label",
+"original_label": "Pheugopedius schulenbergi",
+"ott_id": 6520718,
+"parent": 313315,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2501"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
