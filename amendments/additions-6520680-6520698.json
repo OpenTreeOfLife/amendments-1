@@ -1,0 +1,337 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2025-05-08T18:21:03.469Z",
+"id": "additions-6520680-6520698",
+"new_ottids_required": 19,
+"study_id": "ot_2770",
+"taxa": [
+{
+"adjusted_label": "Larvivora namiyei",
+"comment": "",
+"name": "Larvivora namiyei",
+"name_derivation": "No change to original label",
+"original_label": "Larvivora namiyei",
+"ott_id": 6520680,
+"parent": 3599313,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1910"
+},
+{
+"adjusted_label": "Larvivora komadori",
+"comment": "",
+"name": "Larvivora komadori",
+"name_derivation": "No change to original label",
+"original_label": "Larvivora komadori",
+"ott_id": 6520681,
+"parent": 3599313,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1911"
+},
+{
+"adjusted_label": "Larvivora tanensis",
+"comment": "",
+"name": "Larvivora tanensis",
+"name_derivation": "No change to original label",
+"original_label": "Larvivora tanensis",
+"ott_id": 6520682,
+"parent": 3599313,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1912"
+},
+{
+"adjusted_label": "Larvivora akahige",
+"comment": "",
+"name": "Larvivora akahige",
+"name_derivation": "No change to original label",
+"original_label": "Larvivora akahige",
+"ott_id": 6520683,
+"parent": 3599313,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1913"
+},
+{
+"adjusted_label": "Brachypteryx floris",
+"comment": "",
+"name": "Brachypteryx floris",
+"name_derivation": "No change to original label",
+"original_label": "Brachypteryx floris",
+"ott_id": 6520684,
+"parent": 878304,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1917"
+},
+{
+"adjusted_label": "Brachypteryx saturata",
+"comment": "",
+"name": "Brachypteryx saturata",
+"name_derivation": "No change to original label",
+"original_label": "Brachypteryx saturata",
+"ott_id": 6520685,
+"parent": 878304,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1919"
+},
+{
+"adjusted_label": "Brachypteryx erythrogyna",
+"comment": "",
+"name": "Brachypteryx erythrogyna",
+"name_derivation": "No change to original label",
+"original_label": "Brachypteryx erythrogyna",
+"ott_id": 6520686,
+"parent": 878304,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1920"
+},
+{
+"adjusted_label": "Cyornis ruficrissa",
+"comment": "",
+"name": "Cyornis ruficrissa",
+"name_derivation": "No change to original label",
+"original_label": "Cyornis ruficrissa",
+"ott_id": 6520687,
+"parent": 288691,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1974"
+},
+{
+"adjusted_label": "Cyornis ocularis",
+"comment": "",
+"name": "Cyornis ocularis",
+"name_derivation": "No change to original label",
+"original_label": "Cyornis ocularis",
+"ott_id": 6520688,
+"parent": 288691,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1975"
+},
+{
+"adjusted_label": "Cyornis kalaoensis",
+"comment": "",
+"name": "Cyornis kalaoensis",
+"name_derivation": "No change to original label",
+"original_label": "Cyornis kalaoensis",
+"ott_id": 6520689,
+"parent": 288691,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1981"
+},
+{
+"adjusted_label": "Cyornis kadayangensis",
+"comment": "",
+"name": "Cyornis kadayangensis",
+"name_derivation": "No change to original label",
+"original_label": "Cyornis kadayangensis",
+"ott_id": 6520690,
+"parent": 288691,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1990"
+},
+{
+"adjusted_label": "Cyornis camarinensis",
+"comment": "",
+"name": "Cyornis camarinensis",
+"name_derivation": "No change to original label",
+"original_label": "Cyornis camarinensis",
+"ott_id": 6520691,
+"parent": 288691,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2001"
+},
+{
+"adjusted_label": "Eumyias stresemanni",
+"comment": "",
+"name": "Eumyias stresemanni",
+"name_derivation": "No change to original label",
+"original_label": "Eumyias stresemanni",
+"ott_id": 6520692,
+"parent": 829682,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2012"
+},
+{
+"adjusted_label": "Eumyias oscillans",
+"comment": "",
+"name": "Eumyias oscillans",
+"name_derivation": "No change to original label",
+"original_label": "Eumyias oscillans",
+"ott_id": 6520693,
+"parent": 829682,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2013"
+},
+{
+"adjusted_label": "Niltava oatesi",
+"comment": "",
+"name": "Niltava oatesi",
+"name_derivation": "No change to original label",
+"original_label": "Niltava oatesi",
+"ott_id": 6520694,
+"parent": 774534,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2020"
+},
+{
+"adjusted_label": "Copsychus omissus",
+"comment": "",
+"name": "Copsychus omissus",
+"name_derivation": "No change to original label",
+"original_label": "Copsychus omissus",
+"ott_id": 6520695,
+"parent": 373878,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2033"
+},
+{
+"adjusted_label": "Copsychus nigricauda",
+"comment": "",
+"name": "Copsychus nigricauda",
+"name_derivation": "No change to original label",
+"original_label": "Copsychus nigricauda",
+"ott_id": 6520696,
+"parent": 373878,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2035"
+},
+{
+"adjusted_label": "Copsychus barbouri",
+"comment": "",
+"name": "Copsychus barbouri",
+"name_derivation": "No change to original label",
+"original_label": "Copsychus barbouri",
+"ott_id": 6520697,
+"parent": 373878,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2036"
+},
+{
+"adjusted_label": "Copsychus leggei",
+"comment": "",
+"name": "Copsychus leggei",
+"name_derivation": "No change to original label",
+"original_label": "Copsychus leggei",
+"ott_id": 6520698,
+"parent": 373878,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2038"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
