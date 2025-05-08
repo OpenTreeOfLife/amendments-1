@@ -1,0 +1,354 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2025-05-08T18:13:33.044Z",
+"id": "additions-6520660-6520679",
+"new_ottids_required": 20,
+"study_id": "ot_2770",
+"taxa": [
+{
+"adjusted_label": "Cinnyris idenburgi",
+"comment": "",
+"name": "Cinnyris idenburgi",
+"name_derivation": "No change to original label",
+"original_label": "Cinnyris idenburgi",
+"ott_id": 6520660,
+"parent": 520444,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1565"
+},
+{
+"adjusted_label": "Cinnyris teysmanni",
+"comment": "",
+"name": "Cinnyris teysmanni",
+"name_derivation": "No change to original label",
+"original_label": "Cinnyris teysmanni",
+"ott_id": 6520661,
+"parent": 520444,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1566"
+},
+{
+"adjusted_label": "Cinnyris clementiae",
+"comment": "",
+"name": "Cinnyris clementiae",
+"name_derivation": "No change to original label",
+"original_label": "Cinnyris clementiae",
+"ott_id": 6520662,
+"parent": 520444,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1567"
+},
+{
+"adjusted_label": "Cinnyris aurora",
+"comment": "",
+"name": "Cinnyris aurora",
+"name_derivation": "No change to original label",
+"original_label": "Cinnyris aurora",
+"ott_id": 6520663,
+"parent": 520444,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1568"
+},
+{
+"adjusted_label": "Cinnyris frenatus",
+"comment": "",
+"name": "Cinnyris frenatus",
+"name_derivation": "No change to original label",
+"original_label": "Cinnyris frenatus",
+"ott_id": 6520664,
+"parent": 520444,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1570"
+},
+{
+"adjusted_label": "Cinnyris infrenatus",
+"comment": "",
+"name": "Cinnyris infrenatus",
+"name_derivation": "No change to original label",
+"original_label": "Cinnyris infrenatus",
+"ott_id": 6520665,
+"parent": 520444,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1571"
+},
+{
+"adjusted_label": "Cinnyris ornatus",
+"comment": "",
+"name": "Cinnyris ornatus",
+"name_derivation": "No change to original label",
+"original_label": "Cinnyris ornatus",
+"ott_id": 6520666,
+"parent": 520444,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1572"
+},
+{
+"adjusted_label": "Cinnyris hellmayri",
+"comment": "",
+"name": "Cinnyris hellmayri",
+"name_derivation": "No change to original label",
+"original_label": "Cinnyris hellmayri",
+"ott_id": 6520667,
+"parent": 520444,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1585"
+},
+{
+"adjusted_label": "Cinnyris melanogastrus",
+"comment": "",
+"name": "Cinnyris melanogastrus",
+"name_derivation": "No change to original label",
+"original_label": "Cinnyris melanogastrus",
+"ott_id": 6520668,
+"parent": 520444,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1598"
+},
+{
+"adjusted_label": "Anthreptes tephrolaemus",
+"comment": "",
+"name": "Anthreptes tephrolaemus",
+"name_derivation": "No change to original label",
+"original_label": "Anthreptes tephrolaemus",
+"ott_id": 6520669,
+"parent": 3366,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1655"
+},
+{
+"adjusted_label": "Dicaeum keiense",
+"comment": "",
+"name": "Dicaeum keiense",
+"name_derivation": "No change to original label",
+"original_label": "Dicaeum keiense",
+"ott_id": 6520670,
+"parent": 420993,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1675"
+},
+{
+"adjusted_label": "Dicaeum wilhelminae",
+"comment": "",
+"name": "Dicaeum wilhelminae",
+"name_derivation": "No change to original label",
+"original_label": "Dicaeum wilhelminae",
+"ott_id": 6520671,
+"parent": 420993,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1677"
+},
+{
+"adjusted_label": "Dicaeum rhodopygiale",
+"comment": "",
+"name": "Dicaeum rhodopygiale",
+"name_derivation": "No change to original label",
+"original_label": "Dicaeum rhodopygiale",
+"ott_id": 6520672,
+"parent": 420993,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1678"
+},
+{
+"adjusted_label": "Dicaeum cambodianum",
+"comment": "",
+"name": "Dicaeum cambodianum",
+"name_derivation": "No change to original label",
+"original_label": "Dicaeum cambodianum",
+"ott_id": 6520673,
+"parent": 420993,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1684"
+},
+{
+"adjusted_label": "Oenanthe frenata",
+"comment": "",
+"name": "Oenanthe frenata",
+"name_derivation": "No change to original label",
+"original_label": "Oenanthe frenata",
+"ott_id": 6520674,
+"parent": 945783,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1774"
+},
+{
+"adjusted_label": "Oenanthe seebohmi",
+"comment": "",
+"name": "Oenanthe seebohmi",
+"name_derivation": "No change to original label",
+"original_label": "Oenanthe seebohmi",
+"ott_id": 6520675,
+"parent": 945783,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1778"
+},
+{
+"adjusted_label": "Tarsiger formosanus",
+"comment": "",
+"name": "Tarsiger formosanus",
+"name_derivation": "No change to original label",
+"original_label": "Tarsiger formosanus",
+"ott_id": 6520676,
+"parent": 274231,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1871"
+},
+{
+"adjusted_label": "Tarsiger albocoeruleus",
+"comment": "",
+"name": "Tarsiger albocoeruleus",
+"name_derivation": "No change to original label",
+"original_label": "Tarsiger albocoeruleus",
+"ott_id": 6520677,
+"parent": 274231,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1876"
+},
+{
+"adjusted_label": "Myiomela sumatrana",
+"comment": "",
+"name": "Myiomela sumatrana",
+"name_derivation": "No change to original label",
+"original_label": "Myiomela sumatrana",
+"ott_id": 6520678,
+"parent": 35325,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1880"
+},
+{
+"adjusted_label": "Enicurus borneensis",
+"comment": "",
+"name": "Enicurus borneensis",
+"name_derivation": "No change to original label",
+"original_label": "Enicurus borneensis",
+"ott_id": 6520679,
+"parent": 53643,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1891"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
