@@ -1,0 +1,371 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2025-05-09T22:32:01.072Z",
+"id": "additions-6520772-6520792",
+"new_ottids_required": 21,
+"study_id": "ot_2770",
+"taxa": [
+{
+"adjusted_label": "Symposiachrus melanopterus",
+"comment": "",
+"name": "Symposiachrus melanopterus",
+"name_derivation": "No change to original label",
+"original_label": "Symposiachrus melanopterus",
+"ott_id": 6520772,
+"parent": 4947769,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4301"
+},
+{
+"adjusted_label": "Terpsiphone floris",
+"comment": "",
+"name": "Terpsiphone floris",
+"name_derivation": "No change to original label",
+"original_label": "Terpsiphone floris",
+"ott_id": 6520773,
+"parent": 537964,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4351"
+},
+{
+"adjusted_label": "Dicrurus striatus",
+"comment": "",
+"name": "Dicrurus striatus",
+"name_derivation": "No change to original label",
+"original_label": "Dicrurus striatus",
+"ott_id": 6520774,
+"parent": 72474,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4419"
+},
+{
+"adjusted_label": "Rhipidura layardi",
+"comment": "",
+"name": "Rhipidura layardi",
+"name_derivation": "No change to original label",
+"original_label": "Rhipidura layardi",
+"ott_id": 6520775,
+"parent": 21006,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4444"
+},
+{
+"adjusted_label": "Rhipidura ocularis",
+"comment": "",
+"name": "Rhipidura ocularis",
+"name_derivation": "No change to original label",
+"original_label": "Rhipidura ocularis",
+"ott_id": 6520776,
+"parent": 21006,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4446"
+},
+{
+"adjusted_label": "Rhipidura rufofronta",
+"comment": "",
+"name": "Rhipidura rufofronta",
+"name_derivation": "No change to original label",
+"original_label": "Rhipidura rufofronta",
+"ott_id": 6520777,
+"parent": 21006,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4451"
+},
+{
+"adjusted_label": "Rhipidura melanolaema",
+"comment": "",
+"name": "Rhipidura melanolaema",
+"name_derivation": "No change to original label",
+"original_label": "Rhipidura melanolaema",
+"ott_id": 6520778,
+"parent": 21006,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4453"
+},
+{
+"adjusted_label": "Rhipidura louisiadensis",
+"comment": "",
+"name": "Rhipidura louisiadensis",
+"name_derivation": "No change to original label",
+"original_label": "Rhipidura louisiadensis",
+"ott_id": 6520779,
+"parent": 21006,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4454"
+},
+{
+"adjusted_label": "Rhipidura semicollaris",
+"comment": "",
+"name": "Rhipidura semicollaris",
+"name_derivation": "No change to original label",
+"original_label": "Rhipidura semicollaris",
+"ott_id": 6520780,
+"parent": 21006,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4458"
+},
+{
+"adjusted_label": "Rhipidura coultasi",
+"comment": "",
+"name": "Rhipidura coultasi",
+"name_derivation": "No change to original label",
+"original_label": "Rhipidura coultasi",
+"ott_id": 6520781,
+"parent": 21006,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4485"
+},
+{
+"adjusted_label": "Oriolus consanguineus",
+"comment": "",
+"name": "Oriolus consanguineus",
+"name_derivation": "No change to original label",
+"original_label": "Oriolus consanguineus",
+"ott_id": 6520782,
+"parent": 631323,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4666"
+},
+{
+"adjusted_label": "Oriolus finschi",
+"comment": "",
+"name": "Oriolus finschi",
+"name_derivation": "No change to original label",
+"original_label": "Oriolus finschi",
+"ott_id": 6520783,
+"parent": 631323,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4694"
+},
+{
+"adjusted_label": "Melopyrrha taylori",
+"comment": "",
+"name": "Melopyrrha taylori",
+"name_derivation": "No change to original label",
+"original_label": "Melopyrrha taylori",
+"ott_id": 6520784,
+"parent": 838941,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu47"
+},
+{
+"adjusted_label": "Pachycephala vanikorensis",
+"comment": "",
+"name": "Pachycephala vanikorensis",
+"name_derivation": "No change to original label",
+"original_label": "Pachycephala vanikorensis",
+"ott_id": 6520785,
+"parent": 896892,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4725"
+},
+{
+"adjusted_label": "Basileuterus punctipectus",
+"comment": "",
+"name": "Basileuterus punctipectus",
+"name_derivation": "No change to original label",
+"original_label": "Basileuterus punctipectus",
+"ott_id": 6520786,
+"parent": 758213,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu475"
+},
+{
+"adjusted_label": "Paramythia olivacea",
+"comment": "",
+"name": "Paramythia olivacea",
+"name_derivation": "No change to original label",
+"original_label": "Paramythia olivacea",
+"ott_id": 6520787,
+"parent": 1066407,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4824"
+},
+{
+"adjusted_label": "Falcunculus whitei",
+"comment": "",
+"name": "Falcunculus whitei",
+"name_derivation": "No change to original label",
+"original_label": "Falcunculus whitei",
+"ott_id": 6520788,
+"parent": 965224,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4826"
+},
+{
+"adjusted_label": "Falcunculus leucogaster",
+"comment": "",
+"name": "Falcunculus leucogaster",
+"name_derivation": "No change to original label",
+"original_label": "Falcunculus leucogaster",
+"ott_id": 6520789,
+"parent": 965224,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4828"
+},
+{
+"adjusted_label": "Edolisoma erythropygium",
+"comment": "",
+"name": "Edolisoma erythropygium",
+"name_derivation": "No change to original label",
+"original_label": "Edolisoma erythropygium",
+"ott_id": 6520790,
+"parent": 4131785,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4855"
+},
+{
+"adjusted_label": "Edolisoma nesiotis",
+"comment": "",
+"name": "Edolisoma nesiotis",
+"name_derivation": "No change to original label",
+"original_label": "Edolisoma nesiotis",
+"ott_id": 6520791,
+"parent": 4131785,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4856"
+},
+{
+"adjusted_label": "Edolisoma tricolor",
+"comment": "",
+"name": "Edolisoma tricolor",
+"name_derivation": "No change to original label",
+"original_label": "Edolisoma tricolor",
+"ott_id": 6520792,
+"parent": 4131785,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4861"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
