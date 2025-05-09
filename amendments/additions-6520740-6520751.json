@@ -1,0 +1,218 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2025-05-09T21:51:00.606Z",
+"id": "additions-6520740-6520751",
+"new_ottids_required": 12,
+"study_id": "ot_2770",
+"taxa": [
+{
+"adjusted_label": "Sterrhoptilus affinis",
+"comment": "",
+"name": "Sterrhoptilus affinis",
+"name_derivation": "No change to original label",
+"original_label": "Sterrhoptilus affinis",
+"ott_id": 6520740,
+"parent": 3599508,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3025"
+},
+{
+"adjusted_label": "Suthora brunnea",
+"comment": "",
+"name": "Suthora brunnea",
+"name_derivation": "No change to original label",
+"original_label": "Suthora brunnea",
+"ott_id": 6520741,
+"parent": 3599587,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3045"
+},
+{
+"adjusted_label": "Suthora ricketti",
+"comment": "",
+"name": "Suthora ricketti",
+"name_derivation": "No change to original label",
+"original_label": "Suthora ricketti",
+"ott_id": 6520742,
+"parent": 3599587,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3046"
+},
+{
+"adjusted_label": "Phylloscopus nesophilus",
+"comment": "",
+"name": "Phylloscopus nesophilus",
+"name_derivation": "No change to original label",
+"original_label": "Phylloscopus nesophilus",
+"ott_id": 6520743,
+"parent": 96289,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3165"
+},
+{
+"adjusted_label": "Pycnonotus leucops",
+"comment": "",
+"name": "Pycnonotus leucops",
+"name_derivation": "No change to original label",
+"original_label": "Pycnonotus leucops",
+"ott_id": 6520744,
+"parent": 92678,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3255"
+},
+{
+"adjusted_label": "Pycnonotus davisoni",
+"comment": "",
+"name": "Pycnonotus davisoni",
+"name_derivation": "No change to original label",
+"original_label": "Pycnonotus davisoni",
+"ott_id": 6520745,
+"parent": 92678,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3260"
+},
+{
+"adjusted_label": "Hypsipetes catarmanensis",
+"comment": "",
+"name": "Hypsipetes catarmanensis",
+"name_derivation": "No change to original label",
+"original_label": "Hypsipetes catarmanensis",
+"ott_id": 6520746,
+"parent": 131999,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3300"
+},
+{
+"adjusted_label": "Hypsipetes longirostris",
+"comment": "",
+"name": "Hypsipetes longirostris",
+"name_derivation": "No change to original label",
+"original_label": "Hypsipetes longirostris",
+"ott_id": 6520747,
+"parent": 131999,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3306"
+},
+{
+"adjusted_label": "Hypsipetes harterti",
+"comment": "",
+"name": "Hypsipetes harterti",
+"name_derivation": "No change to original label",
+"original_label": "Hypsipetes harterti",
+"ott_id": 6520748,
+"parent": 131999,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3307"
+},
+{
+"adjusted_label": "Ixos sumatranus",
+"comment": "",
+"name": "Ixos sumatranus",
+"name_derivation": "No change to original label",
+"original_label": "Ixos sumatranus",
+"ott_id": 6520749,
+"parent": 1010884,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3319"
+},
+{
+"adjusted_label": "Phyllastrephus viridiceps",
+"comment": "",
+"name": "Phyllastrephus viridiceps",
+"name_derivation": "No change to original label",
+"original_label": "Phyllastrephus viridiceps",
+"ott_id": 6520750,
+"parent": 62259,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3357"
+},
+{
+"adjusted_label": "Atimastillas flavigula",
+"comment": "",
+"name": "Atimastillas flavigula",
+"name_derivation": "No change to original label",
+"original_label": "Atimastillas flavigula",
+"ott_id": 6520751,
+"parent": 5339178,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3391"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
