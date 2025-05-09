@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2025-05-09T21:51:14.659Z",
+"id": "additions-6520752-6520752",
+"new_ottids_required": 1,
+"study_id": "ot_2770",
+"taxa": [
+{
+"adjusted_label": "Heliothraupis oneilli",
+"comment": "",
+"name": "Heliothraupis oneilli",
+"name_derivation": "No change to original label",
+"original_label": "Heliothraupis oneilli",
+"ott_id": 6520752,
+"parent": 445866,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu340"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
