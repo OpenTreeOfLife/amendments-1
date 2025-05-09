@@ -1,0 +1,337 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2025-05-09T22:25:25.331Z",
+"id": "additions-6520753-6520771",
+"new_ottids_required": 19,
+"study_id": "ot_2770",
+"taxa": [
+{
+"adjusted_label": "Cecropis rufula",
+"comment": "",
+"name": "Cecropis rufula",
+"name_derivation": "No change to original label",
+"original_label": "Cecropis rufula",
+"ott_id": 6520753,
+"parent": 744790,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3419"
+},
+{
+"adjusted_label": "Delichon lagopodum",
+"comment": "",
+"name": "Delichon lagopodum",
+"name_derivation": "No change to original label",
+"original_label": "Delichon lagopodum",
+"ott_id": 6520754,
+"parent": 922719,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3423"
+},
+{
+"adjusted_label": "Hirundo javanica",
+"comment": "",
+"name": "Hirundo javanica",
+"name_derivation": "No change to original label",
+"original_label": "Hirundo javanica",
+"ott_id": 6520755,
+"parent": 897677,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3436"
+},
+{
+"adjusted_label": "Riparia cowani",
+"comment": "",
+"name": "Riparia cowani",
+"name_derivation": "No change to original label",
+"original_label": "Riparia cowani",
+"ott_id": 6520756,
+"parent": 136034,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3480"
+},
+{
+"adjusted_label": "Cincloramphus turipavae",
+"comment": "",
+"name": "Cincloramphus turipavae",
+"name_derivation": "No change to original label",
+"original_label": "Cincloramphus turipavae",
+"ott_id": 6520757,
+"parent": 865551,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3529"
+},
+{
+"adjusted_label": "Cincloramphus whitneyi",
+"comment": "",
+"name": "Cincloramphus whitneyi",
+"name_derivation": "No change to original label",
+"original_label": "Cincloramphus whitneyi",
+"ott_id": 6520758,
+"parent": 865551,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3530"
+},
+{
+"adjusted_label": "Cisticola bailunduensis",
+"comment": "",
+"name": "Cisticola bailunduensis",
+"name_derivation": "No change to original label",
+"original_label": "Cisticola bailunduensis",
+"ott_id": 6520759,
+"parent": 24061,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3677"
+},
+{
+"adjusted_label": "Prinia khasiana",
+"comment": "",
+"name": "Prinia khasiana",
+"name_derivation": "No change to original label",
+"original_label": "Prinia khasiana",
+"ott_id": 6520760,
+"parent": 275658,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3719"
+},
+{
+"adjusted_label": "Apalis stronachi",
+"comment": "",
+"name": "Apalis stronachi",
+"name_derivation": "No change to original label",
+"original_label": "Apalis stronachi",
+"ott_id": 6520761,
+"parent": 759567,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3739"
+},
+{
+"adjusted_label": "Corypha kidepoensis",
+"comment": "",
+"name": "Corypha kidepoensis",
+"name_derivation": "No change to original label",
+"original_label": "Corypha kidepoensis",
+"ott_id": 6520762,
+"parent": 781910,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3861"
+},
+{
+"adjusted_label": "Corypha sharpii",
+"comment": "",
+"name": "Corypha sharpii",
+"name_derivation": "No change to original label",
+"original_label": "Corypha sharpii",
+"ott_id": 6520763,
+"parent": 781910,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3862"
+},
+{
+"adjusted_label": "Corypha athi",
+"comment": "",
+"name": "Corypha athi",
+"name_derivation": "No change to original label",
+"original_label": "Corypha athi",
+"ott_id": 6520764,
+"parent": 781910,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3865"
+},
+{
+"adjusted_label": "Corypha nigrescens",
+"comment": "",
+"name": "Corypha nigrescens",
+"name_derivation": "No change to original label",
+"original_label": "Corypha nigrescens",
+"ott_id": 6520765,
+"parent": 781910,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3867"
+},
+{
+"adjusted_label": "Corypha kabalii",
+"comment": "",
+"name": "Corypha kabalii",
+"name_derivation": "No change to original label",
+"original_label": "Corypha kabalii",
+"ott_id": 6520766,
+"parent": 781910,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3868"
+},
+{
+"adjusted_label": "Corypha kurrae",
+"comment": "",
+"name": "Corypha kurrae",
+"name_derivation": "No change to original label",
+"original_label": "Corypha kurrae",
+"ott_id": 6520767,
+"parent": 781910,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3870"
+},
+{
+"adjusted_label": "Heteromyias armiti",
+"comment": "",
+"name": "Heteromyias armiti",
+"name_derivation": "No change to original label",
+"original_label": "Heteromyias armiti",
+"ott_id": 6520768,
+"parent": 3599145,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4031"
+},
+{
+"adjusted_label": "Petroica polymorpha",
+"comment": "",
+"name": "Petroica polymorpha",
+"name_derivation": "No change to original label",
+"original_label": "Petroica polymorpha",
+"ott_id": 6520769,
+"parent": 918819,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4048"
+},
+{
+"adjusted_label": "Melanocharis piperata",
+"comment": "",
+"name": "Melanocharis piperata",
+"name_derivation": "No change to original label",
+"original_label": "Melanocharis piperata",
+"ott_id": 6520770,
+"parent": 176451,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4070"
+},
+{
+"adjusted_label": "Platysmurus aterrimus",
+"comment": "",
+"name": "Platysmurus aterrimus",
+"name_derivation": "No change to original label",
+"original_label": "Platysmurus aterrimus",
+"ott_id": 6520771,
+"parent": 320093,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4215"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
