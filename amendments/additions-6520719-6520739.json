@@ -1,0 +1,371 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2025-05-09T21:28:26.664Z",
+"id": "additions-6520719-6520739",
+"new_ottids_required": 21,
+"study_id": "ot_2770",
+"taxa": [
+{
+"adjusted_label": "Troglodytes grenadensis",
+"comment": "",
+"name": "Troglodytes grenadensis",
+"name_derivation": "No change to original label",
+"original_label": "Troglodytes grenadensis",
+"ott_id": 6520719,
+"parent": 965451,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2540"
+},
+{
+"adjusted_label": "Troglodytes musicus",
+"comment": "",
+"name": "Troglodytes musicus",
+"name_derivation": "No change to original label",
+"original_label": "Troglodytes musicus",
+"ott_id": 6520720,
+"parent": 965451,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2541"
+},
+{
+"adjusted_label": "Troglodytes mesoleucus",
+"comment": "",
+"name": "Troglodytes mesoleucus",
+"name_derivation": "No change to original label",
+"original_label": "Troglodytes mesoleucus",
+"ott_id": 6520721,
+"parent": 965451,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2542"
+},
+{
+"adjusted_label": "Troglodytes martinicensis",
+"comment": "",
+"name": "Troglodytes martinicensis",
+"name_derivation": "No change to original label",
+"original_label": "Troglodytes martinicensis",
+"ott_id": 6520722,
+"parent": 965451,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2543"
+},
+{
+"adjusted_label": "Troglodytes beani",
+"comment": "",
+"name": "Troglodytes beani",
+"name_derivation": "No change to original label",
+"original_label": "Troglodytes beani",
+"ott_id": 6520723,
+"parent": 965451,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2545"
+},
+{
+"adjusted_label": "Illadopsis distans",
+"comment": "",
+"name": "Illadopsis distans",
+"name_derivation": "No change to original label",
+"original_label": "Illadopsis distans",
+"ott_id": 6520724,
+"parent": 631170,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2794"
+},
+{
+"adjusted_label": "Pellorneum capistratoides",
+"comment": "",
+"name": "Pellorneum capistratoides",
+"name_derivation": "No change to original label",
+"original_label": "Pellorneum capistratoides",
+"ott_id": 6520725,
+"parent": 353518,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2809"
+},
+{
+"adjusted_label": "Pellorneum nigrocapitatum",
+"comment": "",
+"name": "Pellorneum nigrocapitatum",
+"name_derivation": "No change to original label",
+"original_label": "Pellorneum nigrocapitatum",
+"ott_id": 6520726,
+"parent": 353518,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2810"
+},
+{
+"adjusted_label": "Erythrogenys imberbis",
+"comment": "",
+"name": "Erythrogenys imberbis",
+"name_derivation": "No change to original label",
+"original_label": "Erythrogenys imberbis",
+"ott_id": 6520727,
+"parent": 5852575,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2851"
+},
+{
+"adjusted_label": "Pomatorhinus bornensis",
+"comment": "",
+"name": "Pomatorhinus bornensis",
+"name_derivation": "No change to original label",
+"original_label": "Pomatorhinus bornensis",
+"ott_id": 6520728,
+"parent": 353526,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2855"
+},
+{
+"adjusted_label": "Pomatorhinus phayrei",
+"comment": "",
+"name": "Pomatorhinus phayrei",
+"name_derivation": "No change to original label",
+"original_label": "Pomatorhinus phayrei",
+"ott_id": 6520729,
+"parent": 353526,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2864"
+},
+{
+"adjusted_label": "Cyanoderma bicolor",
+"comment": "",
+"name": "Cyanoderma bicolor",
+"name_derivation": "No change to original label",
+"original_label": "Cyanoderma bicolor",
+"ott_id": 6520730,
+"parent": 5340814,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2879"
+},
+{
+"adjusted_label": "Cyanoderma erythropterum",
+"comment": "",
+"name": "Cyanoderma erythropterum",
+"name_derivation": "No change to original label",
+"original_label": "Cyanoderma erythropterum",
+"ott_id": 6520731,
+"parent": 5340814,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2881"
+},
+{
+"adjusted_label": "Mixornis prillwitzi",
+"comment": "",
+"name": "Mixornis prillwitzi",
+"name_derivation": "No change to original label",
+"original_label": "Mixornis prillwitzi",
+"ott_id": 6520732,
+"parent": 4947690,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2886"
+},
+{
+"adjusted_label": "Zosterops oblitus",
+"comment": "",
+"name": "Zosterops oblitus",
+"name_derivation": "No change to original label",
+"original_label": "Zosterops oblitus",
+"ott_id": 6520733,
+"parent": 131988,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2922"
+},
+{
+"adjusted_label": "Zosterops hamlini",
+"comment": "",
+"name": "Zosterops hamlini",
+"name_derivation": "No change to original label",
+"original_label": "Zosterops hamlini",
+"ott_id": 6520734,
+"parent": 131988,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2923"
+},
+{
+"adjusted_label": "Zosterops paruhbesar",
+"comment": "",
+"name": "Zosterops paruhbesar",
+"name_derivation": "No change to original label",
+"original_label": "Zosterops paruhbesar",
+"ott_id": 6520735,
+"parent": 131988,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2937"
+},
+{
+"adjusted_label": "Zosterops dehaani",
+"comment": "",
+"name": "Zosterops dehaani",
+"name_derivation": "No change to original label",
+"original_label": "Zosterops dehaani",
+"ott_id": 6520736,
+"parent": 131988,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2945"
+},
+{
+"adjusted_label": "Zosterops meratusensis",
+"comment": "",
+"name": "Zosterops meratusensis",
+"name_derivation": "No change to original label",
+"original_label": "Zosterops meratusensis",
+"ott_id": 6520737,
+"parent": 131988,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2954"
+},
+{
+"adjusted_label": "Zosterops kasaicus",
+"comment": "",
+"name": "Zosterops kasaicus",
+"name_derivation": "No change to original label",
+"original_label": "Zosterops kasaicus",
+"ott_id": 6520738,
+"parent": 131988,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2968"
+},
+{
+"adjusted_label": "Zosterops kaffensis",
+"comment": "",
+"name": "Zosterops kaffensis",
+"name_derivation": "No change to original label",
+"original_label": "Zosterops kaffensis",
+"ott_id": 6520739,
+"parent": 131988,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2977"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
