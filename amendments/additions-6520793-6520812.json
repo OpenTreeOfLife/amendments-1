@@ -1,0 +1,354 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2025-05-09T22:37:25.066Z",
+"id": "additions-6520793-6520812",
+"new_ottids_required": 20,
+"study_id": "ot_2770",
+"taxa": [
+{
+"adjusted_label": "Lalage leucoptera",
+"comment": "",
+"name": "Lalage leucoptera",
+"name_derivation": "No change to original label",
+"original_label": "Lalage leucoptera",
+"ott_id": 6520793,
+"parent": 489929,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4890"
+},
+{
+"adjusted_label": "Coracina panayensis",
+"comment": "",
+"name": "Coracina panayensis",
+"name_derivation": "No change to original label",
+"original_label": "Coracina panayensis",
+"ott_id": 6520794,
+"parent": 808266,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4914"
+},
+{
+"adjusted_label": "Coracina mindorensis",
+"comment": "",
+"name": "Coracina mindorensis",
+"name_derivation": "No change to original label",
+"original_label": "Coracina mindorensis",
+"ott_id": 6520795,
+"parent": 808266,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4915"
+},
+{
+"adjusted_label": "Coracina larutensis",
+"comment": "",
+"name": "Coracina larutensis",
+"name_derivation": "No change to original label",
+"original_label": "Coracina larutensis",
+"ott_id": 6520796,
+"parent": 808266,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4917"
+},
+{
+"adjusted_label": "Gerygone citrina",
+"comment": "",
+"name": "Gerygone citrina",
+"name_derivation": "No change to original label",
+"original_label": "Gerygone citrina",
+"ott_id": 6520797,
+"parent": 918680,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4980"
+},
+{
+"adjusted_label": "Myzomela longirostris",
+"comment": "",
+"name": "Myzomela longirostris",
+"name_derivation": "No change to original label",
+"original_label": "Myzomela longirostris",
+"ott_id": 6520798,
+"parent": 598352,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5113"
+},
+{
+"adjusted_label": "Myzomela batjanensis",
+"comment": "",
+"name": "Myzomela batjanensis",
+"name_derivation": "No change to original label",
+"original_label": "Myzomela batjanensis",
+"ott_id": 6520799,
+"parent": 598352,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5134"
+},
+{
+"adjusted_label": "Myzomela erythrina",
+"comment": "",
+"name": "Myzomela erythrina",
+"name_derivation": "No change to original label",
+"original_label": "Myzomela erythrina",
+"ott_id": 6520800,
+"parent": 598352,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5144"
+},
+{
+"adjusted_label": "Contopus bogotensis",
+"comment": "",
+"name": "Contopus bogotensis",
+"name_derivation": "No change to original label",
+"original_label": "Contopus bogotensis",
+"ott_id": 6520801,
+"parent": 1095263,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5492"
+},
+{
+"adjusted_label": "Contopus punensis",
+"comment": "",
+"name": "Contopus punensis",
+"name_derivation": "No change to original label",
+"original_label": "Contopus punensis",
+"ott_id": 6520802,
+"parent": 1095263,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5497"
+},
+{
+"adjusted_label": "Myiophobus rufescens",
+"comment": "",
+"name": "Myiophobus rufescens",
+"name_derivation": "No change to original label",
+"original_label": "Myiophobus rufescens",
+"ott_id": 6520803,
+"parent": 636760,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5512"
+},
+{
+"adjusted_label": "Myiophobus crypterythrus",
+"comment": "",
+"name": "Myiophobus crypterythrus",
+"name_derivation": "No change to original label",
+"original_label": "Myiophobus crypterythrus",
+"ott_id": 6520804,
+"parent": 636760,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5513"
+},
+{
+"adjusted_label": "Stigmatura bahiae",
+"comment": "",
+"name": "Stigmatura bahiae",
+"name_derivation": "No change to original label",
+"original_label": "Stigmatura bahiae",
+"ott_id": 6520805,
+"parent": 755592,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5526"
+},
+{
+"adjusted_label": "Acrochordopus zeledoni",
+"comment": "",
+"name": "Acrochordopus zeledoni",
+"name_derivation": "No change to original label",
+"original_label": "Acrochordopus zeledoni",
+"ott_id": 6520806,
+"parent": 4131566,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5547"
+},
+{
+"adjusted_label": "Myiopagis cinerea",
+"comment": "",
+"name": "Myiopagis cinerea",
+"name_derivation": "No change to original label",
+"original_label": "Myiopagis cinerea",
+"ott_id": 6520807,
+"parent": 610933,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5590"
+},
+{
+"adjusted_label": "Myiopagis parambae",
+"comment": "",
+"name": "Myiopagis parambae",
+"name_derivation": "No change to original label",
+"original_label": "Myiopagis parambae",
+"ott_id": 6520808,
+"parent": 610933,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5592"
+},
+{
+"adjusted_label": "Nesotriccus tumbezanus",
+"comment": "",
+"name": "Nesotriccus tumbezanus",
+"name_derivation": "No change to original label",
+"original_label": "Nesotriccus tumbezanus",
+"ott_id": 6520809,
+"parent": 3599266,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5605"
+},
+{
+"adjusted_label": "Nesotriccus maranonicus",
+"comment": "",
+"name": "Nesotriccus maranonicus",
+"name_derivation": "No change to original label",
+"original_label": "Nesotriccus maranonicus",
+"ott_id": 6520810,
+"parent": 3599266,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5606"
+},
+{
+"adjusted_label": "Tolmomyias viridiceps",
+"comment": "",
+"name": "Tolmomyias viridiceps",
+"name_derivation": "No change to original label",
+"original_label": "Tolmomyias viridiceps",
+"ott_id": 6520811,
+"parent": 753793,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5634"
+},
+{
+"adjusted_label": "Rhynchocyclus aequinoctialis",
+"comment": "",
+"name": "Rhynchocyclus aequinoctialis",
+"name_derivation": "No change to original label",
+"original_label": "Rhynchocyclus aequinoctialis",
+"ott_id": 6520812,
+"parent": 230698,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5644"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
