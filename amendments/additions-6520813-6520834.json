@@ -1,0 +1,388 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2025-05-09T22:41:12.021Z",
+"id": "additions-6520813-6520834",
+"new_ottids_required": 22,
+"study_id": "ot_2770",
+"taxa": [
+{
+"adjusted_label": "Mionectes galbinus",
+"comment": "",
+"name": "Mionectes galbinus",
+"name_derivation": "No change to original label",
+"original_label": "Mionectes galbinus",
+"ott_id": 6520813,
+"parent": 683046,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5736"
+},
+{
+"adjusted_label": "Onychorhynchus swainsoni",
+"comment": "",
+"name": "Onychorhynchus swainsoni",
+"name_derivation": "No change to original label",
+"original_label": "Onychorhynchus swainsoni",
+"ott_id": 6520814,
+"parent": 179645,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5758"
+},
+{
+"adjusted_label": "Pachyramphus salvini",
+"comment": "",
+"name": "Pachyramphus salvini",
+"name_derivation": "No change to original label",
+"original_label": "Pachyramphus salvini",
+"ott_id": 6520815,
+"parent": 931722,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5768"
+},
+{
+"adjusted_label": "Laniisoma buckleyi",
+"comment": "",
+"name": "Laniisoma buckleyi",
+"name_derivation": "No change to original label",
+"original_label": "Laniisoma buckleyi",
+"ott_id": 6520816,
+"parent": 306232,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5778"
+},
+{
+"adjusted_label": "Lepidothrix velutina",
+"comment": "",
+"name": "Lepidothrix velutina",
+"name_derivation": "No change to original label",
+"original_label": "Lepidothrix velutina",
+"ott_id": 6520817,
+"parent": 49229,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5889"
+},
+{
+"adjusted_label": "Cryptopipo litae",
+"comment": "",
+"name": "Cryptopipo litae",
+"name_derivation": "No change to original label",
+"original_label": "Cryptopipo litae",
+"ott_id": 6520818,
+"parent": 5223432,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5891"
+},
+{
+"adjusted_label": "Synallaxis simoni",
+"comment": "",
+"name": "Synallaxis simoni",
+"name_derivation": "No change to original label",
+"original_label": "Synallaxis simoni",
+"ott_id": 6520819,
+"parent": 860401,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5948"
+},
+{
+"adjusted_label": "Phacellodomus inornatus",
+"comment": "",
+"name": "Phacellodomus inornatus",
+"name_derivation": "No change to original label",
+"original_label": "Phacellodomus inornatus",
+"ott_id": 6520820,
+"parent": 759507,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6036"
+},
+{
+"adjusted_label": "Automolus cervinigularis",
+"comment": "",
+"name": "Automolus cervinigularis",
+"name_derivation": "No change to original label",
+"original_label": "Automolus cervinigularis",
+"ott_id": 6520821,
+"parent": 759408,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6065"
+},
+{
+"adjusted_label": "Furnarius longirostris",
+"comment": "",
+"name": "Furnarius longirostris",
+"name_derivation": "No change to original label",
+"original_label": "Furnarius longirostris",
+"ott_id": 6520822,
+"parent": 390840,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6135"
+},
+{
+"adjusted_label": "Furnarius cinnamomeus",
+"comment": "",
+"name": "Furnarius cinnamomeus",
+"name_derivation": "No change to original label",
+"original_label": "Furnarius cinnamomeus",
+"ott_id": 6520823,
+"parent": 390840,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6137"
+},
+{
+"adjusted_label": "Xenops genibarbis",
+"comment": "",
+"name": "Xenops genibarbis",
+"name_derivation": "No change to original label",
+"original_label": "Xenops genibarbis",
+"ott_id": 6520824,
+"parent": 705967,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6153"
+},
+{
+"adjusted_label": "Campylorhamphus multostriatus",
+"comment": "",
+"name": "Campylorhamphus multostriatus",
+"name_derivation": "No change to original label",
+"original_label": "Campylorhamphus multostriatus",
+"ott_id": 6520825,
+"parent": 12257,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6170"
+},
+{
+"adjusted_label": "Campylorhamphus probatus",
+"comment": "",
+"name": "Campylorhamphus probatus",
+"name_derivation": "No change to original label",
+"original_label": "Campylorhamphus probatus",
+"ott_id": 6520826,
+"parent": 12257,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6171"
+},
+{
+"adjusted_label": "Deconychura pallida",
+"comment": "",
+"name": "Deconychura pallida",
+"name_derivation": "No change to original label",
+"original_label": "Deconychura pallida",
+"ott_id": 6520827,
+"parent": 1078302,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6211"
+},
+{
+"adjusted_label": "Deconychura longicauda",
+"comment": "",
+"name": "Deconychura longicauda",
+"name_derivation": "No change to original label",
+"original_label": "Deconychura longicauda",
+"ott_id": 6520828,
+"parent": 1078302,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6213"
+},
+{
+"adjusted_label": "Grallaria atuensis",
+"comment": "",
+"name": "Grallaria atuensis",
+"name_derivation": "No change to original label",
+"original_label": "Grallaria atuensis",
+"ott_id": 6520829,
+"parent": 1041027,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6337"
+},
+{
+"adjusted_label": "Grallaria alticola",
+"comment": "",
+"name": "Grallaria alticola",
+"name_derivation": "No change to original label",
+"original_label": "Grallaria alticola",
+"ott_id": 6520830,
+"parent": 1041027,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6339"
+},
+{
+"adjusted_label": "Sturnella lilianae",
+"comment": "",
+"name": "Sturnella lilianae",
+"name_derivation": "No change to original label",
+"original_label": "Sturnella lilianae",
+"ott_id": 6520831,
+"parent": 489145,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu656"
+},
+{
+"adjusted_label": "Pitta rosenbergii",
+"comment": "",
+"name": "Pitta rosenbergii",
+"name_derivation": "No change to original label",
+"original_label": "Pitta rosenbergii",
+"ott_id": 6520832,
+"parent": 44875,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6644"
+},
+{
+"adjusted_label": "Pitta forsteni",
+"comment": "",
+"name": "Pitta forsteni",
+"name_derivation": "No change to original label",
+"original_label": "Pitta forsteni",
+"ott_id": 6520833,
+"parent": 44875,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6646"
+},
+{
+"adjusted_label": "Pitta abbotti",
+"comment": "",
+"name": "Pitta abbotti",
+"name_derivation": "No change to original label",
+"original_label": "Pitta abbotti",
+"ott_id": 6520834,
+"parent": 44875,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6648"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
