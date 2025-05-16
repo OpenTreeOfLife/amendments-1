@@ -1,0 +1,167 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2025-05-16T15:43:12.149Z",
+"id": "additions-6520896-6520904",
+"new_ottids_required": 9,
+"study_id": "ot_2770",
+"taxa": [
+{
+"adjusted_label": "Horizocerus granti",
+"comment": "",
+"name": "Horizocerus granti",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Horizocerus granti",
+"ott_id": 6520896,
+"parent": 489457,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7838"
+},
+{
+"adjusted_label": "Horizocerus hartlaubi",
+"comment": "",
+"name": "Horizocerus hartlaubi",
+"name_derivation": "No change to original label",
+"original_label": "Horizocerus hartlaubi",
+"ott_id": 6520897,
+"parent": 489457,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7839"
+},
+{
+"adjusted_label": "Horizocerus albocristatus",
+"comment": "",
+"name": "Horizocerus albocristatus",
+"name_derivation": "No change to original label",
+"original_label": "Horizocerus albocristatus",
+"ott_id": 6520898,
+"parent": 489457,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7840"
+},
+{
+"adjusted_label": "Horizocerus cassini",
+"comment": "",
+"name": "Horizocerus cassini",
+"name_derivation": "No change to original label",
+"original_label": "Horizocerus cassini",
+"ott_id": 6520899,
+"parent": 489457,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7841"
+},
+{
+"adjusted_label": "Lophoceros fasciatus",
+"comment": "",
+"name": "Lophoceros fasciatus",
+"name_derivation": "No change to original label",
+"original_label": "Lophoceros fasciatus",
+"ott_id": 6520900,
+"parent": 489457,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7846"
+},
+{
+"adjusted_label": "Lophoceros semifasciatus",
+"comment": "",
+"name": "Lophoceros semifasciatus",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Lophoceros semifasciatus",
+"ott_id": 6520901,
+"parent": 489457,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7847"
+},
+{
+"adjusted_label": "Chionomesa fimbriata",
+"comment": "",
+"name": "Chionomesa fimbriata",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Chionomesa fimbriata",
+"ott_id": 6520902,
+"parent": 810751,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9431"
+},
+{
+"adjusted_label": "Pampa curvipennis",
+"comment": "",
+"name": "Pampa curvipennis",
+"name_derivation": "No change to original label",
+"original_label": "Pampa curvipennis",
+"ott_id": 6520903,
+"parent": 810751,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9506"
+},
+{
+"adjusted_label": "Riccordia bracei",
+"comment": "",
+"name": "Riccordia bracei",
+"name_derivation": "No change to original label",
+"original_label": "Riccordia bracei",
+"ott_id": 6520904,
+"parent": 810751,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9530"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
