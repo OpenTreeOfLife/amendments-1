@@ -1,0 +1,711 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2025-05-16T15:34:10.300Z",
+"id": "additions-6520855-6520895",
+"new_ottids_required": 41,
+"study_id": "ot_2770",
+"taxa": [
+{
+"adjusted_label": "Arremon nigriceps",
+"comment": "",
+"name": "Arremon nigriceps",
+"name_derivation": "No change to original label",
+"original_label": "Arremon nigriceps",
+"ott_id": 6520855,
+"parent": 600910,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu763"
+},
+{
+"adjusted_label": "Ceyx sangirensis",
+"comment": "",
+"name": "Ceyx sangirensis",
+"name_derivation": "No change to original label",
+"original_label": "Ceyx sangirensis",
+"ott_id": 6520856,
+"parent": 1039516,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7739"
+},
+{
+"adjusted_label": "Merops cyanophrys",
+"comment": "",
+"name": "Merops cyanophrys",
+"name_derivation": "No change to original label",
+"original_label": "Merops cyanophrys",
+"ott_id": 6520857,
+"parent": 989088,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7781"
+},
+{
+"adjusted_label": "Merops viridissimus",
+"comment": "",
+"name": "Merops viridissimus",
+"name_derivation": "No change to original label",
+"original_label": "Merops viridissimus",
+"ott_id": 6520858,
+"parent": 989088,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7782"
+},
+{
+"adjusted_label": "Merops lafresnayii",
+"comment": "",
+"name": "Merops lafresnayii",
+"name_derivation": "No change to original label",
+"original_label": "Merops lafresnayii",
+"ott_id": 6520859,
+"parent": 989088,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7788"
+},
+{
+"adjusted_label": "Trogon chrysochloros",
+"comment": "",
+"name": "Trogon chrysochloros",
+"name_derivation": "No change to original label",
+"original_label": "Trogon chrysochloros",
+"ott_id": 6520860,
+"parent": 1065611,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7878"
+},
+{
+"adjusted_label": "Trogon cupreicauda",
+"comment": "",
+"name": "Trogon cupreicauda",
+"name_derivation": "No change to original label",
+"original_label": "Trogon cupreicauda",
+"ott_id": 6520861,
+"parent": 1065611,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7880"
+},
+{
+"adjusted_label": "Ninox leucopsis",
+"comment": "",
+"name": "Ninox leucopsis",
+"name_derivation": "No change to original label",
+"original_label": "Ninox leucopsis",
+"ott_id": 6520862,
+"parent": 767822,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7975"
+},
+{
+"adjusted_label": "Athene roseoaxillaris",
+"comment": "",
+"name": "Athene roseoaxillaris",
+"name_derivation": "No change to original label",
+"original_label": "Athene roseoaxillaris",
+"ott_id": 6520863,
+"parent": 98071,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8023"
+},
+{
+"adjusted_label": "Athene malaitae",
+"comment": "",
+"name": "Athene malaitae",
+"name_derivation": "No change to original label",
+"original_label": "Athene malaitae",
+"ott_id": 6520864,
+"parent": 98071,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8024"
+},
+{
+"adjusted_label": "Athene granti",
+"comment": "",
+"name": "Athene granti",
+"name_derivation": "No change to original label",
+"original_label": "Athene granti",
+"ott_id": 6520865,
+"parent": 98071,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8025"
+},
+{
+"adjusted_label": "Ketupa poensis",
+"comment": "",
+"name": "Ketupa poensis",
+"name_derivation": "No change to original label",
+"original_label": "Ketupa poensis",
+"ott_id": 6520866,
+"parent": 445329,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8074"
+},
+{
+"adjusted_label": "Otus bikegila",
+"comment": "",
+"name": "Otus bikegila",
+"name_derivation": "No change to original label",
+"original_label": "Otus bikegila",
+"ott_id": 6520867,
+"parent": 1086553,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8135"
+},
+{
+"adjusted_label": "Otus mendeni",
+"comment": "",
+"name": "Otus mendeni",
+"name_derivation": "No change to original label",
+"original_label": "Otus mendeni",
+"ott_id": 6520868,
+"parent": 1086553,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8146"
+},
+{
+"adjusted_label": "Emberiza personata",
+"comment": "",
+"name": "Emberiza personata",
+"name_derivation": "No change to original label",
+"original_label": "Emberiza personata",
+"ott_id": 6520869,
+"parent": 711854,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu815"
+},
+{
+"adjusted_label": "Otus tempestatis",
+"comment": "",
+"name": "Otus tempestatis",
+"name_derivation": "No change to original label",
+"original_label": "Otus tempestatis",
+"ott_id": 6520870,
+"parent": 1086553,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8152"
+},
+{
+"adjusted_label": "Astur atricapillus",
+"comment": "",
+"name": "Astur atricapillus",
+"name_derivation": "No change to original label",
+"original_label": "Astur atricapillus",
+"ott_id": 6520871,
+"parent": 3596280,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8275"
+},
+{
+"adjusted_label": "Ardea plumifera",
+"comment": "",
+"name": "Ardea plumifera",
+"name_derivation": "No change to original label",
+"original_label": "Ardea plumifera",
+"ott_id": 6520872,
+"parent": 860130,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8490"
+},
+{
+"adjusted_label": "Ardea brachyrhyncha",
+"comment": "",
+"name": "Ardea brachyrhyncha",
+"name_derivation": "No change to original label",
+"original_label": "Ardea brachyrhyncha",
+"ott_id": 6520873,
+"parent": 860130,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8492"
+},
+{
+"adjusted_label": "Nycticorax olsoni",
+"comment": "",
+"name": "Nycticorax olsoni",
+"name_derivation": "No change to original label",
+"original_label": "Nycticorax olsoni",
+"ott_id": 6520874,
+"parent": 313128,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8524"
+},
+{
+"adjusted_label": "Sula brewsteri",
+"comment": "",
+"name": "Sula brewsteri",
+"name_derivation": "No change to original label",
+"original_label": "Sula brewsteri",
+"ott_id": 6520875,
+"parent": 160486,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8606"
+},
+{
+"adjusted_label": "Ciconia microscelis",
+"comment": "",
+"name": "Ciconia microscelis",
+"name_derivation": "No change to original label",
+"original_label": "Ciconia microscelis",
+"ott_id": 6520876,
+"parent": 363012,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8630"
+},
+{
+"adjusted_label": "Fregetta lineata",
+"comment": "",
+"name": "Fregetta lineata",
+"name_derivation": "No change to original label",
+"original_label": "Fregetta lineata",
+"ott_id": 6520877,
+"parent": 904494,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8772"
+},
+{
+"adjusted_label": "Gelochelidon macrotarsa",
+"comment": "",
+"name": "Gelochelidon macrotarsa",
+"name_derivation": "No change to original label",
+"original_label": "Gelochelidon macrotarsa",
+"ott_id": 6520878,
+"parent": 1021959,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8864"
+},
+{
+"adjusted_label": "Chrysocorythus mindanensis",
+"comment": "",
+"name": "Chrysocorythus mindanensis",
+"name_derivation": "No change to original label",
+"original_label": "Chrysocorythus mindanensis",
+"ott_id": 6520879,
+"parent": 3599734,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu895"
+},
+{
+"adjusted_label": "Turnix novaecaledoniae",
+"comment": "",
+"name": "Turnix novaecaledoniae",
+"name_derivation": "No change to original label",
+"original_label": "Turnix novaecaledoniae",
+"ott_id": 6520880,
+"parent": 365489,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8993"
+},
+{
+"adjusted_label": "Sporophila iberaensis",
+"comment": "",
+"name": "Sporophila iberaensis",
+"name_derivation": "No change to original label",
+"original_label": "Sporophila iberaensis",
+"ott_id": 6520881,
+"parent": 370800,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu90"
+},
+{
+"adjusted_label": "Crithagra striatipectus",
+"comment": "",
+"name": "Crithagra striatipectus",
+"name_derivation": "No change to original label",
+"original_label": "Crithagra striatipectus",
+"ott_id": 6520882,
+"parent": 4131496,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu913"
+},
+{
+"adjusted_label": "Anarhynchus atrifrons",
+"comment": "",
+"name": "Anarhynchus atrifrons",
+"name_derivation": "No change to original label",
+"original_label": "Anarhynchus atrifrons",
+"ott_id": 6520883,
+"parent": 703811,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9141"
+},
+{
+"adjusted_label": "Anarhynchus mongolus",
+"comment": "",
+"name": "Anarhynchus mongolus",
+"name_derivation": "No change to original label",
+"original_label": "Anarhynchus mongolus",
+"ott_id": 6520884,
+"parent": 703811,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9142"
+},
+{
+"adjusted_label": "Saucerottia cupreicauda",
+"comment": "",
+"name": "Saucerottia cupreicauda",
+"name_derivation": "No change to original label",
+"original_label": "Saucerottia cupreicauda",
+"ott_id": 6520885,
+"parent": 4130945,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9451"
+},
+{
+"adjusted_label": "Saucerottia viridigaster",
+"comment": "",
+"name": "Saucerottia viridigaster",
+"name_derivation": "No change to original label",
+"original_label": "Saucerottia viridigaster",
+"ott_id": 6520886,
+"parent": 4130945,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9452"
+},
+{
+"adjusted_label": "Cynanthus lawrencei",
+"comment": "",
+"name": "Cynanthus lawrencei",
+"name_derivation": "No change to original label",
+"original_label": "Cynanthus lawrencei",
+"ott_id": 6520887,
+"parent": 606421,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9525"
+},
+{
+"adjusted_label": "Ocreatus addae",
+"comment": "",
+"name": "Ocreatus addae",
+"name_derivation": "No change to original label",
+"original_label": "Ocreatus addae",
+"ott_id": 6520888,
+"parent": 141986,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9601"
+},
+{
+"adjusted_label": "Ocreatus peruanus",
+"comment": "",
+"name": "Ocreatus peruanus",
+"name_derivation": "No change to original label",
+"original_label": "Ocreatus peruanus",
+"ott_id": 6520889,
+"parent": 141986,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9603"
+},
+{
+"adjusted_label": "Coeligena conradii",
+"comment": "",
+"name": "Coeligena conradii",
+"name_derivation": "No change to original label",
+"original_label": "Coeligena conradii",
+"ott_id": 6520890,
+"parent": 463442,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9620"
+},
+{
+"adjusted_label": "Heliangelus clarisse",
+"comment": "",
+"name": "Heliangelus clarisse",
+"name_derivation": "No change to original label",
+"original_label": "Heliangelus clarisse",
+"ott_id": 6520891,
+"parent": 91921,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9710"
+},
+{
+"adjusted_label": "Anthracothorax aurulentus",
+"comment": "",
+"name": "Anthracothorax aurulentus",
+"name_derivation": "No change to original label",
+"original_label": "Anthracothorax aurulentus",
+"ott_id": 6520892,
+"parent": 13852,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9714"
+},
+{
+"adjusted_label": "Caprimulgus griseatus",
+"comment": "",
+"name": "Caprimulgus griseatus",
+"name_derivation": "No change to original label",
+"original_label": "Caprimulgus griseatus",
+"ott_id": 6520893,
+"parent": 275134,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9937"
+},
+{
+"adjusted_label": "Caprimulgus ritae",
+"comment": "",
+"name": "Caprimulgus ritae",
+"name_derivation": "No change to original label",
+"original_label": "Caprimulgus ritae",
+"ott_id": 6520894,
+"parent": 275134,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9953"
+},
+{
+"adjusted_label": "Antrostomus ekmani",
+"comment": "",
+"name": "Antrostomus ekmani",
+"name_derivation": "No change to original label",
+"original_label": "Antrostomus ekmani",
+"ott_id": 6520895,
+"parent": 4130548,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9977"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
