@@ -1,0 +1,354 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2025-05-16T15:21:53.416Z",
+"id": "additions-6520835-6520854",
+"new_ottids_required": 20,
+"study_id": "ot_2770",
+"taxa": [
+{
+"adjusted_label": "Erythropitta novaehibernicae",
+"comment": "",
+"name": "Erythropitta novaehibernicae",
+"name_derivation": "No change to original label",
+"original_label": "Erythropitta novaehibernicae",
+"ott_id": 6520835,
+"parent": 3598670,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6659"
+},
+{
+"adjusted_label": "Erythropitta celebensis",
+"comment": "",
+"name": "Erythropitta celebensis",
+"name_derivation": "No change to original label",
+"original_label": "Erythropitta celebensis",
+"ott_id": 6520836,
+"parent": 3598670,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6663"
+},
+{
+"adjusted_label": "Serilophus rubropygius",
+"comment": "",
+"name": "Serilophus rubropygius",
+"name_derivation": "No change to original label",
+"original_label": "Serilophus rubropygius",
+"ott_id": 6520837,
+"parent": 768998,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6689"
+},
+{
+"adjusted_label": "Psittacara frontatus",
+"comment": "",
+"name": "Psittacara frontatus",
+"name_derivation": "No change to original label",
+"original_label": "Psittacara frontatus",
+"ott_id": 6520838,
+"parent": 4131198,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6712"
+},
+{
+"adjusted_label": "Loriculus bonapartei",
+"comment": "",
+"name": "Loriculus bonapartei",
+"name_derivation": "No change to original label",
+"original_label": "Loriculus bonapartei",
+"ott_id": 6520839,
+"parent": 697454,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6901"
+},
+{
+"adjusted_label": "Trichoglossus rosenbergii",
+"comment": "",
+"name": "Trichoglossus rosenbergii",
+"name_derivation": "No change to original label",
+"original_label": "Trichoglossus rosenbergii",
+"ott_id": 6520840,
+"parent": 225736,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6912"
+},
+{
+"adjusted_label": "Nannopsittacus nigrifrons",
+"comment": "",
+"name": "Nannopsittacus nigrifrons",
+"name_derivation": "No change to original label",
+"original_label": "Nannopsittacus nigrifrons",
+"ott_id": 6520841,
+"parent": 667518,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6973"
+},
+{
+"adjusted_label": "Nannopsittacus melanogenia",
+"comment": "",
+"name": "Nannopsittacus melanogenia",
+"name_derivation": "No change to original label",
+"original_label": "Nannopsittacus melanogenia",
+"ott_id": 6520842,
+"parent": 667518,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6974"
+},
+{
+"adjusted_label": "Psittinus abbotti",
+"comment": "",
+"name": "Psittinus abbotti",
+"name_derivation": "No change to original label",
+"original_label": "Psittinus abbotti",
+"ott_id": 6520843,
+"parent": 7114,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7045"
+},
+{
+"adjusted_label": "Eclectus polychloros",
+"comment": "",
+"name": "Eclectus polychloros",
+"name_derivation": "No change to original label",
+"original_label": "Eclectus polychloros",
+"ott_id": 6520844,
+"parent": 375779,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7050"
+},
+{
+"adjusted_label": "Eclectus cornelia",
+"comment": "",
+"name": "Eclectus cornelia",
+"name_derivation": "No change to original label",
+"original_label": "Eclectus cornelia",
+"ott_id": 6520845,
+"parent": 375779,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7053"
+},
+{
+"adjusted_label": "Cacatua citrinocristata",
+"comment": "",
+"name": "Cacatua citrinocristata",
+"name_derivation": "No change to original label",
+"original_label": "Cacatua citrinocristata",
+"ott_id": 6520846,
+"parent": 619340,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7088"
+},
+{
+"adjusted_label": "Colaptes mexicanoides",
+"comment": "",
+"name": "Colaptes mexicanoides",
+"name_derivation": "No change to original label",
+"original_label": "Colaptes mexicanoides",
+"ott_id": 6520847,
+"parent": 1020136,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7182"
+},
+{
+"adjusted_label": "Campethera taeniolaema",
+"comment": "",
+"name": "Campethera taeniolaema",
+"name_derivation": "No change to original label",
+"original_label": "Campethera taeniolaema",
+"ott_id": 6520848,
+"parent": 755115,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7228"
+},
+{
+"adjusted_label": "Meiglyptes grammithorax",
+"comment": "",
+"name": "Meiglyptes grammithorax",
+"name_derivation": "No change to original label",
+"original_label": "Meiglyptes grammithorax",
+"ott_id": 6520849,
+"parent": 149821,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7259"
+},
+{
+"adjusted_label": "Chrysocolaptes socialis",
+"comment": "",
+"name": "Chrysocolaptes socialis",
+"name_derivation": "No change to original label",
+"original_label": "Chrysocolaptes socialis",
+"ott_id": 6520850,
+"parent": 724185,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7279"
+},
+{
+"adjusted_label": "Dryobates pernyii",
+"comment": "",
+"name": "Dryobates pernyii",
+"name_derivation": "No change to original label",
+"original_label": "Dryobates pernyii",
+"ott_id": 6520851,
+"parent": 3600266,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7307"
+},
+{
+"adjusted_label": "Pogoniulus uropygialis",
+"comment": "",
+"name": "Pogoniulus uropygialis",
+"name_derivation": "No change to original label",
+"original_label": "Pogoniulus uropygialis",
+"ott_id": 6520852,
+"parent": 291640,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7502"
+},
+{
+"adjusted_label": "Trachylaemus goffinii",
+"comment": "",
+"name": "Trachylaemus goffinii",
+"name_derivation": "No change to original label",
+"original_label": "Trachylaemus goffinii",
+"ott_id": 6520853,
+"parent": 4130725,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7518"
+},
+{
+"adjusted_label": "Psilopogon cyanotis",
+"comment": "",
+"name": "Psilopogon cyanotis",
+"name_derivation": "No change to original label",
+"original_label": "Psilopogon cyanotis",
+"ott_id": 6520854,
+"parent": 291642,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu7555"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
