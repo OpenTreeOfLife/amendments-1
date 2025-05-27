@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-05-27T16:31:42.707Z",
+"id": "additions-6520909-6520911",
+"new_ottids_required": 3,
+"study_id": "ot_2821",
+"taxa": [
+{
+"adjusted_label": "Lacunicambarus aff. polychromatus",
+"comment": "",
+"name": "Lacunicambarus aff. polychromatus",
+"name_derivation": "No change to original label",
+"original_label": "Lacunicambarus aff. polychromatus",
+"ott_id": 6520909,
+"parent": 6520907,
+"rank": "species",
+"sources": [
+{
+"source": "https://academic.oup.com/jcb/article/38/5/600/5079864",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu16"
+},
+{
+"adjusted_label": "Lacunicambarus aff. miltus",
+"comment": "",
+"name": "Lacunicambarus aff. miltus",
+"name_derivation": "No change to original label",
+"original_label": "Lacunicambarus aff. miltus",
+"ott_id": 6520910,
+"parent": 6520907,
+"rank": "species",
+"sources": [
+{
+"source": "https://academic.oup.com/jcb/article/38/5/600/5079864",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu24"
+},
+{
+"adjusted_label": "Lacunicambarus aff. thomai",
+"comment": "",
+"name": "Lacunicambarus aff. thomai",
+"name_derivation": "No change to original label",
+"original_label": "Lacunicambarus aff. thomai",
+"ott_id": 6520911,
+"parent": 6520907,
+"rank": "species",
+"sources": [
+{
+"source": "https://academic.oup.com/jcb/article/38/5/600/5079864",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu25"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
