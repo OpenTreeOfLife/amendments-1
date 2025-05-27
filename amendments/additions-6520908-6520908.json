@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-05-27T16:26:08.129Z",
+"id": "additions-6520908-6520908",
+"new_ottids_required": 1,
+"study_id": "ot_2821",
+"taxa": [
+{
+"adjusted_label": "Lacunicambarus aff. diogenes",
+"comment": "",
+"name": "Lacunicambarus aff. diogenes",
+"name_derivation": "No change to original label",
+"original_label": "Lacunicambarus aff. diogenes",
+"ott_id": 6520908,
+"parent": 6520907,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1093/jcbiol/ruy057",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu13"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
