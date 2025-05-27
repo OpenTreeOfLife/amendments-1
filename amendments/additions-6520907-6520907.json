@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-05-27T16:25:11.786Z",
+"id": "additions-6520907-6520907",
+"new_ottids_required": 1,
+"study_id": "ot_2821",
+"taxa": [
+{
+"adjusted_label": "Lacunicambarus",
+"comment": "",
+"name": "Lacunicambarus",
+"name_derivation": "No change to original label",
+"original_label": "Lacunicambarus",
+"ott_id": 6520907,
+"parent": 79860,
+"rank": "genus",
+"sources": [
+{
+"source": "https://academic.oup.com/jcb/article/38/5/600/5079864",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
