@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-10T19:48:37.858Z",
+"id": "additions-6520913-6520913",
+"new_ottids_required": 1,
+"study_id": "ot_2826",
+"taxa": [
+{
+"adjusted_label": "Cambarus intermontanus",
+"comment": "",
+"name": "Cambarus intermontanus",
+"name_derivation": "No change to original label",
+"original_label": "Cambarus intermontanus",
+"ott_id": 6520913,
+"parent": 876591,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
