@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-10T19:07:19.857Z",
+"id": "additions-6520912-6520912",
+"new_ottids_required": 1,
+"study_id": "ot_2825",
+"taxa": [
+{
+"adjusted_label": "Cambarus nyx",
+"comment": "",
+"name": "Cambarus nyx",
+"name_derivation": "No change to original label",
+"original_label": "Cambarus nyx",
+"ott_id": 6520912,
+"parent": 876591,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1093/jcbiol/ruac066",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
