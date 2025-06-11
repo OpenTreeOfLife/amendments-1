@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-11T20:18:00.390Z",
+"id": "additions-6520937-6520938",
+"new_ottids_required": 2,
+"study_id": "ot_2828",
+"taxa": [
+{
+"adjusted_label": "Plesionika richardi",
+"comment": "",
+"name": "Plesionika richardi",
+"name_derivation": "No change to original label",
+"original_label": "Plesionika richardi",
+"ott_id": 6520937,
+"parent": 816318,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=183350",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu2"
+},
+{
+"adjusted_label": "Cristaspis cristata",
+"comment": "",
+"name": "Cristaspis cristata",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Systellapsis cristata",
+"ott_id": 6520938,
+"parent": 6520914,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1790000",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu15"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
