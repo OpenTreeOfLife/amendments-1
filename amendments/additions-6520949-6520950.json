@@ -1,0 +1,56 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-11T20:26:24.632Z",
+"id": "additions-6520949-6520950",
+"new_ottids_required": 2,
+"study_id": "ot_2828",
+"taxa": [
+{
+"adjusted_label": "Debaspis",
+"comment": "",
+"name": "Debaspis",
+"name_derivation": "No change to original label",
+"original_label": "Debaspis",
+"ott_id": 6520949,
+"parent": 742235,
+"rank": "genus",
+"sources": [
+{
+"source": "https://doi.org/10.1007/s13127-024-00666-7",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1790003",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu92"
+},
+{
+"adjusted_label": "Bralaspis",
+"comment": "",
+"name": "Bralaspis",
+"name_derivation": "No change to original label",
+"original_label": "Bralaspis",
+"ott_id": 6520950,
+"parent": 742235,
+"rank": "genus",
+"sources": [
+{
+"source": "https://doi.org/10.1007/s13127-024-00666-7",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1789993",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu93"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
