@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-11T20:28:41.177Z",
+"id": "additions-6520951-6520952",
+"new_ottids_required": 2,
+"study_id": "ot_2828",
+"taxa": [
+{
+"adjusted_label": "Debaspis debilis",
+"comment": "",
+"name": "Debaspis debilis",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Systellaspis debilis",
+"ott_id": 6520951,
+"parent": 6520949,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1790004",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu13"
+},
+{
+"adjusted_label": "Bralaspis braueri",
+"comment": "",
+"name": "Bralaspis braueri",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Systellaspis braueri",
+"ott_id": 6520952,
+"parent": 6520950,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1789994",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu12"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
