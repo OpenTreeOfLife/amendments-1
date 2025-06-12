@@ -1,0 +1,82 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-12T19:43:19.899Z",
+"id": "additions-6520985-6520988",
+"new_ottids_required": 4,
+"study_id": "ot_2828",
+"taxa": [
+{
+"adjusted_label": "Challengerosergia talismani",
+"comment": "",
+"name": "Challengerosergia talismani",
+"name_derivation": "No change to original label",
+"original_label": "Challengerosergia talismani",
+"ott_id": 6520985,
+"parent": 7116128,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1056495",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu116"
+},
+{
+"adjusted_label": "Gardinerosergia splendens",
+"comment": "",
+"name": "Gardinerosergia splendens",
+"name_derivation": "No change to original label",
+"original_label": "Gardinerosergia splendens",
+"ott_id": 6520986,
+"parent": 7116130,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1056501",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu113"
+},
+{
+"adjusted_label": "Robustosergia regalis",
+"comment": "",
+"name": "Robustosergia regalis",
+"name_derivation": "No change to original label",
+"original_label": "Robustosergia regalis",
+"ott_id": 6520987,
+"parent": 7116131,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1056519",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu114"
+},
+{
+"adjusted_label": "Robustosergia robusta",
+"comment": "",
+"name": "Robustosergia robusta",
+"name_derivation": "No change to original label",
+"original_label": "Robustosergia robusta",
+"ott_id": 6520988,
+"parent": 7116131,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1056517",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu115"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
