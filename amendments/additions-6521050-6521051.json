@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-16T19:37:39.531Z",
+"id": "additions-6521050-6521051",
+"new_ottids_required": 2,
+"study_id": "pg_2682",
+"taxa": [
+{
+"adjusted_label": "Hansarsia",
+"comment": "",
+"name": "Hansarsia",
+"name_derivation": "Typo in original label",
+"original_label": "Nematosp",
+"ott_id": 6521050,
+"parent": 852540,
+"rank": "genus",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1649781",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu401542"
+},
+{
+"adjusted_label": "Neocallichirus mericeae",
+"comment": "",
+"name": "Neocallichirus mericeae",
+"name_derivation": "Typo in original label",
+"original_label": "Smeri1865",
+"ott_id": 6521051,
+"parent": 791663,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1397714",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu401507"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
