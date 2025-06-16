@@ -1,0 +1,133 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-16T17:42:38.354Z",
+"id": "additions-6521007-6521013",
+"new_ottids_required": 7,
+"study_id": "ot_2832",
+"taxa": [
+{
+"adjusted_label": "Cherax kaimana",
+"comment": "",
+"name": "Cherax kaimana",
+"name_derivation": "No change to original label",
+"original_label": "Cherax kaimana",
+"ott_id": 6521007,
+"parent": 79854,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu14"
+},
+{
+"adjusted_label": "Cherax farhadii",
+"comment": "",
+"name": "Cherax farhadii",
+"name_derivation": "No change to original label",
+"original_label": "Cherax farhadii",
+"ott_id": 6521008,
+"parent": 79854,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu15"
+},
+{
+"adjusted_label": "Cherax bomberai",
+"comment": "",
+"name": "Cherax bomberai",
+"name_derivation": "No change to original label",
+"original_label": "Cherax bomberai",
+"ott_id": 6521009,
+"parent": 79854,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu16"
+},
+{
+"adjusted_label": "Cherax arguni",
+"comment": "",
+"name": "Cherax arguni",
+"name_derivation": "No change to original label",
+"original_label": "Cherax arguni",
+"ott_id": 6521010,
+"parent": 79854,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu17"
+},
+{
+"adjusted_label": "Cherax veritas",
+"comment": "",
+"name": "Cherax veritas",
+"name_derivation": "No change to original label",
+"original_label": "Cherax veritas",
+"ott_id": 6521011,
+"parent": 79854,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu20"
+},
+{
+"adjusted_label": "Cherax doberai",
+"comment": "",
+"name": "Cherax doberai",
+"name_derivation": "No change to original label",
+"original_label": "Cherax doberai",
+"ott_id": 6521012,
+"parent": 79854,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5"
+},
+{
+"adjusted_label": "Cherax nigli",
+"comment": "",
+"name": "Cherax nigli",
+"name_derivation": "No change to original label",
+"original_label": "Cherax nigli",
+"ott_id": 6521013,
+"parent": 79854,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
