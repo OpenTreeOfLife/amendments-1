@@ -1,0 +1,99 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-16T19:33:01.672Z",
+"id": "additions-6521029-6521033",
+"new_ottids_required": 5,
+"study_id": "pg_2682",
+"taxa": [
+{
+"adjusted_label": "Macrobrachium caementarius",
+"comment": "",
+"name": "Macrobrachium caementarius",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Ccaementar",
+"ott_id": 6521029,
+"parent": 736328,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1774141",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu401522"
+},
+{
+"adjusted_label": "Penaeus (Farfantepenaeus) duorarum",
+"comment": "",
+"name": "Penaeus (Farfantepenaeus) duorarum",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Fduor4282",
+"ott_id": 6521030,
+"parent": 5845,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1809220",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu401537"
+},
+{
+"adjusted_label": "Lysiosquilla maculata",
+"comment": "",
+"name": "Lysiosquilla maculata",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Lmac3832",
+"ott_id": 6521031,
+"parent": 311363,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=211183",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu401543"
+},
+{
+"adjusted_label": "Hansarsia",
+"comment": "",
+"name": "Hansarsia",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Nematosp",
+"ott_id": 6521032,
+"parent": 852540,
+"rank": "genus",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1649781",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu401542"
+},
+{
+"adjusted_label": "Neocallichirus mericeae",
+"comment": "",
+"name": "Neocallichirus mericeae",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Smeri1865",
+"ott_id": 6521033,
+"parent": 791663,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1397714",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu401507"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
