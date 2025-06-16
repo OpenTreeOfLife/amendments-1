@@ -1,0 +1,119 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-16T17:41:58.288Z",
+"id": "additions-6520997-6521001",
+"new_ottids_required": 5,
+"study_id": "ot_2832",
+"taxa": [
+{
+"adjusted_label": "Cherax rayko",
+"comment": "",
+"name": "Cherax rayko",
+"name_derivation": "No change to original label",
+"original_label": "Cherax rayko",
+"ott_id": 6520997,
+"parent": 79854,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.3390/arthropoda2040019",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1786024",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11"
+},
+{
+"adjusted_label": "Cherax wagenknechtae",
+"comment": "",
+"name": "Cherax wagenknechtae",
+"name_derivation": "No change to original label",
+"original_label": "Cherax wagenknechtae",
+"ott_id": 6520998,
+"parent": 79854,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1754759",
+"source_type": "Link to online taxonomy"
+},
+{
+"source": "https://doi.org/10.3897/zse.98.94753",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu21"
+},
+{
+"adjusted_label": "Cherax pulverulentus",
+"comment": "",
+"name": "Cherax pulverulentus",
+"name_derivation": "Typo in original label",
+"original_label": "Cherax pulvurentus",
+"ott_id": 6520999,
+"parent": 79854,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1789937",
+"source_type": "Link to online taxonomy"
+},
+{
+"source": "https://doi.org/10.11646/zootaxa.5566.3.4",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu23"
+},
+{
+"adjusted_label": "Cherax phing",
+"comment": "",
+"name": "Cherax phing",
+"name_derivation": "No change to original label",
+"original_label": "Cherax phing",
+"ott_id": 6521000,
+"parent": 79854,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1786023",
+"source_type": "Link to online taxonomy"
+},
+{
+"source": "https://doi.org/10.3390/arthropoda2040019",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu25"
+},
+{
+"adjusted_label": "Cherax woworae",
+"comment": "",
+"name": "Cherax woworae",
+"name_derivation": "No change to original label",
+"original_label": "Cherax woworae",
+"ott_id": 6521001,
+"parent": 79854,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1672985",
+"source_type": "Link to online taxonomy"
+},
+{
+"source": "https://doi.org/10.11646/zootaxa.5325.4.8",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu27"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
