@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mtholder@gmail.com",
+"login": "mtholder",
+"name": "Mark T. Holder"
+},
+"date_created": "2025-06-23T20:38:47.070Z",
+"id": "additions-6521052-6521052",
+"new_ottids_required": 1,
+"study_id": "ot_2324",
+"taxa": [
+{
+"adjusted_label": "Hoplitis louisae",
+"comment": "https://www.gbif.org/species/5038861",
+"name": "Hoplitis louisae",
+"name_derivation": "No change to original label",
+"original_label": "Hoplitis louisae",
+"ott_id": 6521052,
+"parent": 63881,
+"rank": "species",
+"sources": [
+{
+"source": "GBIF",
+"source_type": "Other"
+}
+],
+"tag": "otu4160"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
