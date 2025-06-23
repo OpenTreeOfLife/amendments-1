@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-23T21:23:18.530Z",
+"id": "additions-6521058-6521058",
+"new_ottids_required": 1,
+"study_id": "ot_2835",
+"taxa": [
+{
+"adjusted_label": "Dianecheles martini",
+"comment": "",
+"name": "Dianecheles martini",
+"name_derivation": "No change to original label",
+"original_label": "Dianecheles martini",
+"ott_id": 6521058,
+"parent": 6521056,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1727490",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu12"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
