@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-23T21:18:21.597Z",
+"id": "additions-6521055-6521055",
+"new_ottids_required": 1,
+"study_id": "ot_2835",
+"taxa": [
+{
+"adjusted_label": "Polychelinae",
+"comment": "",
+"name": "Polychelinae",
+"name_derivation": "No change to original label",
+"original_label": "Polychelinae",
+"ott_id": 6521055,
+"parent": 1057024,
+"rank": "subfamily",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1715211",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu42"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
