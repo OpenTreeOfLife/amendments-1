@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mtholder@gmail.com",
+"login": "mtholder",
+"name": "Mark T. Holder"
+},
+"date_created": "2025-06-23T20:56:42.786Z",
+"id": "additions-6521054-6521054",
+"new_ottids_required": 1,
+"study_id": "ot_2324",
+"taxa": [
+{
+"adjusted_label": "Andrena melittoides",
+"comment": "",
+"name": "Andrena melittoides",
+"name_derivation": "No change to original label",
+"original_label": "Andrena melittoides",
+"ott_id": 6521054,
+"parent": 1053841,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.11646/zootaxa.5474.5.1",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu287"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
