@@ -1,0 +1,56 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-23T21:20:24.503Z",
+"id": "additions-6521056-6521057",
+"new_ottids_required": 2,
+"study_id": "ot_2835",
+"taxa": [
+{
+"adjusted_label": "Dianecheles",
+"comment": "",
+"name": "Dianecheles",
+"name_derivation": "No change to original label",
+"original_label": "Dianecheles",
+"ott_id": 6521056,
+"parent": 6521055,
+"rank": "genus",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1727489",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu35"
+},
+{
+"adjusted_label": "Neopolycheles",
+"comment": "",
+"name": "Neopolycheles",
+"name_derivation": "No change to original label",
+"original_label": "Neopolycheles",
+"ott_id": 6521057,
+"parent": 6521055,
+"rank": "genus",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1727492",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu37"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
