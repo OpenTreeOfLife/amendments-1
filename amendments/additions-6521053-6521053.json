@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "mtholder@gmail.com",
+"login": "mtholder",
+"name": "Mark T. Holder"
+},
+"date_created": "2025-06-23T20:48:46.330Z",
+"id": "additions-6521053-6521053",
+"new_ottids_required": 1,
+"study_id": "ot_2324",
+"taxa": [
+{
+"adjusted_label": "Svastrides zebra",
+"comment": "https://www.gbif.org/species/1345367 Svastrides zebra (Friese, 1908) is not a synonym of https://www.gbif.org/species/5039817 Ceratina zebra Friese, 1921",
+"name": "Svastrides zebra",
+"name_derivation": "No change to original label",
+"original_label": "Svastrides zebra",
+"ott_id": 6521053,
+"parent": 642745,
+"rank": "species",
+"sources": [
+{
+"source": "GBIF",
+"source_type": "Other"
+}
+],
+"tag": "otu2838"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
