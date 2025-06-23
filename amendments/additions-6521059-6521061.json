@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-23T21:25:12.490Z",
+"id": "additions-6521059-6521061",
+"new_ottids_required": 3,
+"study_id": "ot_2835",
+"taxa": [
+{
+"adjusted_label": "Neopolycheles enthrix",
+"comment": "",
+"name": "Neopolycheles enthrix",
+"name_derivation": "No change to original label",
+"original_label": "Neopolycheles enthrix",
+"ott_id": 6521059,
+"parent": 6521057,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1727493",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu13"
+},
+{
+"adjusted_label": "Neopolycheles amemiyai",
+"comment": "",
+"name": "Neopolycheles amemiyai",
+"name_derivation": "No change to original label",
+"original_label": "Neopolycheles amemiyai",
+"ott_id": 6521060,
+"parent": 6521057,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1727494",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu14"
+},
+{
+"adjusted_label": "Neopolycheles kermadecensis",
+"comment": "",
+"name": "Neopolycheles kermadecensis",
+"name_derivation": "No change to original label",
+"original_label": "Neopolycheles kermadecensis",
+"ott_id": 6521061,
+"parent": 6521057,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1727495",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu40"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
