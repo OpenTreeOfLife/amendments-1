@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-26T17:06:20.229Z",
+"id": "additions-6521062-6521063",
+"new_ottids_required": 2,
+"study_id": "ot_2836",
+"taxa": [
+{
+"adjusted_label": "Pacifastacus malheurensis",
+"comment": "",
+"name": "Pacifastacus malheurensis",
+"name_derivation": "No change to original label",
+"original_label": "Pacifastacus malheurensis",
+"ott_id": 6521062,
+"parent": 601420,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu11"
+},
+{
+"adjusted_label": "Pacifastacus okanaganensis",
+"comment": "",
+"name": "Pacifastacus okanaganensis",
+"name_derivation": "No change to original label",
+"original_label": "Pacifastacus okanaganensis",
+"ott_id": 6521063,
+"parent": 601420,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu12"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
