@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-26T21:14:49.574Z",
+"id": "additions-6521074-6521074",
+"new_ottids_required": 1,
+"study_id": "ot_2838",
+"taxa": [
+{
+"adjusted_label": "Maorrancaris investigatoris",
+"comment": "",
+"name": "Maorrancaris investigatoris",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Benthesicymus investigatoris",
+"ott_id": 6521074,
+"parent": 6521067,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1391002",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu14"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
