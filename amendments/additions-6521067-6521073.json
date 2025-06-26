@@ -1,0 +1,153 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-26T21:13:12.531Z",
+"id": "additions-6521067-6521073",
+"new_ottids_required": 7,
+"study_id": "ot_2838",
+"taxa": [
+{
+"adjusted_label": "Maorrancaris",
+"comment": "",
+"name": "Maorrancaris",
+"name_derivation": "No change to original label",
+"original_label": "Maorrancaris",
+"ott_id": 6521067,
+"parent": 944610,
+"rank": "genus",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1390992",
+"source_type": "Link to online taxonomy"
+},
+{
+"source": "https://doi.org/10.1093/zoolinnean/zlz125",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu56"
+},
+{
+"adjusted_label": "Amalopenaeus",
+"comment": "",
+"name": "Amalopenaeus",
+"name_derivation": "No change to original label",
+"original_label": "Amalopenaeus",
+"ott_id": 6521068,
+"parent": 944610,
+"rank": "genus",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=584919",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu59"
+},
+{
+"adjusted_label": "Bathicaris",
+"comment": "",
+"name": "Bathicaris",
+"name_derivation": "No change to original label",
+"original_label": "Bathicaris",
+"ott_id": 6521069,
+"parent": 944610,
+"rank": "genus",
+"sources": [
+{
+"source": "https://doi.org/10.1093/zoolinnean/zlz125",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1390990",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu60"
+},
+{
+"adjusted_label": "Benthoecetes",
+"comment": "",
+"name": "Benthoecetes",
+"name_derivation": "No change to original label",
+"original_label": "Benthoecetes",
+"ott_id": 6521070,
+"parent": 944610,
+"rank": "genus",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=106812",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu63"
+},
+{
+"adjusted_label": "Boreogennema",
+"comment": "",
+"name": "Boreogennema",
+"name_derivation": "No change to original label",
+"original_label": "Boreogennema",
+"ott_id": 6521071,
+"parent": 944610,
+"rank": "genus",
+"sources": [
+{
+"source": "https://doi.org/10.1093/zoolinnean/zlz070",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1422235",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu65"
+},
+{
+"adjusted_label": "Dalicaris",
+"comment": "",
+"name": "Dalicaris",
+"name_derivation": "No change to original label",
+"original_label": "Dalicaris",
+"ott_id": 6521072,
+"parent": 944610,
+"rank": "genus",
+"sources": [
+{
+"source": "https://doi.org/10.1093/zoolinnean/zlz125",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1390991",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu66"
+},
+{
+"adjusted_label": "Notogennema",
+"comment": "",
+"name": "Notogennema",
+"name_derivation": "No change to original label",
+"original_label": "Notogennema",
+"ott_id": 6521073,
+"parent": 944610,
+"rank": "genus",
+"sources": [
+{
+"source": "https://doi.org/10.1071/is21004",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1566088",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu68"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
