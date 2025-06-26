@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-26T17:39:34.084Z",
+"id": "additions-6521064-6521065",
+"new_ottids_required": 2,
+"study_id": "ot_2837",
+"taxa": [
+{
+"adjusted_label": "Cambarus aff. bartonii",
+"comment": "",
+"name": "Cambarus aff. bartonii",
+"name_derivation": "No change to original label",
+"original_label": "Cambarus aff. bartonii",
+"ott_id": 6521064,
+"parent": 665181,
+"rank": "species group",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2"
+},
+{
+"adjusted_label": "Cambarus ocoeensis",
+"comment": "",
+"name": "Cambarus ocoeensis",
+"name_derivation": "No change to original label",
+"original_label": "Cambarus ocoeensis",
+"ott_id": 6521065,
+"parent": 876591,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
