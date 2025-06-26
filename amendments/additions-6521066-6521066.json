@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-26T20:56:03.232Z",
+"id": "additions-6521066-6521066",
+"new_ottids_required": 1,
+"study_id": "ot_2838",
+"taxa": [
+{
+"adjusted_label": "Phorcosergia maxima",
+"comment": "",
+"name": "Phorcosergia maxima",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Sergia maxima",
+"ott_id": 6521066,
+"parent": 7116125,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1056511",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu3"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
