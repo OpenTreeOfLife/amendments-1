@@ -1,0 +1,35 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-30T18:10:42.650Z",
+"id": "additions-6521075-6521075",
+"new_ottids_required": 1,
+"study_id": "ot_2839",
+"taxa": [
+{
+"adjusted_label": "Euastacus coughrani",
+"comment": "",
+"name": "Euastacus coughrani",
+"name_derivation": "No change to original label",
+"original_label": "Euastacus coughrani",
+"ott_id": 6521075,
+"parent": 297663,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1789964",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu4"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
