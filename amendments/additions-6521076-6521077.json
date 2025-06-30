@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-06-30T19:28:20.685Z",
+"id": "additions-6521076-6521077",
+"new_ottids_required": 2,
+"study_id": "ot_2840",
+"taxa": [
+{
+"adjusted_label": "Astacidae (Europe)",
+"comment": "",
+"name": "Astacidae (Europe)",
+"name_derivation": "No change to original label",
+"original_label": "Astacidae (Europe)",
+"ott_id": 6521076,
+"parent": 348183,
+"rank": "subfamily",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3"
+},
+{
+"adjusted_label": "Astacidae (America)",
+"comment": "",
+"name": "Astacidae (America)",
+"name_derivation": "No change to original label",
+"original_label": "Astacidae (America)",
+"ott_id": 6521077,
+"parent": 348183,
+"rank": "subfamily",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
