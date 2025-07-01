@@ -1,0 +1,346 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-07-01T19:21:41.034Z",
+"id": "additions-6521080-6521095",
+"new_ottids_required": 16,
+"study_id": "ot_2841",
+"taxa": [
+{
+"adjusted_label": "Aenigmata megabranchia",
+"comment": "",
+"name": "Aenigmata megabranchia",
+"name_derivation": "No change to original label",
+"original_label": "Aenigmata megabranchia",
+"ott_id": 6521080,
+"parent": 6521078,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu8"
+},
+{
+"adjusted_label": "Nedsia canensis",
+"comment": "",
+"name": "Nedsia canensis",
+"name_derivation": "No change to original label",
+"original_label": "Nedsia canensis",
+"ott_id": 6521081,
+"parent": 127900,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1071/IS21041",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1591461",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu18"
+},
+{
+"adjusted_label": "Nedsia cheela",
+"comment": "",
+"name": "Nedsia cheela",
+"name_derivation": "No change to original label",
+"original_label": "Nedsia cheela",
+"ott_id": 6521082,
+"parent": 127900,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1071/is21041",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1591462",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu15"
+},
+{
+"adjusted_label": "Nedsia erinnae",
+"comment": "",
+"name": "Nedsia erinnae",
+"name_derivation": "No change to original label",
+"original_label": "Nedsia erinnae",
+"ott_id": 6521083,
+"parent": 127900,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1071/is21041",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1591464",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu19"
+},
+{
+"adjusted_label": "Nedsia mcraeae",
+"comment": "",
+"name": "Nedsia mcraeae",
+"name_derivation": "No change to original label",
+"original_label": "Nedsia mcraeae",
+"ott_id": 6521084,
+"parent": 127900,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1071/is21041",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1591467",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu13"
+},
+{
+"adjusted_label": "Nedsia nanutarra",
+"comment": "",
+"name": "Nedsia nanutarra",
+"name_derivation": "No change to original label",
+"original_label": "Nedsia nanutarra",
+"ott_id": 6521085,
+"parent": 127900,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1071/IS21041",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1591468",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu23"
+},
+{
+"adjusted_label": "Nedsia pannawonica",
+"comment": "",
+"name": "Nedsia pannawonica",
+"name_derivation": "No change to original label",
+"original_label": "Nedsia pannawonica",
+"ott_id": 6521086,
+"parent": 127900,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1591470",
+"source_type": "Link to online taxonomy"
+},
+{
+"source": "https://doi.org/10.1071/is21041",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu20"
+},
+{
+"adjusted_label": "Nedsia quobba",
+"comment": "",
+"name": "Nedsia quobba",
+"name_derivation": "No change to original label",
+"original_label": "Nedsia quobba",
+"ott_id": 6521087,
+"parent": 127900,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1071/is21041",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1591475",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11"
+},
+{
+"adjusted_label": "Nedsia robensis",
+"comment": "",
+"name": "Nedsia robensis",
+"name_derivation": "No change to original label",
+"original_label": "Nedsia robensis",
+"ott_id": 6521088,
+"parent": 127900,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1591476",
+"source_type": "Link to online taxonomy"
+},
+{
+"source": "https://doi.org/10.1071/is21041",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu12"
+},
+{
+"adjusted_label": "Nedsia shawensis",
+"comment": "",
+"name": "Nedsia shawensis",
+"name_derivation": "No change to original label",
+"original_label": "Nedsia shawensis",
+"ott_id": 6521089,
+"parent": 127900,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1071/is21041",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1591477",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu26"
+},
+{
+"adjusted_label": "Nedsia wanna",
+"comment": "",
+"name": "Nedsia wanna",
+"name_derivation": "No change to original label",
+"original_label": "Nedsia wanna",
+"ott_id": 6521090,
+"parent": 127900,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1591478",
+"source_type": "Link to online taxonomy"
+},
+{
+"source": "https://doi.org/10.1071/is21041",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu21"
+},
+{
+"adjusted_label": "Nedsia weelumurra",
+"comment": "",
+"name": "Nedsia weelumurra",
+"name_derivation": "No change to original label",
+"original_label": "Nedsia weelumurra",
+"ott_id": 6521091,
+"parent": 127900,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1071/is21041",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1591479",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu16"
+},
+{
+"adjusted_label": "Nedsia wylo",
+"comment": "",
+"name": "Nedsia wyloo",
+"name_derivation": "Typo in original label",
+"original_label": "Nedsia wylo",
+"ott_id": 6521092,
+"parent": 127900,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1591480",
+"source_type": "Link to online taxonomy"
+},
+{
+"source": "https://doi.org/10.1071/is21041",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu22"
+},
+{
+"adjusted_label": "Nedsia yarraloola",
+"comment": "",
+"name": "Nedsia yarraloola",
+"name_derivation": "No change to original label",
+"original_label": "Nedsia yarraloola",
+"ott_id": 6521093,
+"parent": 127900,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1071/is21041",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1591481",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu17"
+},
+{
+"adjusted_label": "Pilbarana grandis",
+"comment": "",
+"name": "Pilbarana grandis",
+"name_derivation": "No change to original label",
+"original_label": "Pilbarana grandis",
+"ott_id": 6521094,
+"parent": 6521079,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1645605",
+"source_type": "Link to online taxonomy"
+},
+{
+"source": "https://doi.org/10.11646/zootaxa.5188.6.4",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu10"
+},
+{
+"adjusted_label": "Pilbarana lowryi",
+"comment": "",
+"name": "Pilbarana lowryi",
+"name_derivation": "No change to original label",
+"original_label": "Pilbarana lowryi",
+"ott_id": 6521095,
+"parent": 6521079,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.11646/zootaxa.5188.6.4",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1645606",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu9"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
