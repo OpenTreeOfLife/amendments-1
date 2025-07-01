@@ -1,0 +1,52 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-07-01T18:31:16.109Z",
+"id": "additions-6521078-6521079",
+"new_ottids_required": 2,
+"study_id": "ot_2841",
+"taxa": [
+{
+"adjusted_label": "Aenigmata",
+"comment": "",
+"name": "Aenigmata",
+"name_derivation": "No change to original label",
+"original_label": "Aenigmata",
+"ott_id": 6521078,
+"parent": 5504724,
+"rank": "genus",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3"
+},
+{
+"adjusted_label": "Pilbarana",
+"comment": "",
+"name": "Pilbarana",
+"name_derivation": "No change to original label",
+"original_label": "Pilbarana",
+"ott_id": 6521079,
+"parent": 5504724,
+"rank": "genus",
+"sources": [
+{
+"source": "https://doi.org/10.11646/zootaxa.5188.6.4",
+"source_type": "Link (DOI) to publication"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1645603",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu4"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
