@@ -1,0 +1,52 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-07-03T19:12:20.699Z",
+"id": "additions-6521096-6521097",
+"new_ottids_required": 2,
+"study_id": "ot_2843",
+"taxa": [
+{
+"adjusted_label": "Procambarus cuevachicae",
+"comment": "",
+"name": "Procambarus cuevachicae",
+"name_derivation": "No change to original label",
+"original_label": "Procambarus cuevachicae",
+"ott_id": 6521096,
+"parent": 79859,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=885407",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu10"
+},
+{
+"adjusted_label": "Procambarus xihui",
+"comment": "",
+"name": "Procambarus xihui",
+"name_derivation": "No change to original label",
+"original_label": "Procambarus xihui",
+"ott_id": 6521097,
+"parent": 79859,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1519413",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu1"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
