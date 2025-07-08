@@ -1,0 +1,167 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-07-08T16:24:12.853Z",
+"id": "additions-6521098-6521106",
+"new_ottids_required": 9,
+"study_id": "ot_2846",
+"taxa": [
+{
+"adjusted_label": "Pachydrini",
+"comment": "",
+"name": "Pachydrini",
+"name_derivation": "No change to original label",
+"original_label": "Pachydrini",
+"ott_id": 6521098,
+"parent": 331600,
+"rank": "tribe",
+"sources": [
+{
+"source": "https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1260627&print_version=PRT&source=to_print#null",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu23"
+},
+{
+"adjusted_label": "Cybistrinae",
+"comment": "",
+"name": "Cybistrinae",
+"name_derivation": "No change to original label",
+"original_label": "Cybistrinae",
+"ott_id": 6521099,
+"parent": 66507,
+"rank": "subfamily",
+"sources": [
+{
+"source": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1156456#null",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu10"
+},
+{
+"adjusted_label": "Laccornellini",
+"comment": "",
+"name": "Laccornellini",
+"name_derivation": "No change to original label",
+"original_label": "Laccornellini",
+"ott_id": 6521100,
+"parent": 331600,
+"rank": "tribe",
+"sources": [
+{
+"source": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1156458#null",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu21"
+},
+{
+"adjusted_label": "Sternopriscina",
+"comment": "",
+"name": "Sternopriscina",
+"name_derivation": "No change to original label",
+"original_label": "Sternopriscina",
+"ott_id": 6521101,
+"parent": 294412,
+"rank": "subtribe",
+"sources": [
+{
+"source": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1156464#null",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu28"
+},
+{
+"adjusted_label": "Siettitiina",
+"comment": "",
+"name": "Siettitiina",
+"name_derivation": "No change to original label",
+"original_label": "Siettitiina",
+"ott_id": 6521102,
+"parent": 294412,
+"rank": "subtribe",
+"sources": [
+{
+"source": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1156463#null",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu29"
+},
+{
+"adjusted_label": "Deronectina",
+"comment": "",
+"name": "Deronectina",
+"name_derivation": "No change to original label",
+"original_label": "Deronectina",
+"ott_id": 6521103,
+"parent": 294412,
+"rank": "subtribe",
+"sources": [
+{
+"source": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1156461#null",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu30"
+},
+{
+"adjusted_label": "Hydroporina",
+"comment": "",
+"name": "Hydroporina",
+"name_derivation": "No change to original label",
+"original_label": "Hydroporina",
+"ott_id": 6521104,
+"parent": 294412,
+"rank": "subtribe",
+"sources": [
+{
+"source": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1156462#null",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu31"
+},
+{
+"adjusted_label": "Platynectini",
+"comment": "",
+"name": "Platynectini",
+"name_derivation": "No change to original label",
+"original_label": "Platynectini",
+"ott_id": 6521105,
+"parent": 322177,
+"rank": "tribe",
+"sources": [
+{
+"source": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1156460#null",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu7"
+},
+{
+"adjusted_label": "Hydrotrupini",
+"comment": "",
+"name": "Hydrotrupini",
+"name_derivation": "No change to original label",
+"original_label": "Hydrotrupini",
+"ott_id": 6521106,
+"parent": 322177,
+"rank": "tribe",
+"sources": [
+{
+"source": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1156457#null",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu8"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
