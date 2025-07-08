@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-07-08T18:25:47.944Z",
+"id": "additions-6521107-6521107",
+"new_ottids_required": 1,
+"study_id": "ot_2847",
+"taxa": [
+{
+"adjusted_label": "Limnognathia desmeti",
+"comment": "",
+"name": "Limnognathia desmeti",
+"name_derivation": "No change to original label",
+"original_label": "Limnognathia desmeti",
+"ott_id": 6521107,
+"parent": 435979,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu70"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
