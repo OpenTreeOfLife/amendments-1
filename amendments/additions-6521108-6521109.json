@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-07-08T20:09:13.822Z",
+"id": "additions-6521108-6521109",
+"new_ottids_required": 2,
+"study_id": "ot_2848",
+"taxa": [
+{
+"adjusted_label": "Sundadanionidae",
+"comment": "",
+"name": "Sundadanionidae",
+"name_derivation": "No change to original label",
+"original_label": "Sundadanionidae",
+"ott_id": 6521108,
+"parent": 1005931,
+"rank": "family",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1517453",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu10"
+},
+{
+"adjusted_label": "Paedocyprididae",
+"comment": "",
+"name": "Paedocyprididae",
+"name_derivation": "No change to original label",
+"original_label": "Paedocyprididae",
+"ott_id": 6521109,
+"parent": 1005931,
+"rank": "family",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1517452",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu7"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
