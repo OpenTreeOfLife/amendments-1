@@ -1,0 +1,99 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-07-22T17:04:32.043Z",
+"id": "additions-6521125-6521129",
+"new_ottids_required": 5,
+"study_id": "pg_2838",
+"taxa": [
+{
+"adjusted_label": "Hoplometopus macrodontus",
+"comment": "",
+"name": "Hoplometopus macrodontus",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Enoplometopus macrodont",
+"ott_id": 6521125,
+"parent": 2974326,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1609822",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu421897"
+},
+{
+"adjusted_label": "Geocharax tasmanicus",
+"comment": "",
+"name": "Geocharax tasmanicus",
+"name_derivation": "Typo in original label",
+"original_label": "Geocharax",
+"ott_id": 6521126,
+"parent": 27314,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=994841",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu421822"
+},
+{
+"adjusted_label": "Faxonius ronaldi",
+"comment": "",
+"name": "Faxonius ronaldi",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Orconectes ronaldi",
+"ott_id": 6521127,
+"parent": 45677,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=885342",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu421864"
+},
+{
+"adjusted_label": "Faxonius virilis",
+"comment": "",
+"name": "Faxonius virilis",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Orconectes virilis",
+"ott_id": 6521128,
+"parent": 45677,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=885357",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu421865"
+},
+{
+"adjusted_label": "Phyllamphion elegans",
+"comment": "",
+"name": "Phyllamphion",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Palinurellus",
+"ott_id": 6521129,
+"parent": 653845,
+"rank": "genus",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1611042",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu421995"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
