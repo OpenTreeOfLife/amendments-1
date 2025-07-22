@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-07-22T17:16:16.525Z",
+"id": "additions-6521164-6521164",
+"new_ottids_required": 1,
+"study_id": "pg_2838",
+"taxa": [
+{
+"adjusted_label": "Phyllamphion elegans",
+"comment": "",
+"name": "Phyllamphion elegans",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Palinurellus",
+"ott_id": 6521164,
+"parent": 6521114,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1611043",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu421995"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
