@@ -1,0 +1,184 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-08-05T20:41:20.141Z",
+"id": "additions-6521213-6521222",
+"new_ottids_required": 10,
+"study_id": "ot_2874",
+"taxa": [
+{
+"adjusted_label": "Polyascus gregarius",
+"comment": "Species name emended to agree with masculine genus.",
+"name": "Polyascus gregarius",
+"name_derivation": "No change to original label",
+"original_label": "Polyascus gregarius",
+"ott_id": 6521213,
+"parent": 1071368,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1317745",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11"
+},
+{
+"adjusted_label": "Polyascus polygeneus",
+"comment": "Species name emended to agree with masculine genus.",
+"name": "Polyascus polygeneus",
+"name_derivation": "No change to original label",
+"original_label": "Polyascus polygeneus",
+"ott_id": 6521214,
+"parent": 1071368,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1317743",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu13"
+},
+{
+"adjusted_label": "Parasacculina sinensis",
+"comment": "",
+"name": "Parasacculina sinensis",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Parasacculina sinensis",
+"ott_id": 6521215,
+"parent": 6521168,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1391660",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu10"
+},
+{
+"adjusted_label": "Mycetomorpha abyssalis",
+"comment": "",
+"name": "Mycetomorpha abyssalis",
+"name_derivation": "No change to original label",
+"original_label": "Mycetomorpha abyssalis",
+"ott_id": 6521216,
+"parent": 2959340,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1747967",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu14"
+},
+{
+"adjusted_label": "Duplorbis koru",
+"comment": "",
+"name": "Duplorbis koru",
+"name_derivation": "No change to original label",
+"original_label": "Duplorbis koru",
+"ott_id": 6521217,
+"parent": 2959533,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1824017",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu2"
+},
+{
+"adjusted_label": "Paratriangulus galatheae",
+"comment": "Adding new genus to OTOL.",
+"name": "Paratriangulus",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Paratriangulus galatheae",
+"ott_id": 6521218,
+"parent": 218055,
+"rank": "genus",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1391542",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu20"
+},
+{
+"adjusted_label": "Lernaeodiscus rybakovi",
+"comment": "",
+"name": "Lernaeodiscus rybakovi",
+"name_derivation": "No change to original label",
+"original_label": "Lernaeodiscus rybakovi",
+"ott_id": 6521219,
+"parent": 218053,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1513456",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu23"
+},
+{
+"adjusted_label": "Parasacculina oblonga",
+"comment": "",
+"name": "Parasacculina oblonga",
+"name_derivation": "No change to original label",
+"original_label": "Parasacculina oblonga",
+"ott_id": 6521220,
+"parent": 6521168,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1391658",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu7"
+},
+{
+"adjusted_label": "Parasacculina yatsui",
+"comment": "",
+"name": "Parasacculina yatsui",
+"name_derivation": "No change to original label",
+"original_label": "Parasacculina yatsui",
+"ott_id": 6521221,
+"parent": 6521168,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1391661",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu8"
+},
+{
+"adjusted_label": "Parasacculina leptodiae",
+"comment": "",
+"name": "Parasacculina leptodiae",
+"name_derivation": "No change to original label",
+"original_label": "Parasacculina leptodiae",
+"ott_id": 6521222,
+"parent": 6521168,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1391657",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu9"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
