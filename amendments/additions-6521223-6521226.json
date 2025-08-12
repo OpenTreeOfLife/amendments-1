@@ -1,0 +1,82 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-08-12T20:45:43.900Z",
+"id": "additions-6521223-6521226",
+"new_ottids_required": 4,
+"study_id": "ot_2877",
+"taxa": [
+{
+"adjusted_label": "Coenobita granularis",
+"comment": "",
+"name": "Coenobita granularis",
+"name_derivation": "No change to original label",
+"original_label": "Coenobita granularis",
+"ott_id": 6521223,
+"parent": 389509,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu12"
+},
+{
+"adjusted_label": "Coenobita patsyae",
+"comment": "",
+"name": "Coenobita patsyae",
+"name_derivation": "No change to original label",
+"original_label": "Coenobita patsyae",
+"ott_id": 6521224,
+"parent": 389509,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3"
+},
+{
+"adjusted_label": "Coenobita celebensis",
+"comment": "",
+"name": "Coenobita celebensis",
+"name_derivation": "No change to original label",
+"original_label": "Coenobita celebensis",
+"ott_id": 6521225,
+"parent": 389509,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu4"
+},
+{
+"adjusted_label": "Coenobita moluccensis",
+"comment": "",
+"name": "Coenobita moluccensis",
+"name_derivation": "No change to original label",
+"original_label": "Coenobita moluccensis",
+"ott_id": 6521226,
+"parent": 389509,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu5"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
