@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-08-25T20:18:59.161Z",
+"id": "additions-6521230-6521231",
+"new_ottids_required": 2,
+"study_id": "ot_2878",
+"taxa": [
+{
+"adjusted_label": "Grimothea gregaria",
+"comment": "",
+"name": "Grimothea gregaria",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Munida gregaria",
+"ott_id": 6521230,
+"parent": 6521228,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=392883",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu4"
+},
+{
+"adjusted_label": "Curtonida isos",
+"comment": "",
+"name": "Curtonida isos",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Munida isos",
+"ott_id": 6521231,
+"parent": 6521229,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1605787",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu5"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
