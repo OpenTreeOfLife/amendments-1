@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-08-25T20:15:56.385Z",
+"id": "additions-6521227-6521229",
+"new_ottids_required": 3,
+"study_id": "ot_2878",
+"taxa": [
+{
+"adjusted_label": "Sternostylus investigatoris",
+"comment": "",
+"name": "Sternostylus investigatoris",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Gastroptychus investigatoris",
+"ott_id": 6521227,
+"parent": 7695040,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1310478",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11"
+},
+{
+"adjusted_label": "Grimothea gregaria",
+"comment": "Adding genus to OTOL",
+"name": "Grimothea",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Munida gregaria",
+"ott_id": 6521228,
+"parent": 757798,
+"rank": "genus",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=387302",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu4"
+},
+{
+"adjusted_label": "Curtonida isos",
+"comment": "Adding genus to OTOL",
+"name": "Curtonida",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Munida isos",
+"ott_id": 6521229,
+"parent": 757798,
+"rank": "genus",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1605784",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu5"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
