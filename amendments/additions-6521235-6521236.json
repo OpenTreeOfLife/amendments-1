@@ -1,0 +1,56 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-08-26T18:10:35.419Z",
+"id": "additions-6521235-6521236",
+"new_ottids_required": 2,
+"study_id": "ot_2880",
+"taxa": [
+{
+"adjusted_label": "Macrobrachium amazonensis",
+"comment": "Pseudopalaemon is a junior synonym of Macrobrachium.",
+"name": "Macrobrachium amazonensis",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Pseudopalaemon amazonensis",
+"ott_id": 6521235,
+"parent": 736328,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1829233",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu16"
+},
+{
+"adjusted_label": "Macrobrachium bouvieri",
+"comment": "Pseudopalaemon is a junior synonym of Macrobrachium.",
+"name": "Macrobrachium bouvieri",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Pseudopalaemon bouvieri",
+"ott_id": 6521236,
+"parent": 736328,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+},
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1829234",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu25"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
