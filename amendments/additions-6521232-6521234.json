@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "valeria.ensenatrivera@gwmail.gwu.edu",
+"login": "v-ensenat",
+"name": "Valeria Ensenat Rivera"
+},
+"date_created": "2025-08-26T18:07:47.066Z",
+"id": "additions-6521232-6521234",
+"new_ottids_required": 3,
+"study_id": "ot_2880",
+"taxa": [
+{
+"adjusted_label": "Macrobrachium perspicax",
+"comment": "",
+"name": "Macrobrachium perspicax",
+"name_derivation": "No change to original label",
+"original_label": "Macrobrachium perspicax",
+"ott_id": 6521232,
+"parent": 736328,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1774144",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu22"
+},
+{
+"adjusted_label": "Palaemon mexicanus",
+"comment": "_Palaemon mexicanus_ is still a proper species.",
+"name": "Palaemon mexicanus",
+"name_derivation": "No change to original label",
+"original_label": "Palaemon mexicanus",
+"ott_id": 6521233,
+"parent": 736314,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=932397",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu36"
+},
+{
+"adjusted_label": "Macrobrachium chryseus",
+"comment": "",
+"name": "Macrobrachium chryseus",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Pseudopalaemon chryseus",
+"ott_id": 6521234,
+"parent": 736328,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu18"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
