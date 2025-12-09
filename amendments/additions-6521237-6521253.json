@@ -1,0 +1,303 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2025-12-09T18:30:10.101Z",
+"id": "additions-6521237-6521253",
+"new_ottids_required": 17,
+"study_id": "ot_2770",
+"taxa": [
+{
+"adjusted_label": "Piaya mexicana",
+"comment": "",
+"name": "Piaya mexicana",
+"name_derivation": "No change to original label",
+"original_label": "Piaya mexicana",
+"ott_id": 6521237,
+"parent": 891424,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2025/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11148"
+},
+{
+"adjusted_label": "Gygis microrhyncha",
+"comment": "",
+"name": "Gygis microrhyncha",
+"name_derivation": "No change to original label",
+"original_label": "Gygis microrhyncha",
+"ott_id": 6521238,
+"parent": 915896,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2025/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11149"
+},
+{
+"adjusted_label": "Butorides atricapilla",
+"comment": "",
+"name": "Butorides atricapilla",
+"name_derivation": "No change to original label",
+"original_label": "Butorides atricapilla",
+"ott_id": 6521239,
+"parent": 922697,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2025/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11150"
+},
+{
+"adjusted_label": "Myiopsitta luchsi",
+"comment": "",
+"name": "Myiopsitta luchsi",
+"name_derivation": "No change to original label",
+"original_label": "Myiopsitta luchsi",
+"ott_id": 6521240,
+"parent": 547248,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2025/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11151"
+},
+{
+"adjusted_label": "Thamnophilus shumbae",
+"comment": "",
+"name": "Thamnophilus shumbae",
+"name_derivation": "No change to original label",
+"original_label": "Thamnophilus shumbae",
+"ott_id": 6521241,
+"parent": 799167,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2025/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11152"
+},
+{
+"adjusted_label": "Formicarius destructus",
+"comment": "",
+"name": "Formicarius destructus",
+"name_derivation": "No change to original label",
+"original_label": "Formicarius destructus",
+"ott_id": 6521242,
+"parent": 799161,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2025/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11153"
+},
+{
+"adjusted_label": "Asthenes huancavelicae",
+"comment": "",
+"name": "Asthenes huancavelicae",
+"name_derivation": "No change to original label",
+"original_label": "Asthenes huancavelicae",
+"ott_id": 6521243,
+"parent": 464863,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2025/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11154"
+},
+{
+"adjusted_label": "Asthenes arequipae",
+"comment": "",
+"name": "Asthenes arequipae",
+"name_derivation": "No change to original label",
+"original_label": "Asthenes arequipae",
+"ott_id": 6521244,
+"parent": 464863,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2025/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11155"
+},
+{
+"adjusted_label": "Cranioleuca weskei",
+"comment": "",
+"name": "Cranioleuca weskei",
+"name_derivation": "No change to original label",
+"original_label": "Cranioleuca weskei",
+"ott_id": 6521245,
+"parent": 478664,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2025/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11156"
+},
+{
+"adjusted_label": "Myiarchus flavidior",
+"comment": "",
+"name": "Myiarchus flavidior",
+"name_derivation": "No change to original label",
+"original_label": "Myiarchus flavidior",
+"ott_id": 6521246,
+"parent": 827281,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2025/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11157"
+},
+{
+"adjusted_label": "Tunchiornis luteifrons",
+"comment": "",
+"name": "Tunchiornis luteifrons",
+"name_derivation": "No change to original label",
+"original_label": "Tunchiornis luteifrons",
+"ott_id": 6521247,
+"parent": 604017,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2025/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11158"
+},
+{
+"adjusted_label": "Vireo swainsoni",
+"comment": "",
+"name": "Vireo swainsoni",
+"name_derivation": "No change to original label",
+"original_label": "Vireo swainsoni",
+"ott_id": 6521248,
+"parent": 604021,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2025/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11159"
+},
+{
+"adjusted_label": "Granatellus paraensis",
+"comment": "",
+"name": "Granatellus paraensis",
+"name_derivation": "No change to original label",
+"original_label": "Granatellus paraensis",
+"ott_id": 6521249,
+"parent": 335231,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2025/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11160"
+},
+{
+"adjusted_label": "Dubusia carrikeri",
+"comment": "",
+"name": "Dubusia carrikeri",
+"name_derivation": "No change to original label",
+"original_label": "Dubusia carrikeri",
+"ott_id": 6521250,
+"parent": 693661,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2025/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11161"
+},
+{
+"adjusted_label": "Dubusia stictocephala",
+"comment": "",
+"name": "Dubusia stictocephala",
+"name_derivation": "No change to original label",
+"original_label": "Dubusia stictocephala",
+"ott_id": 6521251,
+"parent": 693661,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2025/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11162"
+},
+{
+"adjusted_label": "Stilpnia whitelyi",
+"comment": "",
+"name": "Stilpnia whitelyi",
+"name_derivation": "No change to original label",
+"original_label": "Stilpnia whitelyi",
+"ott_id": 6521252,
+"parent": 445866,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2025/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11164"
+},
+{
+"adjusted_label": "Cnemoscopus chrysogaster",
+"comment": "",
+"name": "Cnemoscopus chrysogaster",
+"name_derivation": "No change to original label",
+"original_label": "Cnemoscopus chrysogaster",
+"ott_id": 6521253,
+"parent": 508021,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2025/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu11165"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
