@@ -1,0 +1,1510 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-03-19T07:53:10.707Z",
+"id": "additions-6521255-6521342",
+"new_ottids_required": 88,
+"study_id": "ot_3137",
+"taxa": [
+{
+"adjusted_label": "Alsophila sundueana",
+"comment": "",
+"name": "Alsophila sundueana",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Alsophila sundueana  2600189",
+"ott_id": 6521255,
+"parent": 53200,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60478477-2",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu1065"
+},
+{
+"adjusted_label": "Gymnosphaera bachmaensis",
+"comment": "",
+"name": "Gymnosphaera bachmaensis",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Gymnosphaera bachmaensis  2598504",
+"ott_id": 6521256,
+"parent": 5918710,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/77307909-1",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu1112"
+},
+{
+"adjusted_label": "Gymnosphaera bonii",
+"comment": "",
+"name": "Gymnosphaera bonii",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Gymnosphaera bonii  2790331",
+"ott_id": 6521257,
+"parent": 5918710,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.worldfloraonline.org/taxon/wfo-1000041435;jsessionid=1A0D8F98FE6DC3B71BC22F842C213FE5",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu1113"
+},
+{
+"adjusted_label": "Gymnosphaera saxicola",
+"comment": "",
+"name": "Gymnosphaera saxicola",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Gymnosphaera saxicola  2790329",
+"ott_id": 6521258,
+"parent": 5918710,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1111/jse.12679",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1114"
+},
+{
+"adjusted_label": "Ptisana decipiens",
+"comment": "",
+"name": "Ptisana decipiens",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Ptisana decipiens  2800846",
+"ott_id": 6521259,
+"parent": 5308467,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/77213330-1",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu124"
+},
+{
+"adjusted_label": "Ptisana ambulans",
+"comment": "",
+"name": "Ptisana ambulans",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Ptisana ambulans  2800844",
+"ott_id": 6521260,
+"parent": 5308467,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77213329-1",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu125"
+},
+{
+"adjusted_label": "Lindsaea kohkongensis",
+"comment": "",
+"name": "Lindsaea kohkongensis",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Lindsaea kohkongensis  3299001",
+"ott_id": 6521261,
+"parent": 144715,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.11110/kjpt.2023.53.4.288",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1260"
+},
+{
+"adjusted_label": "Ptisana papuana",
+"comment": "",
+"name": "Ptisana papuana",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Ptisana papuana  2800848",
+"ott_id": 6521262,
+"parent": 5308467,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77213332-1",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu127"
+},
+{
+"adjusted_label": "Tmesipteris alticola",
+"comment": "",
+"name": "Tmesipteris alticola",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Tmesipteris alticola  3136035",
+"ott_id": 6521263,
+"parent": 918768,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1080/0028825X.2023.2240737",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu13"
+},
+{
+"adjusted_label": "Pteris rugosifolia",
+"comment": "",
+"name": "Pteris rugosifolia",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Pteris rugosifolia  2584909",
+"ott_id": 6521264,
+"parent": 5072,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1600/036364419X15562052252072",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1435"
+},
+{
+"adjusted_label": "Pteris subesquirolii",
+"comment": "",
+"name": "Pteris subesquirolii",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Pteris subesquirolii  2584910",
+"ott_id": 6521265,
+"parent": 5072,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1600/036364419X15562052252072",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1439"
+},
+{
+"adjusted_label": "Pteris pseudoamoena",
+"comment": "",
+"name": "Pteris pseudoamoena",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Pteris pseudoamoena  3040066",
+"ott_id": 6521266,
+"parent": 5072,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/phytotaxa.550.3.1",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1468"
+},
+{
+"adjusted_label": "Pteris pseudowulaiensis",
+"comment": "",
+"name": "Pteris pseudowulaiensis",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Pteris pseudowulaiensis  2919485",
+"ott_id": 6521267,
+"parent": 5072,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77233897-1/images",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu1517"
+},
+{
+"adjusted_label": "Pteris minor",
+"comment": "",
+"name": "Pteris minor",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Pteris minor  2048098",
+"ott_id": 6521268,
+"parent": 5072,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.inaturalist.org/taxa/1265702-Pteris-minor",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu1519"
+},
+{
+"adjusted_label": "Pteris austrotaiwanensis",
+"comment": "",
+"name": "Pteris austrotaiwanensis",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Pteris austrotaiwanensis  2919484",
+"ott_id": 6521269,
+"parent": 5072,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77233894-1",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu1527"
+},
+{
+"adjusted_label": "Pteris hovenkampii",
+"comment": "",
+"name": "Pteris hovenkampii",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Pteris hovenkampii  2846814",
+"ott_id": 6521270,
+"parent": 5072,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77254933-1",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu1551"
+},
+{
+"adjusted_label": "Cheilanthes qiaojiaensis",
+"comment": "",
+"name": "Cheilanthes qiaojiaensis",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Cheilanthes qiaojiaensis  2971132",
+"ott_id": 6521271,
+"parent": 448062,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/phytotaxa.514.3.4",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1756"
+},
+{
+"adjusted_label": "Pellaea muelleri",
+"comment": "",
+"name": "Pellaea muelleri",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Pellaea muelleri  414632",
+"ott_id": 6521272,
+"parent": 1075167,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77210306-1",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu1931"
+},
+{
+"adjusted_label": "Pellaea reynoldsii",
+"comment": "",
+"name": "Pellaea reynoldsii",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Pellaea reynoldsii  2830876",
+"ott_id": 6521273,
+"parent": 1075167,
+"rank": "species",
+"sources": [
+{
+"source": "https://intermountainbiota.org/portal/taxa/index.php?tid=394526&taxauthid=1&clid=5754",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu1932"
+},
+{
+"adjusted_label": "Adiantum japonicum",
+"comment": "",
+"name": "Adiantum japonicum",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Adiantum japonicum  2972542",
+"ott_id": 6521274,
+"parent": 164367,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.11646/phytotaxa.525.1.1",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu2130"
+},
+{
+"adjusted_label": "Haplopteris capillaris",
+"comment": "",
+"name": "Haplopteris capillaris",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Haplopteris capillaris  2516791",
+"ott_id": 6521275,
+"parent": 577799,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1600/036364419X15620113920545",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu2143"
+},
+{
+"adjusted_label": "Antrophyum kinabaluense",
+"comment": "",
+"name": "Antrophyum kinabaluense",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Antrophyum kinabaluense  3081841",
+"ott_id": 6521276,
+"parent": 290289,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/77326622-1",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu2195"
+},
+{
+"adjusted_label": "Antrophyum nambanense",
+"comment": "",
+"name": "Antrophyum nambanense",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Antrophyum nambanense  2778909",
+"ott_id": 6521277,
+"parent": 290289,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1600/036364420X15935294613419",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu2205"
+},
+{
+"adjusted_label": "Trichomanes singaporianum",
+"comment": "",
+"name": "Trichomanes singaporianum",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Trichomanes singaporianum  3376649",
+"ott_id": 6521278,
+"parent": 774276,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17364100-1",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu223"
+},
+{
+"adjusted_label": "Ceratopteris chunii",
+"comment": "",
+"name": "Ceratopteris chunii",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Ceratopteris chunii  2784540",
+"ott_id": 6521279,
+"parent": 190948,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1016/j.pld.2021.10.002",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu2230"
+},
+{
+"adjusted_label": "Ceratopteris chingii",
+"comment": "",
+"name": "Ceratopteris chingii",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Ceratopteris chingii  2784539",
+"ott_id": 6521280,
+"parent": 190948,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1016/j.pld.2021.10.002",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu2231"
+},
+{
+"adjusted_label": "Ceratopteris shingii",
+"comment": "",
+"name": "Ceratopteris shingii",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Ceratopteris shingii  2750832",
+"ott_id": 6521281,
+"parent": 190948,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.11646/phytotaxa.449.1.3",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu2232"
+},
+{
+"adjusted_label": "Abrodictyum inexpectatum",
+"comment": "",
+"name": "Abrodictyum inexpectatum",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Abrodictyum inexpectatum  3038991",
+"ott_id": 6521282,
+"parent": 534101,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/77306610-1",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu241"
+},
+{
+"adjusted_label": "Leptogramma chandrae",
+"comment": "",
+"name": "Thelypteris chandrae",
+"name_derivation": "Label is a synonym",
+"original_label": "Leptogramma chandrae  2713334",
+"ott_id": 6521283,
+"parent": 915098,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.ipni.org/n/60457890-2",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu2565"
+},
+{
+"adjusted_label": "Leptogramma intermedia",
+"comment": "",
+"name": "Leptogramma intermedia",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Leptogramma intermedia  2552190",
+"ott_id": 6521284,
+"parent": 98518,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77209349-1",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu2568"
+},
+{
+"adjusted_label": "Woodsia kungiana",
+"comment": "",
+"name": "Woodsia kungiana",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Woodsia kungiana  2706193",
+"ott_id": 6521285,
+"parent": 956423,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/phytotaxa.397.3.5",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu2602"
+},
+{
+"adjusted_label": "Blechnum rivulorum",
+"comment": "",
+"name": "Blechnum rivulorum",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Blechnum rivulorum  2997172",
+"ott_id": 6521286,
+"parent": 340305,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/77312889-1",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu2671"
+},
+{
+"adjusted_label": "Athyrium aberrans",
+"comment": "",
+"name": "Athyrium aberrans",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Athyrium aberrans  2952836",
+"ott_id": 6521287,
+"parent": 195649,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/phytotaxa.533.3.2",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3039"
+},
+{
+"adjusted_label": "Asplenium guodanum",
+"comment": "",
+"name": "Asplenium guodanum",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Asplenium guodanum  3149327",
+"ott_id": 6521288,
+"parent": 38492,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.3897/phytokeys.241.122789",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3259"
+},
+{
+"adjusted_label": "Asplenium truncatilobum",
+"comment": "",
+"name": "Asplenium truncatilobum",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Asplenium truncatilobum  3376188",
+"ott_id": 6521289,
+"parent": 38492,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17267020-1#synonyms",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu3349"
+},
+{
+"adjusted_label": "Asplenium simaoense",
+"comment": "",
+"name": "Asplenium simaoense",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Asplenium simaoense  2496798",
+"ott_id": 6521290,
+"parent": 38492,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1600/036364419X15620113920554",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3442"
+},
+{
+"adjusted_label": "Asplenium maguanense",
+"comment": "",
+"name": "Asplenium maguanense",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Asplenium maguanense  2764729",
+"ott_id": 6521291,
+"parent": 38492,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77215218-1#publications",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu3452"
+},
+{
+"adjusted_label": "Asplenium danxiaense",
+"comment": "",
+"name": "Asplenium danxiaense",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Asplenium danxiaense  2992079",
+"ott_id": 6521292,
+"parent": 38492,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.5852/ejt.2022.798.1679",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3453"
+},
+{
+"adjusted_label": "Asplenium delinghaense",
+"comment": "",
+"name": "Asplenium delinghaense",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Asplenium delinghaense  3051392",
+"ott_id": 6521293,
+"parent": 38492,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.14258/turczaninowia.25.4.17",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3464"
+},
+{
+"adjusted_label": "Hymenasplenium nigricostatum",
+"comment": "",
+"name": "Hymenasplenium nigricostatum",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Hymenasplenium nigricostatum  3376693",
+"ott_id": 6521294,
+"parent": 425652,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77202271-1",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu3473"
+},
+{
+"adjusted_label": "Hymenasplenium tholiformis",
+"comment": "",
+"name": "Hymenasplenium tholiformis",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Hymenasplenium tholiformis  3028085",
+"ott_id": 6521295,
+"parent": 425652,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.3897/phytokeys.204.85746",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3477"
+},
+{
+"adjusted_label": "Hymenasplenium obtusidentatum",
+"comment": "",
+"name": "Hymenasplenium obtusidentatum",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Hymenasplenium obtusidentatum  3020471",
+"ott_id": 6521296,
+"parent": 425652,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/77306994-1",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu3478"
+},
+{
+"adjusted_label": "Hymenasplenium sabahense",
+"comment": "",
+"name": "Hymenasplenium sabahense",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Hymenasplenium sabahense  3376694",
+"ott_id": 6521297,
+"parent": 425652,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/phytotaxa.416.1.4",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3487"
+},
+{
+"adjusted_label": "Vandenboschia confusa",
+"comment": "",
+"name": "Vandenboschia confusa",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Vandenboschia confusa  2940215",
+"ott_id": 6521298,
+"parent": 290290,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.1080/23818107.2022.2062445",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu350"
+},
+{
+"adjusted_label": "Hypodematium taiwanense",
+"comment": "",
+"name": "Hypodematium taiwanense",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Hypodematium taiwanense  2893549",
+"ott_id": 6521299,
+"parent": 241622,
+"rank": "species",
+"sources": [
+{
+"source": "https://nametool.taicol.tw/en-us/taxon-names/22569",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu3516"
+},
+{
+"adjusted_label": "Hypodematium chrysolepis",
+"comment": "",
+"name": "Hypodematium chrysolepis",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Hypodematium chrysolepis  2893532",
+"ott_id": 6521300,
+"parent": 241622,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/phytotaxa.524.2.4",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3517"
+},
+{
+"adjusted_label": "Hypodematium subglabrum",
+"comment": "",
+"name": "Hypodematium subglabrum",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Hypodematium subglabrum  2893548",
+"ott_id": 6521301,
+"parent": 241622,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/phytotaxa.487.2.2",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3520"
+},
+{
+"adjusted_label": "Hypodematium parvisorum",
+"comment": "",
+"name": "Hypodematium parvisorum",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Hypodematium parvisorum  2893544",
+"ott_id": 6521302,
+"parent": 241622,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/phytotaxa.487.2.2",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3521"
+},
+{
+"adjusted_label": "Hypodematium brevipilosum",
+"comment": "",
+"name": "Hypodematium brevipilosum",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Hypodematium brevipilosum  2893531",
+"ott_id": 6521303,
+"parent": 241622,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/phytotaxa.487.2.2",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3522"
+},
+{
+"adjusted_label": "Hypodematium truncatum",
+"comment": "",
+"name": "Hypodematium truncatum",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Hypodematium truncatum  2893550",
+"ott_id": 6521304,
+"parent": 241622,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/phytotaxa.487.2.2",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3524"
+},
+{
+"adjusted_label": "Hypodematium shingii",
+"comment": "",
+"name": "Hypodematium shingii",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Hypodematium shingii  2893546",
+"ott_id": 6521305,
+"parent": 241622,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.11646/phytotaxa.482.1.10",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3526"
+},
+{
+"adjusted_label": "Hypodematium eglandulosum",
+"comment": "",
+"name": "Hypodematium eglandulosum",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Hypodematium eglandulosum  2893537",
+"ott_id": 6521306,
+"parent": 241622,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/phytotaxa.524.2.4",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3527"
+},
+{
+"adjusted_label": "Dryopteris huongii",
+"comment": "",
+"name": "Dryopteris huongii",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Dryopteris huongii  3042622",
+"ott_id": 6521307,
+"parent": 41618,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.1600/036364423X16847773873161",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3598"
+},
+{
+"adjusted_label": "Arachniodes vietnamensis",
+"comment": "",
+"name": "Arachniodes vietnamensis",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Arachniodes vietnamensis  3376129",
+"ott_id": 6521308,
+"parent": 424211,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.11646/phytotaxa.522.3.9",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3786"
+},
+{
+"adjusted_label": "Polystichum xinfeniae",
+"comment": "",
+"name": "Polystichum xinfeniae",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Polystichum xinfeniae  3122057",
+"ott_id": 6521309,
+"parent": 293159,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/phytotaxa.618.1.2",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3949"
+},
+{
+"adjusted_label": "Polystichum wusugongii",
+"comment": "",
+"name": "Polystichum wusugongii",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Polystichum wusugongii  3122058",
+"ott_id": 6521310,
+"parent": 293159,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/phytotaxa.618.1.2",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3963"
+},
+{
+"adjusted_label": "Polystichum sunhangii",
+"comment": "",
+"name": "Polystichum sunhangii",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Polystichum sunhangii  3122056",
+"ott_id": 6521311,
+"parent": 293159,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/phytotaxa.618.1.2",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu4061"
+},
+{
+"adjusted_label": "Polystichum lilianiae",
+"comment": "",
+"name": "Polystichum lilianiae",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Polystichum lilianiae  2829516",
+"ott_id": 6521312,
+"parent": 293159,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1663/0007-196X(2003)055[0317:PLSNDA]2.0.CO;2",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu4105"
+},
+{
+"adjusted_label": "Ophioderma redactophyllum",
+"comment": "",
+"name": "Ophioderma redactophyllum",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Ophioderma redactophyllum  2705724",
+"ott_id": 6521313,
+"parent": 7045110,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/phytotaxa.422.1.7",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu42"
+},
+{
+"adjusted_label": "Bolbitis lianhuachihensis",
+"comment": "",
+"name": "Bolbitis lianhuachihensis",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Bolbitis lianhuachihensis  2584908",
+"ott_id": 6521314,
+"parent": 579414,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.3897/phytokeys.131.36548",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu4232"
+},
+{
+"adjusted_label": "Polystichopsis argillicola",
+"comment": "",
+"name": "Polystichopsis argillicola",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Polystichopsis argillicola  2749839",
+"ott_id": 6521315,
+"parent": 198587,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:207924-2",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu4481"
+},
+{
+"adjusted_label": "Cyclodium alansmithii",
+"comment": "",
+"name": "Cyclodium alansmithii",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Cyclodium alansmithii  2749838",
+"ott_id": 6521316,
+"parent": 817467,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.3372/wi.50.50213",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu4490"
+},
+{
+"adjusted_label": "Lomariopsis longini",
+"comment": "",
+"name": "Lomariopsis longini",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Lomariopsis longini  1790074",
+"ott_id": 6521317,
+"parent": 1054392,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.3897/phytokeys.187.77035",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu4511"
+},
+{
+"adjusted_label": "Lomariopsis moorei",
+"comment": "",
+"name": "Lomariopsis moorei",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Lomariopsis moorei  2912857",
+"ott_id": 6521318,
+"parent": 1054392,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.3897/phytokeys.187.77035",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu4516"
+},
+{
+"adjusted_label": "Tectaria fungii",
+"comment": "",
+"name": "Tectaria fungii",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Tectaria fungii  2509154",
+"ott_id": 6521319,
+"parent": 18532,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.3897/phytokeys.195.80452",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu4588"
+},
+{
+"adjusted_label": "Tectaria danangensis",
+"comment": "",
+"name": "Tectaria danangensis",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Tectaria danangensis  2938901",
+"ott_id": 6521320,
+"parent": 18532,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.3897/phytokeys.194.80129",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu4614"
+},
+{
+"adjusted_label": "Tomophyllum hayatae",
+"comment": "",
+"name": "Tomophyllum hayatae",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Tomophyllum hayatae  3376995",
+"ott_id": 6521321,
+"parent": 5321216,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.6165/tai.2019.64.367",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu4796"
+},
+{
+"adjusted_label": "Grammitis blechnifrons",
+"comment": "",
+"name": "Grammitis blechnifrons",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Grammitis blechnifrons  3376880",
+"ott_id": 6521322,
+"parent": 517387,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.6165/tai.2019.64.367",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu4867"
+},
+{
+"adjusted_label": "Grammitis universa",
+"comment": "",
+"name": "Grammitis universa",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Grammitis universa  3376887",
+"ott_id": 6521323,
+"parent": 517387,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17396700-1",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu4874"
+},
+{
+"adjusted_label": "Themelium ctenoideum",
+"comment": "",
+"name": "Themelium ctenoideum",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Themelium ctenoideum  2869540",
+"ott_id": 6521324,
+"parent": 655499,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.worldfloraonline.org/taxon/wfo-0000145573",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu4877"
+},
+{
+"adjusted_label": "Themelium yoderi",
+"comment": "",
+"name": "Themelium yoderi",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Themelium yoderi  2869541",
+"ott_id": 6521325,
+"parent": 655499,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.worldfloraonline.org/taxon/wfo-0000145585",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu4878"
+},
+{
+"adjusted_label": "Oreogrammitis sumatrana",
+"comment": "",
+"name": "Oreogrammitis sumatrana",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Oreogrammitis sumatrana  2869533",
+"ott_id": 6521326,
+"parent": 5455754,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17396560-1",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu4893"
+},
+{
+"adjusted_label": "Oreogrammitis sinohirtella",
+"comment": "",
+"name": "Oreogrammitis sinohirtella",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Oreogrammitis sinohirtella  2869531",
+"ott_id": 6521327,
+"parent": 5455754,
+"rank": "species",
+"sources": [
+{
+"source": "https://powo.science.kew.org/taxon/77133851-1#:~:text=First%20published%20in%20Fl.,a%20synonym%20of%20Grammitis%20sinohirtella",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu4908"
+},
+{
+"adjusted_label": "Hymenophyllum exquisitum",
+"comment": "",
+"name": "Hymenophyllum exquisitum",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Hymenophyllum exquisitum  3376696",
+"ott_id": 6521328,
+"parent": 1065300,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1600/036364419x15710776741413",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu493"
+},
+{
+"adjusted_label": "Lellingeria cantarensis",
+"comment": "",
+"name": "Lellingeria cantarensis",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Lellingeria cantarensis  2952555",
+"ott_id": 6521329,
+"parent": 1026618,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1640/0002-8444-111.3.159",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu4977"
+},
+{
+"adjusted_label": "Selliguea wusugongii",
+"comment": "",
+"name": "Selliguea wusugongii",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Selliguea wusugongii  2824935",
+"ott_id": 6521330,
+"parent": 294550,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.11646/phytotaxa.480.1.5",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu5297"
+},
+{
+"adjusted_label": "Thylacopteris minuta",
+"comment": "",
+"name": "Thylacopteris minuta",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Thylacopteris minuta  2954775",
+"ott_id": 6521331,
+"parent": 977445,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.3897/phytokeys.199.83107",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu5342"
+},
+{
+"adjusted_label": "Lepisorus medioximus",
+"comment": "",
+"name": "Lepisorus medioximus",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Lepisorus medioximus  2949665",
+"ott_id": 6521332,
+"parent": 41531,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.3897/phytokeys.201.84911",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu5419"
+},
+{
+"adjusted_label": "Lepisorus rufofuscus",
+"comment": "",
+"name": "Lepisorus rufofuscus",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Lepisorus rufofuscus  3043755",
+"ott_id": 6521333,
+"parent": 41531,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.18942/apg.202213",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu5426"
+},
+{
+"adjusted_label": "Lepisorus hederaceus",
+"comment": "",
+"name": "Lepisorus hederaceum",
+"name_derivation": "Typo in original label",
+"original_label": "Lepisorus hederaceus  2746214",
+"ott_id": 6521334,
+"parent": 41531,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.worldfloraonline.org/taxon/wfo-0001127516;jsessionid=D6592D912524832C8E97706EE09FF9FA",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu5459"
+},
+{
+"adjusted_label": "Leptochilus gracilis",
+"comment": "",
+"name": "Leptochilus gracilis",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Leptochilus gracilis  2825846",
+"ott_id": 6521335,
+"parent": 230165,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.11646/phytotaxa.468.1.7",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu5506"
+},
+{
+"adjusted_label": "Dendroconche sayeri",
+"comment": "",
+"name": "Microsorum sayeri",
+"name_derivation": "Label is a synonym",
+"original_label": "Dendroconche sayeri  2698818",
+"ott_id": 6521336,
+"parent": 23159,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.aboutferns.org/Default.aspx?pid=5923#:~:text=HorticulturalDistributionIn%20NatureBotanical-,Dendroconche,Between%206.3%20and%207.2",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu5524"
+},
+{
+"adjusted_label": "Ceratozamia osbornei",
+"comment": "",
+"name": "Ceratozamia osbornei",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Ceratozamia osbornei  3143697",
+"ott_id": 6521337,
+"parent": 379052,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.3897/phytokeys.208.80382",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu5639"
+},
+{
+"adjusted_label": "Ceratozamia oliversacksii",
+"comment": "",
+"name": "Ceratozamia oliversacksii",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Ceratozamia oliversacksii  3143698",
+"ott_id": 6521338,
+"parent": 379052,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1007/s12225-021-09992-x",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu5640"
+},
+{
+"adjusted_label": "Ceratozamia leptoceras",
+"comment": "",
+"name": "Ceratozamia leptoceras",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Ceratozamia leptoceras  2779327",
+"ott_id": 6521339,
+"parent": 379052,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.3390/taxonomy1030018",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu5642"
+},
+{
+"adjusted_label": "Cyathea catenata",
+"comment": "",
+"name": "Cyathea catenata",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Cyathea catenata  2600178",
+"ott_id": 6521340,
+"parent": 373841,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.1640/0002-8444-109.2.77",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu831"
+},
+{
+"adjusted_label": "Cyathea tejedoris",
+"comment": "",
+"name": "Cyathea tejedoris",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Cyathea tejedoris  2600179",
+"ott_id": 6521341,
+"parent": 373841,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.1640/0002-8444-109.2.77",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu834"
+},
+{
+"adjusted_label": "Botrychium furculatum",
+"comment": "",
+"name": "Botrychium furculatum",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Botrychium furculatum  2060347",
+"ott_id": 6521342,
+"parent": 687363,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1640/0002-8444-110.4.165",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu85"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
