@@ -1,0 +1,82 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-03-23T06:39:34.861Z",
+"id": "additions-6521343-6521346",
+"new_ottids_required": 4,
+"study_id": "ot_3134",
+"taxa": [
+{
+"adjusted_label": "Cyanidiococcus yangmingshanensis",
+"comment": "I was unsure what to do with a previously undescribed species that had a new genus described alongside it. Thus, I selected the closest described clade to the species (Cyanidiophyceae)",
+"name": "Cyanidiococcus yangmingshanensis",
+"name_derivation": "No change to original label",
+"original_label": "Cyanidiococcus yangmingshanensis",
+"ott_id": 6521343,
+"parent": 5579016,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1111/jpy.13056",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu156"
+},
+{
+"adjusted_label": "Neustupella aerophytica",
+"comment": "Another gen nov. Still not sure what to do with them. I think I will reach out about this and other concerns after completely refining the studies I have added",
+"name": "Neustupella aerophytica",
+"name_derivation": "No change to original label",
+"original_label": "Neustupella aerophytica",
+"ott_id": 6521344,
+"parent": 6391472,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1016/j.ympev.2022.107607",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu175"
+},
+{
+"adjusted_label": "Lietzensia polymorpha",
+"comment": "",
+"name": "Lietzensia polymorpha",
+"name_derivation": "No change to original label",
+"original_label": "Lietzensia polymorpha",
+"ott_id": 6521345,
+"parent": 6391472,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1016/j.ympev.2022.107607",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu177"
+},
+{
+"adjusted_label": "Micractinium simplicissimum",
+"comment": "",
+"name": "Micractinium simplicissimum",
+"name_derivation": "No change to original label",
+"original_label": "Micractinium simplicissimum",
+"ott_id": 6521346,
+"parent": 395205,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.1080/23802359.2021.1886010",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu74"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
