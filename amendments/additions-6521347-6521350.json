@@ -1,0 +1,82 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-03-24T20:35:22.661Z",
+"id": "additions-6521347-6521350",
+"new_ottids_required": 4,
+"study_id": "ot_3144",
+"taxa": [
+{
+"adjusted_label": "Oscarella sabinae",
+"comment": "",
+"name": "Oscarella sabinae",
+"name_derivation": "No change to original label",
+"original_label": "Oscarella sabinae",
+"ott_id": 6521347,
+"parent": 266092,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu2"
+},
+{
+"adjusted_label": "Oscarella veronicae",
+"comment": "",
+"name": "Oscarella veronicae",
+"name_derivation": "No change to original label",
+"original_label": "Oscarella veronicae",
+"ott_id": 6521348,
+"parent": 266092,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu3"
+},
+{
+"adjusted_label": "Oscarella lunettae",
+"comment": "",
+"name": "Oscarella lunettae",
+"name_derivation": "No change to original label",
+"original_label": "Oscarella lunettae",
+"ott_id": 6521349,
+"parent": 266092,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6"
+},
+{
+"adjusted_label": "Oscarella fragilis",
+"comment": "",
+"name": "Oscarella fragilis",
+"name_derivation": "No change to original label",
+"original_label": "Oscarella fragilis",
+"ott_id": 6521350,
+"parent": 266092,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
