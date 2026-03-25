@@ -1,0 +1,150 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-03-25T04:35:43.438Z",
+"id": "additions-6521351-6521358",
+"new_ottids_required": 8,
+"study_id": "ot_3147",
+"taxa": [
+{
+"adjusted_label": "Plakina doudou",
+"comment": "",
+"name": "Plakina doudou",
+"name_derivation": "No change to original label",
+"original_label": "Plakina doudou",
+"ott_id": 6521351,
+"parent": 840873,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/zootaxa.4729.1.6",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1"
+},
+{
+"adjusted_label": "Aspiculortis garifuna",
+"comment": "",
+"name": "Aspiculortis garifuna",
+"name_derivation": "No change to original label",
+"original_label": "Aspiculortis garifuna",
+"ott_id": 6521352,
+"parent": 196338,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/zootaxa.5200.2.2",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu11"
+},
+{
+"adjusted_label": "Plakinastrella fauvelotae",
+"comment": "",
+"name": "Plakinastrella fauvelotae",
+"name_derivation": "No change to original label",
+"original_label": "Plakinastrella fauvelotae",
+"ott_id": 6521353,
+"parent": 697214,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu12"
+},
+{
+"adjusted_label": "Plakinastrella freitasi",
+"comment": "",
+"name": "Plakinastrella freitasi",
+"name_derivation": "No change to original label",
+"original_label": "Plakinastrella freitasi",
+"ott_id": 6521354,
+"parent": 697214,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu14"
+},
+{
+"adjusted_label": "Aspiculophora papillata",
+"comment": "",
+"name": "Aspiculophora papillata",
+"name_derivation": "No change to original label",
+"original_label": "Aspiculophora papillata",
+"ott_id": 6521355,
+"parent": 7509979,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/zootaxa.5200.2.2",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu17"
+},
+{
+"adjusted_label": "Oscarella minka",
+"comment": "",
+"name": "Oscarella minka",
+"name_derivation": "No change to original label",
+"original_label": "Oscarella minka",
+"ott_id": 6521356,
+"parent": 266092,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/zootaxa.5200.2.2",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu27"
+},
+{
+"adjusted_label": "Oscarella antea",
+"comment": "",
+"name": "Oscarella antea",
+"name_derivation": "No change to original label",
+"original_label": "Oscarella antea",
+"ott_id": 6521357,
+"parent": 266092,
+"rank": "species",
+"sources": [
+{
+"source": "Oscarella antea",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu29"
+},
+{
+"adjusted_label": "Aspiculina malanoba",
+"comment": "",
+"name": "Aspiculina malanoba",
+"name_derivation": "No change to original label",
+"original_label": "Aspiculina malanoba",
+"ott_id": 6521358,
+"parent": 5653615,
+"rank": "species",
+"sources": [
+{
+"source": "",
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu6"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
