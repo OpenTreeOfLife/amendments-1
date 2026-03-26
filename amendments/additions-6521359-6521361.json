@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-03-26T07:21:29.863Z",
+"id": "additions-6521359-6521361",
+"new_ottids_required": 3,
+"study_id": "ot_3153",
+"taxa": [
+{
+"adjusted_label": "Leucopsila pacifica",
+"comment": "",
+"name": "Leucopsila pacifica",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Leucopsila pacifica sp. nov. ON408420",
+"ott_id": 6521359,
+"parent": 2842452,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10"
+},
+{
+"adjusted_label": "Leucopsila hexactina",
+"comment": "",
+"name": "Leucopsila hexactina",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Leucopsila hexactina sp. nov. ON408422",
+"ott_id": 6521360,
+"parent": 2842452,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu11"
+},
+{
+"adjusted_label": "Leuconia pilosa",
+"comment": "",
+"name": "Leuconia pilosa",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Leuconia pilosa sp. nov. ON408423",
+"ott_id": 6521361,
+"parent": 599354,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu13"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
