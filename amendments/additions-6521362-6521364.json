@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-03-27T20:48:22.084Z",
+"id": "additions-6521362-6521364",
+"new_ottids_required": 3,
+"study_id": "ot_3160",
+"taxa": [
+{
+"adjusted_label": "Ernstia variabilis",
+"comment": "",
+"name": "Ernstia variabilis",
+"name_derivation": "No change to original label",
+"original_label": "Ernstia variabilis",
+"ott_id": 6521362,
+"parent": 5260760,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu46"
+},
+{
+"adjusted_label": "Leucandra tahuatae",
+"comment": "",
+"name": "Leucandra tahuatae",
+"name_derivation": "No change to original label",
+"original_label": "Leucandra tahuatae",
+"ott_id": 6521363,
+"parent": 948677,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu76"
+},
+{
+"adjusted_label": "Clathrina huahineae",
+"comment": "",
+"name": "Clathrina huahineae",
+"name_derivation": "No change to original label",
+"original_label": "Clathrina huahineae",
+"ott_id": 6521364,
+"parent": 606955,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu9"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
