@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-03-28T03:54:04.170Z",
+"id": "additions-6521365-6521365",
+"new_ottids_required": 1,
+"study_id": "ot_3163",
+"taxa": [
+{
+"adjusted_label": "Abyssocladia fryerae",
+"comment": "",
+"name": "Abyssocladia fryerae",
+"name_derivation": "No change to original label",
+"original_label": "Abyssocladia fryerae",
+"ott_id": 6521365,
+"parent": 730157,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu12"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
