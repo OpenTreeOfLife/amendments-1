@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-03-29T23:15:54.361Z",
+"id": "additions-6521386-6521386",
+"new_ottids_required": 1,
+"study_id": "ot_3172",
+"taxa": [
+{
+"adjusted_label": "Nigrohirschioporus fissilis",
+"comment": "",
+"name": "Nigrohirschioporus fissilis",
+"name_derivation": "No change to original label",
+"original_label": "Nigrohirschioporus fissilis",
+"ott_id": 6521386,
+"parent": 1044749,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/phytotaxa.482.2.8",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu22"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
