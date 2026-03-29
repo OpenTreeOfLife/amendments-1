@@ -1,0 +1,184 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-03-29T23:08:26.357Z",
+"id": "additions-6521370-6521379",
+"new_ottids_required": 10,
+"study_id": "ot_3172",
+"taxa": [
+{
+"adjusted_label": "Hirschioporus acontextus",
+"comment": "",
+"name": "Hirschioporus acontextus",
+"name_derivation": "No change to original label",
+"original_label": "Hirschioporus acontextus",
+"ott_id": 6521370,
+"parent": 1044749,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.5943/mycosphere/14/1/11",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu10"
+},
+{
+"adjusted_label": "Hirschioporus floridanus",
+"comment": "",
+"name": "Hirschioporus floridanus",
+"name_derivation": "No change to original label",
+"original_label": "Hirschioporus floridanus",
+"ott_id": 6521371,
+"parent": 1044749,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.5943/mycosphere/14/1/11",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu12"
+},
+{
+"adjusted_label": "Pallidohirschioporus versicolor",
+"comment": "",
+"name": "Pallidohirschioporus versicolor",
+"name_derivation": "No change to original label",
+"original_label": "Pallidohirschioporus versicolor",
+"ott_id": 6521372,
+"parent": 1044749,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.5943/mycosphere/14/1/11",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu17"
+},
+{
+"adjusted_label": "Hirschioporus pubescens",
+"comment": "",
+"name": "Hirschioporus pubescens",
+"name_derivation": "No change to original label",
+"original_label": "Hirschioporus pubescens",
+"ott_id": 6521373,
+"parent": 1044749,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.5943/mycosphere/14/1/11",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu2"
+},
+{
+"adjusted_label": "Nigrohirschioporus trimiticus",
+"comment": "",
+"name": "Nigrohirschioporus trimiticus",
+"name_derivation": "No change to original label",
+"original_label": "Nigrohirschioporus trimiticus",
+"ott_id": 6521374,
+"parent": 1044749,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.5943/mycosphere/14/1/11",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu27"
+},
+{
+"adjusted_label": "Hirschioporus beijingensis",
+"comment": "",
+"name": "Hirschioporus beijingensis",
+"name_derivation": "No change to original label",
+"original_label": "Hirschioporus beijingensis",
+"ott_id": 6521375,
+"parent": 1044749,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.5943/mycosphere/14/1/11",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu3"
+},
+{
+"adjusted_label": "Nigrohirschioporus submiurinus",
+"comment": "",
+"name": "Nigrohirschioporus submiurinus",
+"name_derivation": "No change to original label",
+"original_label": "Nigrohirschioporus submiurinus",
+"ott_id": 6521376,
+"parent": 1044749,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.5943/mycosphere/14/1/11",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu30"
+},
+{
+"adjusted_label": "Perennihirschioporus deadaleus",
+"comment": "",
+"name": "Perennihirschioporus deadaleus",
+"name_derivation": "No change to original label",
+"original_label": "Perennihirschioporus deadaleus",
+"ott_id": 6521377,
+"parent": 1044749,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.5943/mycosphere/14/1/11",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu36"
+},
+{
+"adjusted_label": "Hirschioporus chinensis",
+"comment": "",
+"name": "Hirschioporus chinensis",
+"name_derivation": "No change to original label",
+"original_label": "Hirschioporus chinensis",
+"ott_id": 6521378,
+"parent": 1044749,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.5943/mycosphere/14/1/11",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu4"
+},
+{
+"adjusted_label": "Hirschioporus tianschanicus",
+"comment": "",
+"name": "Hirschioporus tianschanicus",
+"name_derivation": "No change to original label",
+"original_label": "Hirschioporus tianschanicus",
+"ott_id": 6521379,
+"parent": 1044749,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.5943/mycosphere/14/1/11",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu7"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
