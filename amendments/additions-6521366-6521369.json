@@ -1,0 +1,82 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-03-29T22:00:18.651Z",
+"id": "additions-6521366-6521369",
+"new_ottids_required": 4,
+"study_id": "ot_3171",
+"taxa": [
+{
+"adjusted_label": "Gekko cib",
+"comment": "",
+"name": "Gekko cib",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Gekko cib SWU 0005256",
+"ott_id": 6521366,
+"parent": 190149,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/zootaxa.4951.2.2",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu41"
+},
+{
+"adjusted_label": "Gekko prep",
+"comment": "",
+"name": "Gekko prep",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Gekko prep SWU 0002787",
+"ott_id": 6521367,
+"parent": 190149,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/zootaxa.5633.3.6",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu14"
+},
+{
+"adjusted_label": "Gekko paucituberculatus",
+"comment": "",
+"name": "Gekko paucituberculatus",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Gekko paucituberculatus SWU 0008892",
+"ott_id": 6521368,
+"parent": 190149,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.3897/vz.74.e113899",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu29"
+},
+{
+"adjusted_label": "Gekko kaiyai",
+"comment": "",
+"name": "Gekko kaiyai",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Gekko kaiyai SWU 0010510",
+"ott_id": 6521369,
+"parent": 190149,
+"rank": "species",
+"sources": [
+{
+"source": "https://doi.org/10.3390/ani13243796",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu38"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
