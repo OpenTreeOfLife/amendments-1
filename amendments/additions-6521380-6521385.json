@@ -1,0 +1,116 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-03-29T23:12:30.914Z",
+"id": "additions-6521380-6521385",
+"new_ottids_required": 6,
+"study_id": "ot_3172",
+"taxa": [
+{
+"adjusted_label": "Nigrohirschioporus keylargoensis",
+"comment": "",
+"name": "Nigrohirschioporus keylargoensis",
+"name_derivation": "No change to original label",
+"original_label": "Nigrohirschioporus keylargoensis",
+"ott_id": 6521380,
+"parent": 1044749,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu21"
+},
+{
+"adjusted_label": "Nigrohirschioporus wuyiensis",
+"comment": "",
+"name": "Nigrohirschioporus wuyiensis",
+"name_derivation": "No change to original label",
+"original_label": "Nigrohirschioporus wuyiensis",
+"ott_id": 6521381,
+"parent": 1044749,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu29"
+},
+{
+"adjusted_label": "Perennihirschioporus caymanensis",
+"comment": "",
+"name": "Perennihirschioporus caymanensis",
+"name_derivation": "No change to original label",
+"original_label": "Perennihirschioporus caymanensis",
+"ott_id": 6521382,
+"parent": 1044749,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu33"
+},
+{
+"adjusted_label": "Trichaptum longisporum",
+"comment": "",
+"name": "Trichaptum longisporum",
+"name_derivation": "No change to original label",
+"original_label": "Trichaptum longisporum",
+"ott_id": 6521383,
+"parent": 1044749,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu39"
+},
+{
+"adjusted_label": "Trichaptum cystidiolatum",
+"comment": "",
+"name": "Trichaptum cystidiolatum",
+"name_derivation": "No change to original label",
+"original_label": "Trichaptum cystidiolatum",
+"ott_id": 6521384,
+"parent": 1044749,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu40"
+},
+{
+"adjusted_label": "Podocarpioporus hydnoides",
+"comment": "",
+"name": "Podocarpioporus hydnoides",
+"name_derivation": "No change to original label",
+"original_label": "Podocarpioporus hydnoides",
+"ott_id": 6521385,
+"parent": 1044749,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu51"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
