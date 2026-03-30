@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-03-30T00:03:46.613Z",
+"id": "additions-6521387-6521388",
+"new_ottids_required": 2,
+"study_id": "ot_3173",
+"taxa": [
+{
+"adjusted_label": "Phymatoceros verrucosporus",
+"comment": "",
+"name": "Phymatoceros verrucosporus",
+"name_derivation": "No change to original label",
+"original_label": "Phymatoceros verrucosporus",
+"ott_id": 6521387,
+"parent": 10857,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu18"
+},
+{
+"adjusted_label": "Paraphymatoceros luguhuensis",
+"comment": "",
+"name": "Paraphymatoceros luguhuensis",
+"name_derivation": "No change to original label",
+"original_label": "Paraphymatoceros luguhuensis",
+"ott_id": 6521388,
+"parent": 824279,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu32"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
