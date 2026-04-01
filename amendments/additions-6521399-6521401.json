@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-01T08:01:09.963Z",
+"id": "additions-6521399-6521401",
+"new_ottids_required": 3,
+"study_id": "ot_1732",
+"taxa": [
+{
+"adjusted_label": "Xenophrys tuberogranulatus",
+"comment": "",
+"name": "Boulenophrys tuberogranulata",
+"name_derivation": "Label is a synonym",
+"original_label": "Xenophrys tuberogranulatus",
+"ott_id": 6521399,
+"parent": 828160,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/V5B7R",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu1106"
+},
+{
+"adjusted_label": "Xenorhina arndti",
+"comment": "",
+"name": "Xenorhina arndti",
+"name_derivation": "No change to original label",
+"original_label": "Xenorhina arndti",
+"ott_id": 6521400,
+"parent": 635867,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/7FW7Y",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu5423"
+},
+{
+"adjusted_label": "Xenorhina brachyrhyncha",
+"comment": "",
+"name": "Xenorhina brachyrhyncha",
+"name_derivation": "No change to original label",
+"original_label": "Xenorhina brachyrhyncha",
+"ott_id": 6521401,
+"parent": 635867,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/7FW7Z",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu5426"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
