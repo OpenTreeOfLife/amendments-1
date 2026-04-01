@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-01T06:33:28.310Z",
+"id": "additions-6521392-6521394",
+"new_ottids_required": 3,
+"study_id": "ot_1990",
+"taxa": [
+{
+"adjusted_label": "Platyrrhinus fusciventris",
+"comment": "",
+"name": "Platyrrhinus fusciventris",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Platyrrhinus fusciventris PHYLLOSTOMIDAE CHIROPTERA",
+"ott_id": 6521392,
+"parent": 927289,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.1111/j.1096-3642.2009.00610.x",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1369"
+},
+{
+"adjusted_label": "Platyrrhinus angustirostris",
+"comment": "",
+"name": "Platyrrhinus angustirostris",
+"name_derivation": "Removing extraneous characters",
+"original_label": "Platyrrhinus angustirostris PHYLLOSTOMIDAE CHIROPTERA",
+"ott_id": 6521393,
+"parent": 927289,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.1111/j.1096-3642.2009.00610.x",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1370"
+},
+{
+"adjusted_label": "Petaurista marica",
+"comment": "",
+"name": "Petaurista elegans marica",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Petaurista marica SCIURIDAE RODENTIA",
+"ott_id": 6521394,
+"parent": 384210,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/7KK57",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu2467"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
