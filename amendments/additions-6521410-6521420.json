@@ -1,0 +1,201 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-01T23:04:39.949Z",
+"id": "additions-6521410-6521420",
+"new_ottids_required": 11,
+"study_id": "ot_1732",
+"taxa": [
+{
+"adjusted_label": "Brachycephalus guarani",
+"comment": "",
+"name": "Brachycephalus guarani",
+"name_derivation": "No change to original label",
+"original_label": "Brachycephalus guarani",
+"ott_id": 6521410,
+"parent": 719425,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/68Q9Z",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu1681"
+},
+{
+"adjusted_label": "Ischnocnema karst",
+"comment": "",
+"name": "Ischnocnema karst",
+"name_derivation": "No change to original label",
+"original_label": "Ischnocnema karst",
+"ott_id": 6521411,
+"parent": 7461,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/3Q4RW",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu1706"
+},
+{
+"adjusted_label": "Ischnocnema surda",
+"comment": "",
+"name": "Ischnocnema surda",
+"name_derivation": "No change to original label",
+"original_label": "Ischnocnema surda",
+"ott_id": 6521412,
+"parent": 7461,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/3Q4SN",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu1715"
+},
+{
+"adjusted_label": "Microcaecilia savagei",
+"comment": "",
+"name": "Microcaecilia savagei",
+"name_derivation": "No change to original label",
+"original_label": "Microcaecilia savagei",
+"ott_id": 6521413,
+"parent": 654633,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/42S5P",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu181"
+},
+{
+"adjusted_label": "Pristimantis abakapa",
+"comment": "",
+"name": "Pristimantis abakapa",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis abakapa",
+"ott_id": 6521414,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/4MJ8H",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu2092"
+},
+{
+"adjusted_label": "Pristimantis academicus",
+"comment": "",
+"name": "Pristimantis academicus",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis academicus",
+"ott_id": 6521415,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/4MJ8J",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu2093"
+},
+{
+"adjusted_label": "Pristimantis ardyae",
+"comment": "",
+"name": "Pristimantis ardyae",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis ardyae",
+"ott_id": 6521416,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/4MJ9Q",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu2131"
+},
+{
+"adjusted_label": "Pristimantis bellae",
+"comment": "",
+"name": "Pristimantis bellae",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis bellae",
+"ott_id": 6521417,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/77WHB",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu2151"
+},
+{
+"adjusted_label": "Pristimantis divnae",
+"comment": "",
+"name": "Pristimantis divnae",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis divnae",
+"ott_id": 6521418,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/4MJD8",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu2241"
+},
+{
+"adjusted_label": "Pristimantis farisorum",
+"comment": "",
+"name": "Pristimantis farisorum",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis farisorum",
+"ott_id": 6521419,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/6W8HK",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu2263"
+},
+{
+"adjusted_label": "Pristimantis loujosti",
+"comment": "",
+"name": "Pristimantis loujosti",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis loujosti",
+"ott_id": 6521420,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/4MJH2",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu2328"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
