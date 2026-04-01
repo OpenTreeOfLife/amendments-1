@@ -1,0 +1,82 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-01T07:42:45.105Z",
+"id": "additions-6521395-6521398",
+"new_ottids_required": 4,
+"study_id": "ot_1732",
+"taxa": [
+{
+"adjusted_label": "Leptobrachella nokrekensis",
+"comment": "",
+"name": "Leptobrachella nokrekensis",
+"name_derivation": "Label is a synonym",
+"original_label": "Leptobrachium nokrekensis",
+"ott_id": 6521395,
+"parent": 3618031,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.26515/rzsi/v109/i3/2009/158996",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1009"
+},
+{
+"adjusted_label": "Leptobrachella platycephala",
+"comment": "",
+"name": "Leptobrachella platycephala",
+"name_derivation": "Label is a synonym",
+"original_label": "Leptolalax platycephalus",
+"ott_id": 6521396,
+"parent": 3618031,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.researchgate.net/publication/266088151_A_new_species_of_the_genus_Leptolalax_Anura_Megophryidae_from_Gunung_Benom_Peninsular_Malaysia",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1042"
+},
+{
+"adjusted_label": "Leptobrachella tamdil",
+"comment": "",
+"name": "Leptobrachella tamdil",
+"name_derivation": "Label is a synonym",
+"original_label": "Leptolalax tamdil",
+"ott_id": 6521397,
+"parent": 3618031,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.3724/SP.J.1245.2013.00100",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1046"
+},
+{
+"adjusted_label": "Leptolalax zhangyapingi",
+"comment": "",
+"name": "Leptolalax zhangyapingi",
+"name_derivation": "No change to original label",
+"original_label": "Leptolalax zhangyapingi",
+"ott_id": 6521398,
+"parent": 828161,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.3724/SP.J.1245.2013.00100",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1048"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
