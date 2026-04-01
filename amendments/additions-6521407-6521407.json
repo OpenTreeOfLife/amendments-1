@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-01T22:49:59.080Z",
+"id": "additions-6521407-6521407",
+"new_ottids_required": 1,
+"study_id": "ot_1732",
+"taxa": [
+{
+"adjusted_label": "Anomaloglossus astralogaster",
+"comment": "",
+"name": "Anomaloglossus astralogaster",
+"name_derivation": "No change to original label",
+"original_label": "Anomaloglossus astralogaster",
+"ott_id": 6521407,
+"parent": 1059120,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.1206/3763.2",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1489"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
