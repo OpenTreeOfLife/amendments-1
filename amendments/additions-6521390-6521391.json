@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-01T04:58:17.939Z",
+"id": "additions-6521390-6521391",
+"new_ottids_required": 2,
+"study_id": "ot_3184",
+"taxa": [
+{
+"adjusted_label": "Ascandra mascarenica",
+"comment": "",
+"name": "Ascandra mascarenica",
+"name_derivation": "Typo in original label",
+"original_label": "Ascandra mascareine",
+"ott_id": 6521390,
+"parent": 868050,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.1093/zoolinnean/zlab014",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu30"
+},
+{
+"adjusted_label": "Ascandra oceanusvitae",
+"comment": "",
+"name": "Ascandra oceanusvitae",
+"name_derivation": "Typo in original label",
+"original_label": "Ascandra oceanuvistae",
+"ott_id": 6521391,
+"parent": 868050,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.1093/zoolinnean/zlab014",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu32"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
