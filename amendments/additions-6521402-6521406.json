@@ -1,0 +1,99 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-01T22:46:00.920Z",
+"id": "additions-6521402-6521406",
+"new_ottids_required": 5,
+"study_id": "ot_1732",
+"taxa": [
+{
+"adjusted_label": "Silverstoneia dalyi",
+"comment": "",
+"name": "Silverstoneia dalyi",
+"name_derivation": "No change to original label",
+"original_label": "Silverstoneia dalyi",
+"ott_id": 6521402,
+"parent": 467431,
+"rank": "species",
+"sources": [
+{
+"source": "https://digitallibrary.amnh.org/items/defb05e3-5e0a-469a-9a3a-21e5001c2b46",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1433"
+},
+{
+"adjusted_label": "Silverstoneia gutturalis",
+"comment": "",
+"name": "Silverstoneia gutturalis",
+"name_derivation": "No change to original label",
+"original_label": "Silverstoneia gutturalis",
+"ott_id": 6521403,
+"parent": 467431,
+"rank": "species",
+"sources": [
+{
+"source": "https://digitallibrary.amnh.org/items/defb05e3-5e0a-469a-9a3a-21e5001c2b46",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1436"
+},
+{
+"adjusted_label": "Silverstoneia minima",
+"comment": "",
+"name": "Silverstoneia minima",
+"name_derivation": "No change to original label",
+"original_label": "Silverstoneia minima",
+"ott_id": 6521404,
+"parent": 467431,
+"rank": "species",
+"sources": [
+{
+"source": "https://digitallibrary.amnh.org/items/defb05e3-5e0a-469a-9a3a-21e5001c2b46",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1437"
+},
+{
+"adjusted_label": "Silverstoneia minutissima",
+"comment": "",
+"name": "Silverstoneia minutissima",
+"name_derivation": "No change to original label",
+"original_label": "Silverstoneia minutissima",
+"ott_id": 6521405,
+"parent": 467431,
+"rank": "species",
+"sources": [
+{
+"source": "https://digitallibrary.amnh.org/items/defb05e3-5e0a-469a-9a3a-21e5001c2b46",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1438"
+},
+{
+"adjusted_label": "Silverstoneia punctiventris",
+"comment": "",
+"name": "Silverstoneia punctiventris",
+"name_derivation": "No change to original label",
+"original_label": "Silverstoneia punctiventris",
+"ott_id": 6521406,
+"parent": 467431,
+"rank": "species",
+"sources": [
+{
+"source": "https://digitallibrary.amnh.org/items/defb05e3-5e0a-469a-9a3a-21e5001c2b46",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1440"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
