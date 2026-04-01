@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-01T22:53:45.317Z",
+"id": "additions-6521408-6521408",
+"new_ottids_required": 1,
+"study_id": "ot_1732",
+"taxa": [
+{
+"adjusted_label": "Aromobates walterarpi",
+"comment": "",
+"name": "Aromobates walterarpi",
+"name_derivation": "No change to original label",
+"original_label": "Aromobates walterarpi",
+"ott_id": 6521408,
+"parent": 357382,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/GTRZ",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu1536"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
