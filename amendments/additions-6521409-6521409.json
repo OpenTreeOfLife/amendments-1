@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-01T22:54:56.078Z",
+"id": "additions-6521409-6521409",
+"new_ottids_required": 1,
+"study_id": "ot_1732",
+"taxa": [
+{
+"adjusted_label": "Stefania neblinae",
+"comment": "",
+"name": "Stefania neblinae",
+"name_derivation": "No change to original label",
+"original_label": "Stefania neblinae",
+"ott_id": 6521409,
+"parent": 787132,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.1670/07-169.1",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu1584"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
