@@ -1,0 +1,252 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-02T07:06:31.447Z",
+"id": "additions-6521437-6521450",
+"new_ottids_required": 14,
+"study_id": "ot_3194",
+"taxa": [
+{
+"adjusted_label": "Pristimantis guianensis",
+"comment": "",
+"name": "Pristimantis guianensis",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis guianensis",
+"ott_id": 6521437,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/SCDVS",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu15"
+},
+{
+"adjusted_label": "Pristimantis grandoculis",
+"comment": "",
+"name": "Pristimantis grandoculis",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis grandoculis",
+"ott_id": 6521438,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/SCDTR",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu17"
+},
+{
+"adjusted_label": "Pristimantis bowara",
+"comment": "",
+"name": "Pristimantis bowara",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis bowara",
+"ott_id": 6521439,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/SCCYP",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu26"
+},
+{
+"adjusted_label": "Pristimantis chamezensis",
+"comment": "",
+"name": "Pristimantis chamezensis",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis chamezensis",
+"ott_id": 6521440,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/SCC9P",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu29"
+},
+{
+"adjusted_label": "Pristimantis relictus",
+"comment": "",
+"name": "Pristimantis relictus",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis relictus",
+"ott_id": 6521441,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/SCGRX",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu33"
+},
+{
+"adjusted_label": "Pristimantis rupicola",
+"comment": "",
+"name": "Pristimantis rupicola",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis rupicola",
+"ott_id": 6521442,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/SCGX4",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu34"
+},
+{
+"adjusted_label": "Pristimantis ardilae",
+"comment": "",
+"name": "Pristimantis ardilae",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis ardilae",
+"ott_id": 6521443,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/SCCQP",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu37"
+},
+{
+"adjusted_label": "Pristimantis vinhai",
+"comment": "",
+"name": "Pristimantis vinhai",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis vinhai",
+"ott_id": 6521444,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/4MJRG",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu39"
+},
+{
+"adjusted_label": "Pristimantis moa",
+"comment": "",
+"name": "Pristimantis moa",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis moa",
+"ott_id": 6521445,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/SCFW4",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu45"
+},
+{
+"adjusted_label": "Pristimantis giorgii",
+"comment": "",
+"name": "Pristimantis giorgii",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis giorgii",
+"ott_id": 6521446,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/SCDS7",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu46"
+},
+{
+"adjusted_label": "Pristimantis pictus",
+"comment": "",
+"name": "Pristimantis pictus",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis pictus",
+"ott_id": 6521447,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/SCGGV",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu47"
+},
+{
+"adjusted_label": "Pristimantis karcharias",
+"comment": "",
+"name": "Pristimantis karcharias",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis karcharias",
+"ott_id": 6521448,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/4MJPB",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu52"
+},
+{
+"adjusted_label": "Pristimantis symptosus",
+"comment": "",
+"name": "Pristimantis symptosus",
+"name_derivation": "No change to original label",
+"original_label": "Pristimantis symptosus",
+"ott_id": 6521449,
+"parent": 911396,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/SCHH8",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu55"
+},
+{
+"adjusted_label": "Niceforonia brunnea",
+"comment": "",
+"name": "Niceforonia brunnea",
+"name_derivation": "No change to original label",
+"original_label": "Niceforonia brunnea",
+"ott_id": 6521450,
+"parent": 3620193,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/47CDC",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu7"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
