@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-02T04:53:23.004Z",
+"id": "additions-6521422-6521422",
+"new_ottids_required": 1,
+"study_id": "ot_2275",
+"taxa": [
+{
+"adjusted_label": "Isoscella",
+"comment": "",
+"name": "Isoscella",
+"name_derivation": "No change to original label",
+"original_label": "Isoscella",
+"ott_id": 6521422,
+"parent": 244455,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.18473/lepi.71i2.a4",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu284"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
