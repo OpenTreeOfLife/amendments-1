@@ -1,0 +1,184 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-02T05:23:23.891Z",
+"id": "additions-6521423-6521432",
+"new_ottids_required": 10,
+"study_id": "ot_3187",
+"taxa": [
+{
+"adjusted_label": "Mammillaria columbiana subsp. yucatanensis",
+"comment": "",
+"name": "Mammillaria columbiana subsp. yucatanensis",
+"name_derivation": "No change to original label",
+"original_label": "Mammillaria columbiana subsp. yucatanensis",
+"ott_id": 6521423,
+"parent": 291141,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu13"
+},
+{
+"adjusted_label": "Mammillaria petrophila subsp. arida",
+"comment": "",
+"name": "Mammillaria petrophila subsp. arida",
+"name_derivation": "No change to original label",
+"original_label": "Mammillaria petrophila subsp. arida",
+"ott_id": 6521424,
+"parent": 184076,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu21"
+},
+{
+"adjusted_label": "Mammillaria wrightii subsp. wilcoxii",
+"comment": "",
+"name": "Mammillaria wrightii subsp. wilcoxii",
+"name_derivation": "No change to original label",
+"original_label": "Mammillaria wrightii subsp. wilcoxii",
+"ott_id": 6521425,
+"parent": 860455,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu42"
+},
+{
+"adjusted_label": "Cochemiea albicans",
+"comment": "",
+"name": "Cochemiea albicans",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Mammillaria slevinii",
+"ott_id": 6521426,
+"parent": 226780,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu52"
+},
+{
+"adjusted_label": "Cochemiea bullardiana",
+"comment": "",
+"name": "Cochemiea bullardiana",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Mammillaria bullardiana",
+"ott_id": 6521427,
+"parent": 226780,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu57"
+},
+{
+"adjusted_label": "Cochemiea blossfeldiana subsp. rectispina",
+"comment": "",
+"name": "Cochemiea blossfeldiana subsp. rectispina",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Cochemiea blossfeldiana rectispina",
+"ott_id": 6521428,
+"parent": 133349,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu60"
+},
+{
+"adjusted_label": "Cochemiea estebanensis",
+"comment": "",
+"name": "Cochemiea estebanensis",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Mammillaria estebanensis",
+"ott_id": 6521429,
+"parent": 226780,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu64"
+},
+{
+"adjusted_label": "Cochemiea sheldonii",
+"comment": "",
+"name": "Cochemiea sheldonii",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Mammillaria sheldonii",
+"ott_id": 6521430,
+"parent": 226780,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu65"
+},
+{
+"adjusted_label": "Cochemiea palmeri",
+"comment": "",
+"name": "Cochemiea palmeri",
+"name_derivation": "No change to original label",
+"original_label": "Cochemiea palmeri",
+"ott_id": 6521431,
+"parent": 226780,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu73"
+},
+{
+"adjusted_label": "Cochemiea angelensis",
+"comment": "",
+"name": "Cochemiea angelensis",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Mammillaria angelensis",
+"ott_id": 6521432,
+"parent": 226780,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu74"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
