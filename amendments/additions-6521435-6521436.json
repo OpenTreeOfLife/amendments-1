@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-02T06:39:15.293Z",
+"id": "additions-6521435-6521436",
+"new_ottids_required": 2,
+"study_id": "ot_3193",
+"taxa": [
+{
+"adjusted_label": "Notelaea austrocaledonica var. badula",
+"comment": "",
+"name": "Notelaea austrocaledonica var. badula",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Osmanthus austrocaledonicus subsp. badula",
+"ott_id": 6521435,
+"parent": 1097731,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/CDPVT",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu24"
+},
+{
+"adjusted_label": "Notelaea austrocaledonica var. collina",
+"comment": "",
+"name": "Notelaea austrocaledonica var. collina",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Osmanthus austrocaledonicus subsp. collinus",
+"ott_id": 6521436,
+"parent": 1097731,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/CDPVV",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu23"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
