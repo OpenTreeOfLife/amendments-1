@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-02T06:26:35.954Z",
+"id": "additions-6521433-6521434",
+"new_ottids_required": 2,
+"study_id": "ot_3191",
+"taxa": [
+{
+"adjusted_label": "Crangonyx pseudoephemerus",
+"comment": "",
+"name": "Crangonyx pseudoephemerus",
+"name_derivation": "No change to original label",
+"original_label": "Crangonyx pseudoephemerus",
+"ott_id": 6521433,
+"parent": 319351,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/zootaxa.4691.4.1",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu40"
+},
+{
+"adjusted_label": "Crangonyx ephemerus",
+"comment": "",
+"name": "Crangonyx ephemerus",
+"name_derivation": "No change to original label",
+"original_label": "Crangonyx ephemerus",
+"ott_id": 6521434,
+"parent": 319351,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.11646/zootaxa.4691.4.1",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu41"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
