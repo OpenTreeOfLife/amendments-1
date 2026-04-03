@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-03T07:43:52.919Z",
+"id": "additions-6521460-6521462",
+"new_ottids_required": 3,
+"study_id": "ot_3205",
+"taxa": [
+{
+"adjusted_label": "Cacajao calvus ucayalii",
+"comment": "",
+"name": "Cacajao ucayalii",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Cacajao calvus ucayalii",
+"ott_id": 6521460,
+"parent": 1058648,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/BSD3J",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu17"
+},
+{
+"adjusted_label": "Saguinus labiatus rufiventer",
+"comment": "",
+"name": "Tamarinus labiatus rufiventer",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Saguinus labiatus rufiventer",
+"ott_id": 6521461,
+"parent": 68899,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/BSD2H",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu44"
+},
+{
+"adjusted_label": "Alouatta puruensis",
+"comment": "",
+"name": "Alouatta seniculus puruensis",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Alouatta seniculus puruensis",
+"ott_id": 6521462,
+"parent": 791699,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/5FJ8X",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu97"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
