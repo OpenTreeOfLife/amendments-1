@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-03T07:34:53.294Z",
+"id": "additions-6521459-6521459",
+"new_ottids_required": 1,
+"study_id": "ot_3204",
+"taxa": [
+{
+"adjusted_label": "Cirrhilabrus aquamarinus",
+"comment": "",
+"name": "Cirrhilabrus aquamarinus",
+"name_derivation": "No change to original label",
+"original_label": "Cirrhilabrus aquamarinus",
+"ott_id": 6521459,
+"parent": 195610,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/D5C8J",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu187"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
