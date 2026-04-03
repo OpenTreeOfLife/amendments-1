@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-03T07:15:17.055Z",
+"id": "additions-6521456-6521458",
+"new_ottids_required": 3,
+"study_id": "ot_3203",
+"taxa": [
+{
+"adjusted_label": "Priscosiren atlantica",
+"comment": "",
+"name": "Priscosiren atlantica",
+"name_derivation": "No change to original label",
+"original_label": "Priscosiren atlantica",
+"ott_id": 6521456,
+"parent": 6144098,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/SC2T5",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu14"
+},
+{
+"adjusted_label": "Myorycteropus africanus",
+"comment": "",
+"name": "Myorycteropus africanus",
+"name_derivation": "No change to original label",
+"original_label": "Myorycteropus africanus",
+"ott_id": 6521457,
+"parent": 3607164,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.mindat.org/taxon-9622774.html",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu23"
+},
+{
+"adjusted_label": "Oligorhynchocyon songwensis",
+"comment": "",
+"name": "Oligorhynchocyon songwensis",
+"name_derivation": "No change to original label",
+"original_label": "Oligorhynchocyon songwensis",
+"ott_id": 6521458,
+"parent": 604022,
+"rank": "species",
+"sources": [
+{
+"source": "http://dx.doi.org/10.1080/08912963.2021.1938565",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu27"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
