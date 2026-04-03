@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-03T04:40:47.458Z",
+"id": "additions-6521454-6521455",
+"new_ottids_required": 2,
+"study_id": "ot_3202",
+"taxa": [
+{
+"adjusted_label": "Pseudochorthippus parallelus erythropus",
+"comment": "",
+"name": "Pseudochorthippus parallelus erythropus",
+"name_derivation": "No change to original label",
+"original_label": "Pseudochorthippus parallelus erythropus",
+"ott_id": 6521454,
+"parent": 7902203,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/5KQGH",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu6"
+},
+{
+"adjusted_label": "Pseudochorthippus parallelus parallelus",
+"comment": "",
+"name": "Pseudochorthippus parallelus parallelus",
+"name_derivation": "No change to original label",
+"original_label": "Pseudochorthippus parallelus parallelus",
+"ott_id": 6521455,
+"parent": 7902203,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/5KQGJ",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu7"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
