@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-03T04:26:13.832Z",
+"id": "additions-6521451-6521453",
+"new_ottids_required": 3,
+"study_id": "ot_3201",
+"taxa": [
+{
+"adjusted_label": "Amphisbaena longinqua",
+"comment": "",
+"name": "Amphisbaena longinqua",
+"name_derivation": "No change to original label",
+"original_label": "Amphisbaena longinqua",
+"ott_id": 6521451,
+"parent": 169471,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/87NQB",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu51"
+},
+{
+"adjusted_label": "Amphisbaena mongoyo",
+"comment": "",
+"name": "Amphisbaena mongoyo",
+"name_derivation": "No change to original label",
+"original_label": "Amphisbaena mongoyo",
+"ott_id": 6521452,
+"parent": 169471,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/87NQG",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu53"
+},
+{
+"adjusted_label": "Amphisbaena elbakyanae",
+"comment": "",
+"name": "Amphisbaena elbakyanae",
+"name_derivation": "No change to original label",
+"original_label": "Amphisbaena elbakyanae",
+"ott_id": 6521453,
+"parent": 169471,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/8KPLZ",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu69"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
