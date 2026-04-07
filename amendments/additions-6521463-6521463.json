@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-07T05:42:43.322Z",
+"id": "additions-6521463-6521463",
+"new_ottids_required": 1,
+"study_id": "ot_3220",
+"taxa": [
+{
+"adjusted_label": "Archaeoglobus neptunius",
+"comment": "",
+"name": "Archaeoglobus neptunius",
+"name_derivation": "No change to original label",
+"original_label": "Archaeoglobus neptunius",
+"ott_id": 6521463,
+"parent": 995,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.catalogueoflife.org/data/taxon/CRLTQ",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu6"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
