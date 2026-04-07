@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "joshuasunite@gmail.com",
+"login": "TheSensinator",
+"name": "TheSensinator"
+},
+"date_created": "2026-04-07T06:00:51.598Z",
+"id": "additions-6521464-6521465",
+"new_ottids_required": 2,
+"study_id": "ot_3222",
+"taxa": [
+{
+"adjusted_label": "Rhodelphis mylnikovii",
+"comment": "",
+"name": "Rhodelphis mylnikovii",
+"name_derivation": "Typo in original label",
+"original_label": "Rhodelphis mylnikovi",
+"ott_id": 6521464,
+"parent": 7527345,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.algaebase.org/search/species/detail/?species_id=196048",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu3"
+},
+{
+"adjusted_label": "Rhodelphis edaphicus",
+"comment": "",
+"name": "Rhodelphis edaphicus",
+"name_derivation": "No change to original label",
+"original_label": "Rhodelphis edaphicus",
+"ott_id": 6521465,
+"parent": 7527345,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
