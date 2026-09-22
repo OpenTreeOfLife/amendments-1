@@ -1,0 +1,99 @@
+{
+"curator": {
+"email": "ANONYMOUS",
+"login": "JimmyKChoi",
+"name": "JimmyKChoi"
+},
+"date_created": "2026-09-22T15:29:08.074Z",
+"id": "additions-6521466-6521470",
+"new_ottids_required": 5,
+"study_id": "ot_3245",
+"taxa": [
+{
+"adjusted_label": "Cyanogaster noctivaga",
+"comment": "",
+"name": "Cyanogaster noctivaga",
+"name_derivation": "Typo in original label",
+"original_label": "cyanogaster noctivaga70148",
+"ott_id": 6521466,
+"parent": 7065215,
+"rank": "species",
+"sources": [
+{
+"source": "https://bv.fapesp.br/en/publicacao/72744/cyanogaster-noctivaga-a-remarkable-new-genus-and-species-of/",
+"source_type": "Link (DOI) to publication"
+}
+],
+"tag": "otu122"
+},
+{
+"adjusted_label": "Holopristis aguaruna",
+"comment": "",
+"name": "Holopristis aguaruna",
+"name_derivation": "Label is a synonym",
+"original_label": "hemigrammus aguaruna",
+"ott_id": 6521467,
+"parent": 440388,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.fishbase.se/summary/Holopristis_aguaruna.html",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu157"
+},
+{
+"adjusted_label": "Hemigrammus collettii",
+"comment": "",
+"name": "Hemigrammus collettii",
+"name_derivation": "Label is a synonym",
+"original_label": "moenkhausia colleti83468",
+"ott_id": 6521468,
+"parent": 440388,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.fishbase.se/summary/Hemigrammus_collettii.html",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu226"
+},
+{
+"adjusted_label": "Ctenobrycon kennedyi",
+"comment": "",
+"name": "Ctenobrycon kennedyi",
+"name_derivation": "Label is a synonym",
+"original_label": "pselogrammus kennedyi",
+"ott_id": 6521469,
+"parent": 857308,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.fishbase.se/summary/Ctenobrycon_kennedyi.html",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu297"
+},
+{
+"adjusted_label": "Brachyalestes opisthotaenia",
+"comment": "",
+"name": "Brachyalestes opisthotaenia",
+"name_derivation": "Label is a synonym",
+"original_label": "brycinus opithotaenia",
+"ott_id": 6521470,
+"parent": 7064693,
+"rank": "species",
+"sources": [
+{
+"source": "https://www.fishbase.se/summary/Brachyalestes_opisthotaenia.html",
+"source_type": "Link to online taxonomy"
+}
+],
+"tag": "otu52"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
