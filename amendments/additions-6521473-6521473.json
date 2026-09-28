@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS",
+"login": "juramaia98",
+"name": "juramaia98"
+},
+"date_created": "2026-09-28T14:16:59.201Z",
+"id": "additions-6521473-6521473",
+"new_ottids_required": 1,
+"study_id": "ot_3246",
+"taxa": [
+{
+"adjusted_label": "Hipposideros srilankaensis",
+"comment": "",
+"name": "Hipposideros srilankaensis",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Hip sp nov TK112",
+"ott_id": 6521473,
+"parent": 113364,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu40"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
