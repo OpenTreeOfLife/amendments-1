@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ANONYMOUS",
+"login": "juramaia98",
+"name": "juramaia98"
+},
+"date_created": "2026-09-28T14:15:13.968Z",
+"id": "additions-6521472-6521472",
+"new_ottids_required": 1,
+"study_id": "ot_3246",
+"taxa": [
+{
+"adjusted_label": "Hipposideros brachyotus",
+"comment": "",
+"name": "Hipposideros brachyotus",
+"name_derivation": "Taxon subsequently published under this name",
+"original_label": "Hip gal K49",
+"ott_id": 6521472,
+"parent": 113364,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu37"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
