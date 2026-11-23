@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2026-11-23T21:16:31.888Z",
+"id": "additions-6521475-6521475",
+"new_ottids_required": 1,
+"study_id": "ot_3307",
+"taxa": [
+{
+"adjusted_label": "eptesicus bottae",
+"comment": "Taxonomy in flux, but old spp \nEptesicus bottae non monophyletic per, Agnarsson 2011.",
+"name": "Eptesicus bottae bottae",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "eptesicus bottae",
+"ott_id": 6521475,
+"parent": 1055363,
+"rank": "subspecies",
+"sources": [
+{
+"source": " Eptesicus bottae",
+"source_type": "Other"
+}
+],
+"tag": "otu1307"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
