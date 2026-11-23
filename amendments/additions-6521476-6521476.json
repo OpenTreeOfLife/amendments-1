@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2026-11-23T23:02:26.540Z",
+"id": "additions-6521476-6521476",
+"new_ottids_required": 1,
+"study_id": "ot_1990",
+"taxa": [
+{
+"adjusted_label": "Plecotus teneriffae",
+"comment": "Type subspecies is missing, while other subspecies are present in taxonomy.",
+"name": "Plecotus teneriffae teneriffae",
+"name_derivation": "Other (explain in comments below)",
+"original_label": "Plecotus teneriffae VESPERTILIONIDAE CHIROPTERA",
+"ott_id": 6521476,
+"parent": 264117,
+"rank": "subspecies",
+"sources": [
+{
+"source": "https://www.eurobats.org/species/plecotus-teneriffae",
+"source_type": "Other"
+}
+],
+"tag": "otu1658"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
